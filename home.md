@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2022-12-02T21:09:50.260Z
+date: 2022-12-02T21:17:11.096Z
 tags: 
 editor: markdown
 ---
@@ -193,3 +193,7 @@ We kunnen naar de [Inn at the End of the Road](location/innattheendoftheroad). W
 We gaan door, en zien een heuvel verschijnen. We ruiken een zoete fruitige geur. De bomen heten ons welkom en wijzen ons de weg naar het hol van Jingle Jangle. Zijn master key is meegenomen door de konijnen, en zijn truffels ook. De konijnen van de bandietenprins. Pavlorna heeft zijn angst om een sleutel niet te hebben. 
 
 Naggok hoort weer een stem. Die informeert over wat er vandaag gevonden is. De bomen zouden ons verder kunnen helpen met de sleutel. Arutha raadt hem aan vervolgens de stem te negeren, we weten niet of ze goed of slecht zijn. 
+
+De bomen vertellen over de [Watcher](npc/watcher), een orakel dat in [Log Current](location/logcurrent) woont.
+
+We overnachten op Telemy Hill. 
