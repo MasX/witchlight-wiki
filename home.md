@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2022-12-02T20:47:46.396Z
+date: 2022-12-02T21:09:50.260Z
 tags: 
 editor: markdown
 ---
@@ -190,4 +190,6 @@ Naggok slaapt op de bank en Elmar spint hangmatten voor de rest. In de nacht gaa
 De stew die we krijgen bevat uiltjes. 
 We kunnen naar de [Inn at the End of the Road](location/innattheendoftheroad). We verlaten de toren, en Elmar helpt ons een breder stuk water over. We volgen een warm gevoel dat Aelar voelt en komen aan bij een o-well. Er spartelt iets in. Aelar stuurt een uil-familiar erop af. Het is een Dretch Demon. De wereld warpt naar een wereld uit sylhouetten. We zien 5 andere sylhouetten, waarvan er 2 aan het lachen zijn en eentje een vrouwelijke mensachtige lijkt haar magie kwijt te zijn, mogelijk heet ze Natasha. Finnaes laat vlammen in haar hand verschijnen met prestidigitation. De wereld verandert weer terug en er valt een edelsteen uit de lucht. De demon is weg. Er zit een rune in verwerkt, waarschijnlijk iets necromancy en/of abjuration. Het lijkt iets te bevatten. Het doet ons denken een omgekeerde philactery van Baba Yaga, om de ziel van een lich heel te maken. 
 
-We gaan door, en zien een heuvel verschijnen. We ruiken een zoete fruitige geur. De bomen heten ons welkom en wijzen ons de weg naar het hol van Jingle Jangle. Zijn master key is meegenomen door de konijnen, en zijn truffels ook.
+We gaan door, en zien een heuvel verschijnen. We ruiken een zoete fruitige geur. De bomen heten ons welkom en wijzen ons de weg naar het hol van Jingle Jangle. Zijn master key is meegenomen door de konijnen, en zijn truffels ook. De konijnen van de bandietenprins. Pavlorna heeft zijn angst om een sleutel niet te hebben. 
+
+Naggok hoort weer een stem. Die informeert over wat er vandaag gevonden is. De bomen zouden ons verder kunnen helpen met de sleutel. Arutha raadt hem aan vervolgens de stem te negeren, we weten niet of ze goed of slecht zijn. 
