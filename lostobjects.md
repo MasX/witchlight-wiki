@@ -2,7 +2,7 @@
 title: Verloren zaken
 description: Zaken gaan verlopen op het Witchland festival...
 published: true
-date: 2022-12-02T21:10:34.852Z
+date: 2022-12-02T21:11:10.988Z
 tags: verloren, lost
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 | Sir Talivar | Zybilna | |
 | Elmar de Ettercap | zijn duimen | |
 | Jingle Jangle | meestersleutel | 3 dagen voor Sessie 7 |
-| Jingle Jangle | truffels | 3 dagen voor Sessie 7
+| Jingle Jangle | truffels | 3 dagen voor Sessie 7 |
 
 
 # Teruggevonden zaken
