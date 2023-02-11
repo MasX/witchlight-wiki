@@ -2,9 +2,10 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2022-12-02T21:17:11.096Z
+date: 2023-02-11T12:48:53.448Z
 tags: 
 editor: markdown
+dateCreated: 2023-02-11T12:22:01.403Z
 ---
 
 # 2022-08-27 sessie 1
@@ -197,3 +198,35 @@ Naggok hoort weer een stem. Die informeert over wat er vandaag gevonden is. De b
 De bomen vertellen over de [Watcher](npc/watcher), een orakel dat in [Log Current](location/logcurrent) woont.
 
 We overnachten op Telemy Hill. 
+
+# 2022-12-12 Sessie 8
+Als we wakker worden gaan we op zoek naar eten. We vinden het een en ander, waaronder een zonsopkomst-bloem. Sunriseflower, blijft licht geven na plukken. Smaakt naar kruidige honing. Een dag of 2-3 aan voedsel. Naggok eet een stuk bloem.
+We komen ook drie kleurige kikkers tegen. We jammen wat met ze. We mogen nu 1x de jump spell doen.
+
+We zien bellen opstijgen, maar er zit niemand in. We stappen erin en vliegen een stuk verder, over een rivier heen.
+De konijnenprins verschijnt. Hij heeft Naggoks zonnenbril gestolen.
+
+Rabbits zijn hebzuchtig, snel afgeleid, en ook snel afgeleid door rabbits van het andere geslacht.
+
+We gaan terug, naar een oh-well, om ondergronds naar de konijnenprins te komen. Helaas slagen we er niet in op tijd omhoog te gaan, en komen uit bij een verkeerde oh-well. Er zit daar een gelatenous cube, met een schedel er in, die praat tegen ons. Hij weet ons te vertellen dat de konijnenprins gestrafd is door Zybilna, en hij werd aan zijn lange shawl aan de boom gehangen, aan een gouden spijker.
+Arutha ruilt een ballon voor een immovable rod met de cube.
+
+# 2022-12-30 Sessie 9
+<!-- Louise ziek -->
+We springen de buis weer in. Het lukt ons met moeite en wat acrobatiek om bij de juiste buis uit te komen. We klimmen eruit en zien een Dryad, een boomgeest. We geven haar water. Ze stelt zich voor als Timalien (?). "Achdon, de prins, is niet goed!" Er zit iets in de grond dat niet goed is. We moeten goed water regelen. Ze wijst ons een deur. We komen uit in een konijnenslaapruimte.
+We openen een andere ruimte, waar ze zo vriendelijk zijn om ons de weg te wijzen.
+We komen aan in de ruimte van Achdon, waar een gevecht losbarst. We overmeesteren hem en dwingen hem ons te vertellen waar Zybilna is en waarom het water zo vies is. Hij vertelt ons dat we de trap naar beneden moeten, we nemen hem vastgebonden mee. Die leidt naar de wortels van de boom. Het water is er nog viezer dan bij de put. Er ligt een stapel munten, beschermd door een zwarte draak, Xaratar. Hij wil liever wonen in Downfall, hij zit hier nu maar tijdelijk. Op de plek van Pavlorna.
+We gaan terug naar boven en openen de schatkist van de ondertussen bewusteloze Achdon. Er zit een hele mooie speciale sleutel in, een zakje met truffels (niet helemaal vol), een kaars, een tekening van een oude vrouw die er akelig en kikkerachtig uitziet en een monocle.
+We nemen Achdon onopvallend mee naar buiten.
+
+# 2023-01-19 Sessie 10
+Onderweg naar Jingle Jangle worden we in de gaten gehouden door ratten. Arutha en Aelar doden er eentje en jagen de rest weg. Verderop horen we de doedelzakspelende konijnen. We verstoppen ons. We moeten Achdon helaas onder water dompelen om hem stil te krijgen. De draak komt er aan te komen. Hij lijkt op zoek naar Larsaloream, eigenlijk Aelar. We vallen de draak aan. Aelar en Naggok gaan twee keer knock-out maar worden gered. De draak vliegt weg, en de konijnen komen er aan. Ze slaan Arutha knock-out en vinden het dode lichaam van Achdon. We worden teruggebracht naar het konijnenkamp door Derdar, Vilol en Shafiel. Felixa is nu de leider. Naggok wordt wakker, maar doet succesvol alsof hij nog knocked-out is. Finnaes wordt naar Felixia gebracht. Ze geeft ons de keuze om of aan de draak gevoerd te worden, of naar Downfall gestuurd worden.  
+Arutha en Naggok worden apart gehouden en Aelar zit in een opslagruimte. Arutha en Naggok beginnen te vechten en worden neergeslagen en vastgebonden.
+
+# 2023-01-27 Sessie 11
+Aelar hoort dat we aan Slackjawed Lorna, de hag, overgedragen worden. Lorna had Achdon bevrijd. In Downfall is het Soggy Court, je moet daar heel beleefd zijn, anders verlies je je hoofd. Kom niet te dicht bij de pratende boom.
+We vertrekken op twee gigantische slakken. Naggok hangt aan een stok gedragen door twee konijnen en wordt wakkergepord door een derde. Arutha heeft een prop in z'n mond, maar Aelar overtuigt de konijnen om goed te laten ademen. De draak komt aanvliegen. We maken elkaar los en proberen de draak te overtuigen om Felixa te kiezen. Er komt een stuk armour kijken dat Aelar nadoet. We vechten met de draak en Naggok knijpt hem stuk. We sluiten een deal met de konijnen, ze gaan ons met rust laten, we krijgen onze spullen terug, en krijgen de eerste keuze uit de dragon's hoard. Na een hoop overleg gaat een deel van de groep mee terug naar Brigands Tollway, zodat wij ons deel uit de hoard kunnen opeisen.
+
+We vinden daar een fles met lichtgevende wormen, een bril zonder glas in de vorm van een vlinder, een stemvork, een verfborstel uit keramiek (inclusief de haren), leren container met een spell scroll (water ademen voor 10p) erin, een scale-achtige zwarte bracelet met een abjuration-achtig aura. Die geeft advantage op saves tegen charms of frights.
+
+Lv 3!
