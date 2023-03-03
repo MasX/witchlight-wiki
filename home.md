@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-03-03T21:37:54.823Z
+date: 2023-03-03T21:40:35.999Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -271,6 +271,6 @@ Iets verder zien we een gazebo op poten. Er komt rook uit de balonnenfabriek. Hu
 We gaan richting de koning en komen over een brug, met bullywookhoofden op staken ernaast. De hoofden praten met elkaar. Het zijn waarschijnlijk ex-koningen. Halverwege de brug zit een soort scarecrow, met kalebas als hoofd. Hij is zijn hoofd kwijt geraakt aan konijnen, het was een groots gewei. Toevallig hebben we vorige sessie een gewei helpen ophangen bij de konijnen. Er lijkt iets in de kalebas te zitten. Hij heet Clapperclaw, uit Tither. Granny Nightshade, in Loomlurch in Tither, heeft hele goede houdsnijskills, mogelijk die van Aelar. 
 We gaan verder richting de gazebo. Die ziet er van dichterbij toch niet zo heel goed uit. Er zijn heel veel kikkers, en een aantal krokodillen. Er komt een humanoid tevoorschijn, een magier genaamd Zargash. Finnaes krijgt een briefje toegestopt dat een revolutie komende is. Het komt van Illig, die verder wil praten bij een hut verderop. 
 
-We mogen alleen met Pavlorna spreken als we onderdeel worden van de Soggy Court, en een boek teruggeven wat waarschijnlijk gejat is. 
+We mogen alleen met Pavlorna spreken als we onderdeel worden van de Soggy Court, en een boek (Big Book of Bad Blood) teruggeven wat waarschijnlijk gejat is. 
 
 We kunnen de boot vinden bij het zinkende paleis. 
