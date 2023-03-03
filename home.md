@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-02-11T12:48:53.448Z
+date: 2023-03-03T20:30:38.587Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -230,3 +230,42 @@ We vertrekken op twee gigantische slakken. Naggok hangt aan een stok gedragen do
 We vinden daar een fles met lichtgevende wormen, een bril zonder glas in de vorm van een vlinder, een stemvork, een verfborstel uit keramiek (inclusief de haren), leren container met een spell scroll (water ademen voor 10p) erin, een scale-achtige zwarte bracelet met een abjuration-achtig aura. Die geeft advantage op saves tegen charms of frights.
 
 Lv 3!
+
+
+# 2023-02-09 Sessie 12
+<!-- Coen afwezig -->
+<!--  Mountain Rune. This rune holds the strength of the bones of the earth itself. While wearing or carrying an object inscribed with this rune, you have advantage on ability checks and saving throws to resist being knocked prone or moved against your will, and you gain tremorsense out to 10 feet.
+
+In addition, you may invoke this rune as a reaction to taking damage, reducing the damage by 1d10 + your fighter level. Once you have invoked this rune, you may not do so again until you have finished a short or long rest.
+Performance ++
+Sylvan -->
+
+
+Finnaes wordt als eerste wakker. De konijnen zijn ook al op. Er is een groot konijn bij, Ozzy. Hij mist een halve tand. Hij brengt ons een kist met het volgende:
+
+
+
+toevoegen:
+Bagpipe with additional holes
+Flask of spectral glowworms that change color to reflect the mood of the flask’s holder
+Hematite gem (10 gp)
+Random looking combination of used tools
+Unraveling bag of coins (2 gp, 182 sp, 247 cp)
+
+
+
+We gaan onderweg naar Jingle Jangle, bij Telemy Hill. Naggok betuigt spijt van het laten verdrinken van Achdon. Arutha heeft een drakentand om z'n nek hangen. Hij vertelt over zn rare droom over de draak die niet dood wilde. We overnachten in bomen, waarin hij in Sylvan zingt en vraagt of ze hem vanaf nu koning Huggok willen noemen.
+Arutha slaapt slecht. De draak valt hem lastig. 's Morgens zien we de draak verschijnen. Hij lijkt naar Arutha te luisteren. Hij oogt niet bijzonder gezond.
+Arutha verzekert Huggok ervan dat hij niet schuldig is aan de dood van Achdon. Is Huggok nou iets groter en hariger dan gisteren? Finnaes vrolijkt ons op met allerlij magie.
+We komen aan bij Telemy Hill. Huggok geeft de bomen een knuffel, ze zijn nog steeds irritant. We gaan naar Jingle Jangle. Sir Talivar is al weg, terug naar huis, hij had het over een koningin en een court. Hij heeft zijn (kleine) zwaard, eigenlijk een dagger, Brave Dirk, achtergelaten.  We mogen Jingle Jangles sleutel houden, op voorwaarde dat we hem terugbrengen en alle andere sleutels die we vinden naar hem brengen. We laten de tekening van Slackjaw Lorna achter.
+De bomen op Telemy Hill wijzen ons naar een stille boot, een soort vlot. De draak heeft er eentje gevonden, maar hij zit nog vast, en de draak zit erop. Na wat gesteggel gaat hij eraf en kunne we het vlot op. We maken vaart, Huggok paddlet en Arutha wijst de weg. Arutha ziet een kikker-Hag in het water badderen. Finnaes ziet een ander raar beest, ook een hag? Het zet een kalebas op z'n hoofd. Ze horen stemmen: "ga weg, blijf weg, laat ons met rust!", hoge piepstemmen. We weten niet precies wat er praat. We varen door. We komen langs een andere boom waar we dezelfde stemmen horen. Het zijn hagedisjes met fluoriserende gekleurde strepen. Als we dichterbij komen verdwijnen de hagedissen in bubbels. We zoeken eten, Arutha vindt suikerspinmist, wat paddestoelen en wat bessen. Aelar ziet nog een heksachtig figuur, met een cape, waarbij de schaduw een andere kant oploopt. 
+
+De volgende dag paddelen we verder.
+Verderop zien we beweging, groene gewebte poten. De bullywook lijkt te verdrinken in drijfzand, dus Huggok springt hem achterna. Er gaat niet nog iemand verdrinken! Hij gooit hem op het droge, en dankzij een hulk-out en de immovable rod komt iedereen weer op het droge. Sir Giovanni of Hither. Als we hem roepen springt hij te hulp. Hij kan ons overal horen, maar misschien onderschat hij zichzelf een beetje. We gaan verder, maar hij lijkt ons te volgen. We komen aan bij een meer waar we bullywooks een roeiboot zien bemannen.
+
+
+# 2023-03-03 Sessie 13
+De bullywooks komen onze richting op. We kondigen ons aan als de Monarch en co. Ze verwelkomen ons om naar hun koning te gaan, Gollup de 19e. We meren aan. We zien een grote balon, van het type dat we al een keer in de toren gezien hebben. Ealyvia klimt een instabiele ladder op om de ballon te menden. Dat lukt, maar wel met enige paniek. 
+We gaan over een paadje van stenen in het water. Eentje vindt het niet leuk dat we over hem heenlopen... De rest begint ook te bewegen, maar we zijn aan de overkant. 
+Iets verder zien we een gazebo op poten. Er komt rook uit de balonnenfabriek. Huggok roept Giovanni, die komt aangesneld, en we beginnen met emmers halen om te blussen. In het gebouw lopen veel kleine brandende gniffelende kooltjes rond. We blussen ze. Duke Ickrind komt "helpen", weet ons te vertellen dat vuur en water niet goed samen gaan, en gooit twee maal een emmer water over Aelar. Hij vertelt dat de uitbrekers de balonnenfabriek in de fik hebben gestoken. Wigglewok & Morgort hebben geholpen Sir Talivar te laten ontsnappen. Morgort wisten ze nog te pakken, Wigglewok is te grazen genomen bij de toren, weten wij... Hij geeft ons een bronzen vlieg die een beetje trilt, een soort broche. Huggok steekt hem in z'n schouder. 
+
