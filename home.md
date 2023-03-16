@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-03-03T21:40:35.999Z
+date: 2023-03-16T20:59:18.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -265,12 +265,20 @@ Verderop zien we beweging, groene gewebte poten. De bullywook lijkt te verdrinke
 
 
 # 2023-03-03 Sessie 13
-De bullywooks komen onze richting op. We kondigen ons aan als de Monarch en co. Ze verwelkomen ons om naar hun koning te gaan, Gollup de 19e. We meren aan. We zien een grote balon, van het type dat we al een keer in de toren gezien hebben. Ealyvia klimt een instabiele ladder op om de ballon te menden. Dat lukt, maar wel met enige paniek. 
+De bullywooks komen onze richting op. We kondigen ons aan als de Monarch en co. Ze verwelkomen ons om naar hun koning te gaan, Gollup de 19e. We meren aan. We zien een grote ballon, van het type dat we al een keer in de toren gezien hebben. Ealyvia klimt een instabiele ladder op om de ballon te menden. Dat lukt, maar wel met enige paniek. 
 We gaan over een paadje van stenen in het water. Eentje vindt het niet leuk dat we over hem heenlopen... De rest begint ook te bewegen, maar we zijn aan de overkant. 
-Iets verder zien we een gazebo op poten. Er komt rook uit de balonnenfabriek. Huggok roept Giovanni, die komt aangesneld, en we beginnen met emmers halen om te blussen. In het gebouw lopen veel kleine brandende gniffelende kooltjes rond. We blussen ze. Duke Ickrind komt "helpen", weet ons te vertellen dat vuur en water niet goed samen gaan, en gooit twee maal een emmer water over Aelar. Hij vertelt dat de uitbrekers de balonnenfabriek in de fik hebben gestoken. Wigglewok & Morgort hebben geholpen Sir Talivar te laten ontsnappen. Morgort wisten ze nog te pakken, Wigglewok is te grazen genomen bij de toren, weten wij... Hij geeft ons een bronzen vlieg die een beetje trilt, een soort broche. Huggok steekt hem in z'n schouder. 
+Iets verder zien we een gazebo op poten. Er komt rook uit de ballonnenfabriek. Huggok roept Giovanni, die komt aangesneld, en we beginnen met emmers halen om te blussen. In het gebouw lopen veel kleine brandende gniffelende kooltjes rond. We blussen ze. Duke Ickrind komt "helpen", weet ons te vertellen dat vuur en water niet goed samen gaan, en gooit twee maal een emmer water over Aelar. Hij vertelt dat de uitbrekers de balonnenfabriek in de fik hebben gestoken. Wigglewok & Morgort hebben geholpen Sir Talivar te laten ontsnappen. Morgort wisten ze nog te pakken, Wigglewok is te grazen genomen bij de toren, weten wij... Hij geeft ons een bronzen vlieg die een beetje trilt, een soort broche. Huggok steekt hem in z'n schouder. 
 We gaan richting de koning en komen over een brug, met bullywookhoofden op staken ernaast. De hoofden praten met elkaar. Het zijn waarschijnlijk ex-koningen. Halverwege de brug zit een soort scarecrow, met kalebas als hoofd. Hij is zijn hoofd kwijt geraakt aan konijnen, het was een groots gewei. Toevallig hebben we vorige sessie een gewei helpen ophangen bij de konijnen. Er lijkt iets in de kalebas te zitten. Hij heet Clapperclaw, uit Tither. Granny Nightshade, in Loomlurch in Tither, heeft hele goede houdsnijskills, mogelijk die van Aelar. 
-We gaan verder richting de gazebo. Die ziet er van dichterbij toch niet zo heel goed uit. Er zijn heel veel kikkers, en een aantal krokodillen. Er komt een humanoid tevoorschijn, een magier genaamd Zargash. Finnaes krijgt een briefje toegestopt dat een revolutie komende is. Het komt van Illig, die verder wil praten bij een hut verderop. 
+We gaan verder richting de gazebo. Die ziet er van dichterbij toch niet zo heel goed uit. Er zijn heel veel kikkers, en een krokodil, Snoodel. Er komt een humanoid tevoorschijn, genaamd Zargash. Hij fluistert dat hij ons gezien heeft in de tent op de kermis. Finnaes krijgt een briefje toegestopt dat een revolutie komende is. Het komt van Illig, die verder wil praten bij een hut verderop. Finnaes maakt dragonhide armor voor Aelar.
 
 We mogen alleen met Pavlorna spreken als we onderdeel worden van de Soggy Court, en een boek (Big Book of Bad Blood) teruggeven wat waarschijnlijk gejat is. 
 
 We kunnen de boot vinden bij het zinkende paleis. 
+
+# 2023-03-16 Sessie 14
+We gaan op zoek naar het hutje van Illig, het heeft een erge gevangenisvibe. We zien een hele gigantische donkerwolk-luchtballon. We zien een hutje eronder, Wonderous Wares and Fair Fares. Vanaf het paleis komt muziek. Een bullywook heeft het over de Proving Grounds. In het hutje zitten twee gevangenen, eentje lijkt angstig. 
+
+De Wonderous Wares ziet er erg haastig opgezet uit. De ene heet Trinket, de ander Bauble. We ruilen hun aangevroten Duskmallow pie met decorative bite marks voor onze dagger (best half). We gaan weer naar buiten en vragen rond naar Illig. We kunnen het best even vragen aan Grundelgans, of Killydeck, die trekken veel op met Illig. We gaan verder op zoek. We horen een fluit die klinkt als de wind, een beetje down, het komt vanuit supersized mushroom. Ons hart slaat er van over, dus we gaan de andere kant op. We horen pesterige stemmetjes vanuit een boom, dus gaan we die kant op, klaar om te vechten. Huggok rent erop af en probeert er eentje te grijpen, maar grijpt in plaats daarvan de boom, die een enorme uithaal maakt. We ontsnappen van de boom, maar nadat Aelar een sprite erin in de fik zet, komt hij los uit de grond en onze kant uit. Het is een Tree Blight. 
+We rennen weg.
+
+We komen aan bij een hutje, waar Illig zich misschien bevindt. Het blijkt een hut vol rotte vis te zijn, daar zijn we snel weer weg. Dan vinden we een hut die net wat mooier is, waarschijnlijk die van de baron, waar Illig is. We kloppen aan, er zijn een aantal bullywoogs, en een horcrux. 
