@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-03-16T20:59:18.403Z
+date: 2023-03-16T21:40:43.016Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -281,4 +281,6 @@ We gaan op zoek naar het hutje van Illig, het heeft een erge gevangenisvibe. We 
 De Wonderous Wares ziet er erg haastig opgezet uit. De ene heet Trinket, de ander Bauble. We ruilen hun aangevroten Duskmallow pie met decorative bite marks voor onze dagger (best half). We gaan weer naar buiten en vragen rond naar Illig. We kunnen het best even vragen aan Grundelgans, of Killydeck, die trekken veel op met Illig. We gaan verder op zoek. We horen een fluit die klinkt als de wind, een beetje down, het komt vanuit supersized mushroom. Ons hart slaat er van over, dus we gaan de andere kant op. We horen pesterige stemmetjes vanuit een boom, dus gaan we die kant op, klaar om te vechten. Huggok rent erop af en probeert er eentje te grijpen, maar grijpt in plaats daarvan de boom, die een enorme uithaal maakt. We ontsnappen van de boom, maar nadat Aelar een sprite erin in de fik zet, komt hij los uit de grond en onze kant uit. Het is een Tree Blight. 
 We rennen weg.
 
-We komen aan bij een hutje, waar Illig zich misschien bevindt. Het blijkt een hut vol rotte vis te zijn, daar zijn we snel weer weg. Dan vinden we een hut die net wat mooier is, waarschijnlijk die van de baron, waar Illig is. We kloppen aan, er zijn een aantal bullywoogs, en een horcrux. 
+We komen aan bij een hutje, waar Illig zich misschien bevindt. Het blijkt een hut vol rotte vis te zijn, daar zijn we snel weer weg. Dan vinden we een hut die net wat mooier is, waarschijnlijk die van de baron Illig is. We kloppen aan, er zijn een aantal bullywoogs, en een horcrux, zoeentje die we gezien hadden bij de duivels die uit de lucht vielen. Hij heeft een soortgelijke steen, een philactery, op zijn voorhoofd als die we al een keer gezien hadden. Het wordt voorgesteld als "externe consultant". Illig is Thierry Baudet in kikkervorm, en bereid een revolutie voor. De koning moet "geprikt" worden, per ongeluk, door te struikelen met een dolk in de hand.  
+
+Aelar en Arutha raken de philactery aan en verdwijnen opeens. Ze zijn in een plek met een troon, er zit een figuur op met een kroon van botten, maar wel een warme uitstraling. Er wordt een gedaante meegesleept en neergegooid. "Weer een die probeerde u te weerstaan, mijn hoogheid". "Als weigeren om te verhongeren rebellie is, dan ben ik...!". Grast slaat hem. Ze is de Witchqueen of Perrnland, en heeft zes vingers. Arutha en Aelar moeten hun oordeel uitspreken, en zijn voor verbanning. "Ik verban u naar de torens van..." en ze zijn weer terug in de hut. De philactery valt op de grond, de horcrux is verdwenen. 
