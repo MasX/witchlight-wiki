@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-03-16T21:40:43.016Z
+date: 2023-04-06T19:29:45.585Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-11T12:22:01.403Z
 
 # 2022-08-27 sessie 1
 We komen aan op het carnival. We betalen 8 SP per persoon en krijgen elfenvleugels erbij. [Naggok](playercharacter/naggok) wil geen kinderkaartje kopen voor Finnaes, hij liegt niet. Finnaes maakt een deal ipv te betalen, en mag de hele dag niet liegen.
-Er is een aap die liedjes zingt over buttons die hij wilt. We geven allemaal een knoop. We gaan naar lost property. Er zit een grote katachtige met elfenvleugels die opgeplakt zijn. Om zijn nek een tonnetje. Er zitten twee kinderen op. [Dirlagraun](npc/dirlagraun) de kat.
+Er is een aap die liedjes zingt over buttons die hij wilt. We geven allemaal een knoop. We gaan naar lost property. Er zit een grote katachtige, een displacerbeast, met elfenvleugels die opgeplakt zijn. Om zijn nek een tonnetje. Er zitten twee kinderen op. [Dirlagraun](npc/dirlagraun) de kat.
 
 [Finnaes](playercharacter/fennaes) is zijn viool [kwijt](lostobjects).
 [Arutha](playercharacter/arutha) zijn papieren.
@@ -284,3 +284,10 @@ We rennen weg.
 We komen aan bij een hutje, waar Illig zich misschien bevindt. Het blijkt een hut vol rotte vis te zijn, daar zijn we snel weer weg. Dan vinden we een hut die net wat mooier is, waarschijnlijk die van de baron Illig is. We kloppen aan, er zijn een aantal bullywoogs, en een horcrux, zoeentje die we gezien hadden bij de duivels die uit de lucht vielen. Hij heeft een soortgelijke steen, een philactery, op zijn voorhoofd als die we al een keer gezien hadden. Het wordt voorgesteld als "externe consultant". Illig is Thierry Baudet in kikkervorm, en bereid een revolutie voor. De koning moet "geprikt" worden, per ongeluk, door te struikelen met een dolk in de hand.  
 
 Aelar en Arutha raken de philactery aan en verdwijnen opeens. Ze zijn in een plek met een troon, er zit een figuur op met een kroon van botten, maar wel een warme uitstraling. Er wordt een gedaante meegesleept en neergegooid. "Weer een die probeerde u te weerstaan, mijn hoogheid". "Als weigeren om te verhongeren rebellie is, dan ben ik...!". Grast slaat hem. Ze is de Witchqueen of Perrnland, en heeft zes vingers. Arutha en Aelar moeten hun oordeel uitspreken, en zijn voor verbanning. "Ik verban u naar de torens van..." en ze zijn weer terug in de hut. De philactery valt op de grond, de horcrux is verdwenen. 
+
+# 2023-04-06 Sessie 15
+We gaan naar de grote ketel met pootjes, ergens aan de rand van de mist. Er liggen kooltjes onder, van het type dat we eerder weggejaagd hebben. Aelar klopt op de ketel, en hoort dat er brokjes inzetten. We tillen de deksel op, maar die lijkt erg vast te zitten. De ketel loopt weg, en de kooltjes beginnen te lopen, het is een Magmin. 
+Hij zegt "wil je erin? wil je erin?". Hij wil ons wel het toverwoord vertellen zodat de ketel open gaat, in ruil voor erg droog hout. We gaan dat hout halen bij Wonderous Wares. 
+Onderweg gaan we eerst langs Octavian Melianne, de blauwachtige elf. Ze speelt fluit. Ze moest altijd denken aan haar verloren liefdes, maar de heks heeft haar daar vanaf geholpen, in ruil voor haar hart. Dat hart was tegen haar zin. Ze heeft een vrouw met een zwarte hoed, een soort heks, bij de heks langs zien gaan, het doet ons denken aan de handelaren van Wonderous Wares, alleen dan zonder hoed. Ze heeft ook kikkers en 3 (gnome?) clowns gezien, maar die kwamen niet terug. 
+We varen langs Clapperclaw terug. Hij heeft Will of the Feywild zien spelen met het katje, Ster, waar we naar opzoek waren. Will is ~11 jaar oud, met een tuniekje aan, hij doet dappere dingen zoals de kinderen bevrijden van Granny Nightshade. Hij heeft de hand van Big Rat (wie?) afgehakt. De vraag is waar Will dat allemaal geleerd heeft... Hij is in Little Oak, een boomhut, in Tither. Granny Nightshade woont in Loomlurch. Clapperclaw komt met ons mee naar de winkel. Onderweg komt de nieuwe koning-to-be langs, maar we laten ze gaan. In de winkel vertellen de verkopers over Charm, de baas, met de punthoed. Op de achtergrond horen we de assassinatie van de koning. Charm is op bezoek bij Pavlorna. We geven het boek van Pavlorna, en krijgen een portret terug. We lopen weg met het stuk hout, Aelar laat het kooltje achter. Buiten is een grote commotie door de assassinatie van de koning. Er worden tribunalen gehouden, geadviseerd door Zargash. 
+
