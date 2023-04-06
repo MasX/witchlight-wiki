@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-04-06T20:12:25.520Z
+date: 2023-04-06T20:15:06.035Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -294,4 +294,4 @@ We varen langs Clapperclaw terug. Hij heeft Will of the Feywild zien spelen met 
 We bieden het droge hout aan, het magische woord is Spittlespew. De ketel gaat een stukje open. Huggok neemt een slokje. Aelar neemt nu een goede slok, en verandert in een gigantische libelle. Huggok drinkt ook en verandert in een grote kikker (geen Bullywug). Aelar eet wat kleine kikkers en verandert na een uur terug. Huggok ook. 
 We gaan rusten en kijken of we Charm naar buiten zien komen. We zoeken een hut, en lopen er bij eentje binnen waar een bullywug uit een kikker komt, die aan een paal vast zit. De kikker steekt telkens z'n tong naar ons uit. Huggok wacht binnen en de rest buiten. De bullywug komt terug en duikt de kikker weer in. We gaan naar Illigs hutje. Grundelgans is daar, maar gaat er vandoor als blijkt dat we met z'n allen komen slapen. 
 -- long rest -- 
-Finnaes heeft het idee (Gambler's ability) dat als we bij de koning langskomen we wel voor de drie dagen feest bezig zijn.
+Finnaes heeft het idee (Gambler's ability) dat als we bij de koning langskomen we wel voor de drie dagen feest bezig zijn. We gaan onderweg naar Pavlorna, met een bootje. Het hutje staat op 35 voet hoge stelten. In het midden van de hut is een O'well. We lopen naar boven, en komen bij een luik aan. 
