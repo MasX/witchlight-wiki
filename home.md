@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-04-21T20:47:20.778Z
+date: 2023-04-21T20:48:31.778Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -297,6 +297,7 @@ We gaan rusten en kijken of we Charm naar buiten zien komen. We zoeken een hut, 
 Finnaes heeft het idee (Gambler's ability) dat als we bij de koning langskomen we wel voor de drie dagen feest bezig zijn. We gaan onderweg naar Pavlorna, met een bootje, de ballon is weg. Het hutje staat op 35 voet hoge stelten. In het midden van de hut is een O'well. We lopen naar boven, en komen bij een luik aan. 
 
 # 2023-04-21 Sessie 16
+<!-- Koen afwezig, vakantie -->
 We kloppen op het luik. We horen kikkers. We duwen het luik open. We zien een vrij grote ruimte, waar de o'well uitkomt is een soort zwembadje, een voet diep. Er drijft een groot lelieblad in. Aan de andere kant staat een spiegel. Er staan 7 manequins in een hoek, met kleren aan. In een andere hoek is een wenteltrap omhoog. Er zijn ook nog 5 gesloten deuren. De ramen zijn erg beslagen en vies. 
 We bekijken de manaquins. 6 hebben er kleren aan. Degene zonder kleren heeft een punthoed op. 3 zijn klein, de rest normale grote. Eentje lijkt bewogen te zijn, ziet Finnaes. 
 Arutha bekijkt de spiegel, en ziet zijn eigen spiegelbeeld. Het midden van de spiegel is schoon, maar de rest erg vies. 
