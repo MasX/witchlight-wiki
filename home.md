@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-05-26T19:25:44.008Z
+date: 2023-05-26T20:44:56.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -312,4 +312,9 @@ We horen een hoop herrie, zware voetstappen en gestommel. Alsof er een hoop meta
 
 # 2023-05-26 Sessie 17
 Met z'n allen proberen we Fensel terug te veranderen door hem te raken. Rattoos wordt losgelaten. We horen dat er iemand aan komt lopen, dit blijkt Illig te zijn. Huggok gooit hem op de grond en houdt z'n hand op Illigs mond. Aelar is veranderd in een spin om te verstoppen en gaat naar de kamer met Bavlorna, die een klein monstertje op aan het eiten is. Ze ziet hem, en vertelt dat tegen een van de andere kleine monstertjes. 
-Fensel verandert terug in een Satyr. We nemen Illig terug naar Bavlorna. Ze ligt met de benen languit op de bank met een leeg kopje thee. Bavlorna wil wat dingen van ons: we moeten het bad fixen, alle spullen die van haar gestolen zijn (boek, draad van de mooiste kleur (zelftwijfel)) terugbrengen, de kratten uit Illigs hut met carcassen om mee te werken. 
+Fensel verandert terug in een Satyr. We nemen Illig terug naar Bavlorna. Ze ligt met de benen languit op de bank met een leeg kopje thee. Bavlorna wil wat dingen van ons: we moeten het bad fixen, alle spullen die van haar gestolen zijn (boek, draad van de mooiste kleur (zelftwijfel)) terugbrengen, de kratten uit Illigs hut met carcassen om mee te werken. We laten Illig achter en gaan met Fensel op weg. We bekijken de voorraadkast van de keuken nog, vol met beesten.
+
+We gaan naar het bad en gooien Fensel er in, maar dat helpt weinig, gezien z'n dronken staat. Finnaes doorzoekt het water met behulp van prestidigitation, en Arutha probeert hetzelfde met thaumaturgy. Het lijkt dat er een Gelatinous cube vastzit, daarom gooit Huggok libellesap in het water. De cube komt naar boven en wordt gelijk door ons aangevallen. We verslaan de cube en repareren de o'well. We brengen ook de kratten terug, in twee delen want anders was het wat zwaar. 
+
+We gaan naar de plek waar de ballonwinkel was waar we Bavlorna's boek hebben geruild. De winkel is helaas weg. We gaan naar Octavian, want misschien heeft zij het zelftwijfeldraad gezien, maar dat blijkt niet zo te zijn. De kikkers hebben het over de zussen van de heks. 
+We gaan bij Zargash langs, hij raadt ons aan om de andere luchtballon te zoeken en de winkel achterna te gaan, maar Finnaes denkt dat dat vooral uit eigen interesse is. 
