@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-05-26T20:44:56.630Z
+date: 2023-06-01T20:36:13.830Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -318,3 +318,9 @@ We gaan naar het bad en gooien Fensel er in, maar dat helpt weinig, gezien z'n d
 
 We gaan naar de plek waar de ballonwinkel was waar we Bavlorna's boek hebben geruild. De winkel is helaas weg. We gaan naar Octavian, want misschien heeft zij het zelftwijfeldraad gezien, maar dat blijkt niet zo te zijn. De kikkers hebben het over de zussen van de heks. 
 We gaan bij Zargash langs, hij raadt ons aan om de andere luchtballon te zoeken en de winkel achterna te gaan, maar Finnaes denkt dat dat vooral uit eigen interesse is. 
+
+# 2023-06-01 Sessie 18
+Zargash heeft een symbool om van vleermuisvleugels met een schedel in het midden. Het lijkt iets van hem af te zweven, en transmutation magic te bevatten. Er komen zwarte magische tentakels uit hem naar het water, kan Finnaes zien. 
+Een kleine bullywog komt de visgraaf en visgravin van Stinkwater introduceren. Het is lastig te zeggen welke de graaf en welke de gravin is. Ze hebben van ons gehoord van de duke van de balonnenfabriek die zeer te spreken over ons was. Ze vertellen ons over de mythe van het kikkerstandbeeld, met een zwarte mondopening waar je alles uit kan halen wat je nodig hebt. Het stond bij Bavlorna in huis, maar dat is ontvreemd en ligt nu in murky lake. We gaan naar het meer zodat Aelar in een grote slang kan veranderen en het meer kan doorzoeken. Huggok leidt de Bullywogs af door ze een handtekening aan te bieden die ze niet willen (nat 1...).
+Er blijken onthoofde zombies in het water te liggen, die Aelar aanvallen. Huggok rent er naar toe en poogt tevergeefs Aelar op de kant te gooien, maar wel wat verderop. We vallen de zombies aan, die maar niet dood willen, terwijl er een hoop Bullywogs aangesneld komen. Nadat de zombies dood-dood zijn doen we een sweep door het water, maar vinden niks van waarde. 
+We gaan verhaal halen bij de graaf en gravin. Huggok grijpt ze stevig vast, maar eentje glibbert weg. Ze krijgen onderlinge ruzie, en de andere wil liever Huggok. Ze hadden als plan om ons te bevrienden en dan zelf koning te worden.
