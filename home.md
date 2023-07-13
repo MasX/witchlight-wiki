@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-06-14T20:08:38.069Z
+date: 2023-07-13T20:35:32.557Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -329,3 +329,12 @@ We gaan verhaal halen bij de graaf en gravin. Huggok grijpt ze stevig vast, maar
 Er worden plannen gemaakt om Zargash aan te pakken. Huggok krijgt uitgelegd dat hij een necromancer is. Onderweg horen we van Fensel dat er net een nieuwe koning is, die hulp krijgt van een hele gevaarlijke avonturiers. We moeten voorzichtig zijn! Huggok schudt de visgraaf/gravin van zich af. Die wil niet mee naar Bavlorna, maar gaat voor ons op zoek naar de ballon (of niet..). We gaan naar boven, maar Bavlorna zit in bad. We zetten Fensel af in de keuken, en gaan dan in gesprek met Bavlorna in haar study. Bavlorna is haar 3 zussen kwijt. Haar oudste zus, Skabatha (Granny Nightshade), een oude heks (niet te vertrouwen!), woont in Loomlurch, een grote holle bloom die plat ligt, diep in het bos van Tither. Daar hangt een schilderij van haar, ze is meer een speelgoedje dan iets anders. Een sleutel in haar rug dat altijd rond draait. Er hangen ook schilderijen van de andere zussen, maar Bavlorna wil die van Skabatha. We hebben een gids nodig om in Tither te komen, misschien kan de vogelverschrikker helpen. We onderhandelen dat we eerst te horen krijgen waar Huggoks woorden zijn, en krijgen 8 dagen om het schilderij te vinden. Huggoks woorden zijn 'in zijn hoofd'. Goblins zijn tuig. Haar andere zussen heten Endelyn en Natasha. 
 
 We gaan weer naar buiten en vragen Clapperclaw om hulp voor Tither. Hij zegt dat dat wel 10 keer rusten weg is. Je kan door de mist komen op je gevoel, waar de mist ophoudt. We overtuigen hem om ons te helpen, als we eerst naar Brigands Tollway gaan om zijn hoofd terug te halen. We kunnen de ballon zo meenemen, de guards kijken expres de verkeerde kant op. We nemen de ballon, en met wat moeite sturen we hem naar Brigands Tollway. Mr. Chompsky haalt wat eten voor ons, we drinken nog wat met de konijnen en gaan lekker slapen. Na 4 uur mediteren gaat Aelar op zoek naar het hoofd. Hij gaat een college geven aan de konijnen, zodat wij het hoofd kunnen pakken. Huggok haalt Aelar op en we vliegen weg. De kalebas laten we achter. We vervolgen onze reis richting Tither. In de verte zien we de Tumtum trees. We zien een draak onze kant opkomen, ongeveer 2x zo groot als de luchtballon. 
+
+# 2023-07-13 Sessie 20
+We laten de ballon flink dalen, tot de boomgrens. De draak valt ons aan, eerst een illusie-draak van Aelar, en dan komt hij weer richting ons. 
+De stem in Huggoks hoofd, High Jester, neemt contact op, met de tip dat we op moeten passen voor de draken. Beetje laat! De jester raadt uiteindelijk aan om een Vorpal Sword te gebruiken. 
+De draak dood Aelar, maar we ontsnappen en komen uit bij de grot van Nip, vol met goudstukken. We zijn welkom om binnen te komen, maar "pak niets wat niet van jou is". Hij spint cadeaus van goude draden. Hij spint een revivation potion. Hij wil er mest voor van een Jabberwock, 40 pond. We reviven Aelar, maar wil hij gerevived worden?? Wordt vervolgd.
+
+Een van de monsters met gems erin wil de lege potion vial graag hebben. Huggok gooit het naar hem.
+
+Wat zullen we doen? Zargash raadde ons nog zo aan hierheen in een ballon te gaan...
