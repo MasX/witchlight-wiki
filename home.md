@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-07-13T20:35:32.557Z
+date: 2023-08-06T20:28:48.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -333,8 +333,27 @@ We gaan weer naar buiten en vragen Clapperclaw om hulp voor Tither. Hij zegt dat
 # 2023-07-13 Sessie 20
 We laten de ballon flink dalen, tot de boomgrens. De draak valt ons aan, eerst een illusie-draak van Aelar, en dan komt hij weer richting ons. 
 De stem in Huggoks hoofd, High Jester, neemt contact op, met de tip dat we op moeten passen voor de draken. Beetje laat! De jester raadt uiteindelijk aan om een Vorpal Sword te gebruiken. 
-De draak dood Aelar, maar we ontsnappen en komen uit bij de grot van Nip, vol met goudstukken. We zijn welkom om binnen te komen, maar "pak niets wat niet van jou is". Hij spint cadeaus van goude draden. Hij spint een revivation potion. Hij wil er mest voor van een Jabberwock, 40 pond. We reviven Aelar, maar wil hij gerevived worden?? Wordt vervolgd.
+De draak dood Aelar, maar we ontsnappen en komen uit bij de grot van Nip, vol met goudstukken. We zijn welkom om binnen te komen, maar "pak niets wat niet van jou is". Hij spint cadeaus van goude draden. Hij spint een revivation potion. Hij wil er mest voor, van een Jabberwock, de draak, 40 pond om zijn twilight revery paddestoel te kweken. We reviven Aelar, maar wil hij gerevived worden?? Wordt vervolgd.
 
 Een van de monsters met gems erin wil de lege potion vial graag hebben. Huggok gooit het naar hem.
 
 Wat zullen we doen? Zargash raadde ons nog zo aan hierheen in een ballon te gaan...
+
+# 2023-08-06 Sessie 21
+<!-- Gauntlets of Ogre power en/of Bag of Holding -->
+Aelar begint weer zachtjes te ademen. 
+We vragen Nip om een bag of holding, hij helpt ons graag. We zien dat de hoeveelheid goud in de grot wel af lijkt te nemen, Nip denkt zelf vrij te zijn wanneer al het goud is. 
+Huggok probeert het gem-beest te pakken, maar verdwijnt in de gem. Finnaes probeert het ook en verdwijnt ook. Ze komen in een line-draw wereld, met bomen en een horizon. Er is een zeer magere gedaante die struikelt, met lange zwarte haren. De bomen wijken voor haar, er staat een hut. Op ieder paaltje van het hek zit een schedel. De vrouw valt neer en staat niet meer op. In de hut is een zeer gekromde oude vrouw, met een boze kat die maar blijft blazen. De hut staat opeens op, op gigantische kippenpoten. Alle sterren barsten uit in felheid en alles brandt weg alsof het monster door een guiding bolt geraakt is, en we staan weer tussen de munten. 
+Aelar doet iets met de ballen, waardoor 'lente' in hem vloeit. Hij heeft nu de 'lente-upgrade'. 
+
+We nemen een kijkje in de paddestoelenhoek. Aelar neemt al snel een hap van eentje, en hij wordt spontaan heel oud. Er groeit een leliekrans achter zijn oren. Hij teleporteert Arutha en zichzelf. We nemen een long rest, en Aelar vraagt naar een nieuw boek met tekens, de oude is vernietigd door de draak. 
+
+Nip kan wel iets maken zodat we door paddestoelenringen kunnen teleporteren. Nip kan wel iets maken waardoor we gebruik kunnen maken van de ringen. We pakken wat goud in de bag of holding, en zien een hoop geesten (slechte daden van Nip) achter ons neervallen. We leggen het goud maar weer terug. 
+
+We vermoeden dat Will geteleporteerd is door Syvilna, want een aangevallen kind is een geteleporteerd kind. Granny Nightshade heeft Will ontvoerd, maar niet aangevallen. Misschien weet kapitein Big Rat hier meer over, want hij heeft niks aardigs gezegd over Will en de rest wel. Nip heeft een haak voor hem gepaakt waarmee hij ook dingen op afstand kan pakken. 
+
+Met de twee teleporteerstokken voor de Fairy Ring Wayfaring gaan we op stap, want Arutha heeft er eentje gezien onderweg hiernaartoe. We gaan onderweg en komen een zichzelf met boter wassende paddestoel tegen, naast een grote pan op een vuurtje. De paddestoel is een campestry. Hij is flink aan het zingen en dansen. Er komt een goblin, genaamd Kroa, aan die vraagt of de paddestoel al klaar is. 
+
+Huggok spreekt Kroa aan, en ze komen overeen dat Huggok een groter deel van de paddestoel mag. Ik kom duidelijk niet uit Terace town, zegt hij. We komen aan bij de ring, maar Krao wil er niet in de buurt komen. Het is een ring van dansende paddestoelen om een ring van gewone paddestoelen heen. We rennen rondjes in de ring en teleporteren weg. Hier zijn ook zingende paddestoelen, maar deze zijn rood ipv geel.   
+Terwijl Huggok Aelar vertelt over zijn geschiedenis bij de Flaming Fist, het vele rondreizen en zijn trinkets, horen we spelende elfen. We proberen ze aan te spreken maar ze negeren ons. Ze lijken een illusie te zijn, want we kunnen ze ook niet aanraken en ze lijken net boven de grond te zweven. Er ligt een gigantische omgevallen boom (het huis van Granny Nightshade), met veel goblins eromheen met veel bedrijvigheid, kraampjes, getik, gezaag. Uit de boom groeien drie andere bomen. 
+Een van de kraampjes verkoopt kleurige steentjes, stokken met lint, geglazuurd fruit. Een van de goblins - Chucklehead - heeft een appelhoofd, echt Clapperclaw vibes. Huggok koopt een zure kever met dropbinnenkant, eet hem op en groeit (enlarge).
