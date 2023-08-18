@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-08-18T20:39:43.673Z
+date: 2023-08-18T20:41:46.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -363,3 +363,5 @@ We bekijken de boom goed tijdens onze rust. Er komen zes mannetjes in tinnen har
 Arutha en Huggok zien een meisje dat door de deur naar buiten kijkt. Er wordt wat naar haar gegooid en ze doet de deur weer dicht. Arutha en Huggok gaan erachteraan. In de kamer staan drie verschrikte kindjes, een ketel warm metaal, een hoop vreemd en eng speelgoed. Een gedaante met zwartpaarsige huid, wit haar, elfachtig (Naal) en een iniemini halfling (Filomena) en een mens (Sung). Ze willen wel ontsnappen, maar niet zonder het varkentje wat buiten zit. Er verschijnen monstertjes uit de blob die gegooid was. We ontsnappen naar buiten, maar Aelar besluit onzichtbaar dieper te gaan, de barakken in. Bovenaan de trap zit een jack-in-the-box, die openspringt en een kleine groene draak verborgen hield. Naal begint het op een rennen te zeggen. Sung wil niet weg zonder Oink. We worden allemaal achterna gezeten door tinnen mannetjes. Aelar komt een kleine bugbear, een halfling, en een streng toesprekende creepy pop tegen. Hij wordt gegrepen door een tapijt, maar weet handig los te komen door in een spinnetje te veranderen. We hebben een afspraak met Granny Nightshade, maar Aelar komt haar eerder tegen als ze bij de kinderen komt checken hoe het gaat. Granny haalt uit naar hem, in spinnenvorm. Ze neemt hem mee naar buiten en drukt hem plat. Finnaes helpt hem bij bewustzijn. We krijgen thee van een ouder kind en vertellen Granny waarom we hier zijn. Ze vertelt dat ze Aelars houtsnijkunsten heeft gekregen. De papieren van Arutha heeft ze niet en de viool van Finnaes is bij Endelin (Trana) in Yonder. Endelin kijkt altijd vooruit, Pavlorna met het heden, en Granny met het verleden. 
 
 Ze wil dat we Naal terugbrengen. De sleutel op haar rug draait langzamer als ze geirriteerd is en sneller als ze geamuseerd is. Als we Naal terugvinden zou dat kunnen betekenen dat we Will ook voor haar kunnen vinden. Huggok raakt in paniek van de tijdsdruk en alle onmogelijke taken en rent naar buiten. 
+
+Lv 5!
