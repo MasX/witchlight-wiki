@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-08-31T20:10:51.918Z
+date: 2023-08-31T20:11:06.522Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -368,4 +368,4 @@ Lv 5!
 
 # 2023-08-31 Sessie 23
 We rennen het bos in om Naal te zoeken. Gelukkig kan Aelar de sporen goed herkennen. We komen bij een grote open plek waar bomen gerooid lijken te zijn. Opeens komen er een aantal bomen tot leven. We proberen te ontsnappen, maar dat staan ze niet toe. We doden de driad. We rennen voorzichtig verder, en zien een centaur in de verte. We gaan erachteraan, over gras dat daar pijn onder lijdt. Helaas hebben we geen keuze, maar Huggok stapt in de sporen van Arutha. Naal zit op de centaur, die we ingehaald hebben. De centaur heet Winterbow, hij is erg oud. Hij vertelt ons dat de mist de wereld verslindt. 
-Naal vertelt dat Granny Nightshade een vast schema heeft. Als ze wakker wordt gaat ze eerst in de tuin werken. Daarna gaat ze naar de bibliotheek. Voordat ze naar bed gaat gaat ze op inspectie, naar de naaikamer, de textielmolen en de werkkamer. Daarna gaat ze naar haar kamer naar haar huis, in de verste boom, boven de bibliotheek. De draak slaapt in de keuken. Ze zijn hier door het witchlight festival naar toe gekomen. Het lijkt erop dat kinderen hier niet ouder worden. Huggok pakt Naal vast en zet hem op Arutha, maar Arutha laat hem gaan en Naal rent weg. Winterbow gaat erachteraan. Naal heeft 10 minuten voorsprong.
+Naal vertelt dat Granny Nightshade een vast schema heeft. Als ze wakker wordt gaat ze eerst in de tuin werken. Daarna gaat ze naar de bibliotheek. Voordat ze naar bed gaat gaat ze op inspectie, naar de naaikamer, de textielmolen en de werkkamer. Daarna gaat ze naar haar kamer naar haar huis, in de verste boom, boven de bibliotheek. De draak slaapt in de keuken. Ze zijn hier door het witchlight festival naar toe gekomen. Het lijkt erop dat kinderen hier niet ouder worden. Huggok pakt Naal vast en zet hem op Arutha, maar Arutha laat hem gaan en Naal rent weg. Winterbow gaat erachteraan. Naal heeft 10 minuten voorsprong. Ze gaan op zoek naar Will.
