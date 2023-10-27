@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-10-27T20:23:32.527Z
+date: 2023-10-27T20:27:07.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -380,4 +380,4 @@ Huggok geeft de bal van Dirlagraun aan Sterre die er enthousiast mee gaat spelen
 
 Het plan om de kinderen van de Granny Nightshade mee te nemen is als volgt:
 we moeten snoep kopen bij de goblins. Will gaat naar binnen om de kinderen te redden. Huggok daagt Will uit om ook de schilderijen mee te nemen. Na wat vragen of hij soms bang is, stemt hij in. 
-Aelar vindt het een slecht plan. Maar wat gaan we nu doen? Onderhandelen met Granny Nightshade? Will inleveren? Schilderij stelen van Granny en terug naar Pavlorna?
+Aelar vindt het een slecht plan. Maar wat gaan we nu doen? Onderhandelen met Granny Nightshade? Will inleveren? Schilderij stelen van Granny en terug naar Pavlorna? 
