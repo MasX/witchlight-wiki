@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-08-31T20:11:06.522Z
+date: 2023-10-27T20:23:32.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -350,7 +350,7 @@ We nemen een kijkje in de paddestoelenhoek. Aelar neemt al snel een hap van eent
 
 Nip kan wel iets maken zodat we door paddestoelenringen kunnen teleporteren. Nip kan wel iets maken waardoor we gebruik kunnen maken van de ringen. We pakken wat goud in de bag of holding, en zien een hoop geesten (slechte daden van Nip) achter ons neervallen. We leggen het goud maar weer terug. 
 
-We vermoeden dat Will geteleporteerd is door Syvilna, want een aangevallen kind is een geteleporteerd kind. Granny Nightshade heeft Will ontvoerd, maar niet aangevallen. Misschien weet kapitein Big Rat hier meer over, want hij heeft niks aardigs gezegd over Will en de rest wel. Nip heeft een haak voor hem gepaakt waarmee hij ook dingen op afstand kan pakken. 
+We vermoeden dat Will geteleporteerd is door Syvilna, want een aangevallen kind is een geteleporteerd kind. Granny Nightshade heeft Will ontvoerd, maar niet aangevallen. Misschien weet kapitein Big Red hier meer over, want hij heeft niks aardigs gezegd over Will en de rest wel. Nip heeft een haak voor hem gepaakt waarmee hij ook dingen op afstand kan pakken. 
 
 Met de twee teleporteerstokken voor de Fairy Ring Wayfaring gaan we op stap, want Arutha heeft er eentje gezien onderweg hiernaartoe. We gaan onderweg en komen een zichzelf met boter wassende paddestoel tegen, naast een grote pan op een vuurtje. De paddestoel is een campestry. Hij is flink aan het zingen en dansen. Er komt een goblin, genaamd Kroa, aan die vraagt of de paddestoel al klaar is. 
 
@@ -369,3 +369,15 @@ Lv 5!
 # 2023-08-31 Sessie 23
 We rennen het bos in om Naal te zoeken. Gelukkig kan Aelar de sporen goed herkennen. We komen bij een grote open plek waar bomen gerooid lijken te zijn. Opeens komen er een aantal bomen tot leven. We proberen te ontsnappen, maar dat staan ze niet toe. We doden de driad. We rennen voorzichtig verder, en zien een centaur in de verte. We gaan erachteraan, over gras dat daar pijn onder lijdt. Helaas hebben we geen keuze, maar Huggok stapt in de sporen van Arutha. Naal zit op de centaur, die we ingehaald hebben. De centaur heet Winterbow, hij is erg oud. Hij vertelt ons dat de mist de wereld verslindt. 
 Naal vertelt dat Granny Nightshade een vast schema heeft. Als ze wakker wordt gaat ze eerst in de tuin werken. Daarna gaat ze naar de bibliotheek. Voordat ze naar bed gaat gaat ze op inspectie, naar de naaikamer, de textielmolen en de werkkamer. Daarna gaat ze naar haar kamer naar haar huis, in de verste boom, boven de bibliotheek. De draak slaapt in de keuken. Ze zijn hier door het witchlight festival naar toe gekomen. Het lijkt erop dat kinderen hier niet ouder worden. Huggok pakt Naal vast en zet hem op Arutha, maar Arutha laat hem gaan en Naal rent weg. Winterbow gaat erachteraan. Naal heeft 10 minuten voorsprong. Ze gaan op zoek naar Will.
+
+# 2023-10-27 Sessie 24
+Een alicorn is een kruising tussen een pegasus en een eenhoorn, of de hoorn van een eenhoorn. 
+
+We gaan achter Naal aan, we hebben hem of Will nodig voor de heist. We gaan op zoek naar de boomhut van Will. Onderweg vinden we een tol, die Huggok met plezier meeneemt. We zien sporen van een klein groepje, van klein formaat. We horen vrolijke kinderstemmen. Ze komen bij een boom vandaan waar een boomhut in gebouwd is. Daar bovenin, in het groen, Will. Aan zijn voeten ligt een kitten, kind van Dirlagraun? Will is echt stereotypisch Peter Pan. Sloan, de wood-elf, Zennor, een orc, en Bobby, een dwerg. 
+Will is een stuk sterker dan hij lijkt. Huggok komt daar hardhandig achter...
+
+Huggok geeft de bal van Dirlagraun aan Sterre die er enthousiast mee gaat spelen. Er lijkt niet direct herkenning dat de bal speciaal is. Ze leidt ons naar een olievlek, gemaakt door squirt die uit de boom is gevallen toen ze moesten vluchten voor de piraat ("zo'n paddestoel", big red). We kunnen hem redden in de cloystered clove. Ondertussen lijkt Finnaes gecharmed door Will, die niet echt een kind lijkt te zijn maar iets heeft geshapeshift.
+
+Het plan om de kinderen van de Granny Nightshade mee te nemen is als volgt:
+we moeten snoep kopen bij de goblins. Will gaat naar binnen om de kinderen te redden. Huggok daagt Will uit om ook de schilderijen mee te nemen. Na wat vragen of hij soms bang is, stemt hij in. 
+Aelar vindt het een slecht plan. Maar wat gaan we nu doen? Onderhandelen met Granny Nightshade? Will inleveren? Schilderij stelen van Granny en terug naar Pavlorna?
