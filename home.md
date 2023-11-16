@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-10-27T20:27:07.474Z
+date: 2023-11-16T21:16:34.861Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -356,7 +356,7 @@ Met de twee teleporteerstokken voor de Fairy Ring Wayfaring gaan we op stap, wan
 
 Huggok spreekt Kroa aan, en ze komen overeen dat Huggok een groter deel van de paddestoel mag. Ik kom duidelijk niet uit Terace town, zegt hij. We komen aan bij de ring, maar Krao wil er niet in de buurt komen. Het is een ring van dansende paddestoelen om een ring van gewone paddestoelen heen. We rennen rondjes in de ring en teleporteren weg. Hier zijn ook zingende paddestoelen, maar deze zijn rood ipv geel.   
 Terwijl Huggok Aelar vertelt over zijn geschiedenis bij de Flaming Fist, het vele rondreizen en zijn trinkets, horen we spelende elfen. We proberen ze aan te spreken maar ze negeren ons. Ze lijken een illusie te zijn, want we kunnen ze ook niet aanraken en ze lijken net boven de grond te zweven. Er ligt een gigantische omgevallen boom (het huis van Granny Nightshade), met veel goblins eromheen met veel bedrijvigheid, kraampjes, getik, gezaag. Uit de boom groeien drie andere bomen. 
-Een van de kraampjes verkoopt kleurige steentjes, stokken met lint, geglazuurd fruit. Een van de goblins - Chucklehead - heeft een appelhoofd, echt Clapperclaw vibes. Huggok koopt een zure kever met dropbinnenkant, eet hem op en groeit (enlarge).
+Een van de kraampjes verkoopt kleurige steentjes, stokken met lint, geglazuurd fruit. Een van de goblins - Tricklehead - heeft een appelhoofd, echt Clapperclaw vibes. Huggok koopt een zure kever met dropbinnenkant, eet hem op en groeit (enlarge).
 
 # 2023-08-18 Sessie 22
 We bekijken de boom goed tijdens onze rust. Er komen zes mannetjes in tinnen harnassen langs, de voorste trommelt. Ze hebben een hourglass symbool op hun borst. Aelar roept Icarus op, zijn uilenfamiliar, corkscrew owl, om te verkennen. Hij landt op een vogelverschrikker, die hard begint te schreeuwen. De composthoop begint een beetje te bewegen. Er komt een kakefonie van geluiden uit de stallen. Tinnen mannetjes rennen richting de vogelverschrikkers. 
@@ -376,8 +376,28 @@ Een alicorn is een kruising tussen een pegasus en een eenhoorn, of de hoorn van 
 We gaan achter Naal aan, we hebben hem of Will nodig voor de heist. We gaan op zoek naar de boomhut van Will. Onderweg vinden we een tol, die Huggok met plezier meeneemt. We zien sporen van een klein groepje, van klein formaat. We horen vrolijke kinderstemmen. Ze komen bij een boom vandaan waar een boomhut in gebouwd is. Daar bovenin, in het groen, Will. Aan zijn voeten ligt een kitten, kind van Dirlagraun? Will is echt stereotypisch Peter Pan. Sloan, de wood-elf, Zennor, een orc, en Bobby, een dwerg. 
 Will is een stuk sterker dan hij lijkt. Huggok komt daar hardhandig achter...
 
-Huggok geeft de bal van Dirlagraun aan Sterre die er enthousiast mee gaat spelen. Er lijkt niet direct herkenning dat de bal speciaal is. Ze leidt ons naar een olievlek, gemaakt door squirt die uit de boom is gevallen toen ze moesten vluchten voor de piraat ("zo'n paddestoel", big red). We kunnen hem redden in de cloystered clove. Ondertussen lijkt Finnaes gecharmed door Will, die niet echt een kind lijkt te zijn maar iets heeft geshapeshift.
+Huggok geeft de bal van Dirlagraun aan Sterre die er enthousiast mee gaat spelen. Er lijkt niet direct herkenning dat de bal speciaal is. Ze leidt ons naar een olievlek, gemaakt door squirt die uit de boom is gevallen toen ze moesten vluchten voor de piraat ("zo'n paddestoel", big red). We kunnen hem redden in de cloystered clove. Ondertussen lijkt Finnaes gecharmed door Will, die niet echt een kind lijkt te zijn maar iets heeft geshapeshift. Aelar denkt dat hij vervloekt is.
 
 Het plan om de kinderen van de Granny Nightshade mee te nemen is als volgt:
 we moeten snoep kopen bij de goblins. Will gaat naar binnen om de kinderen te redden. Huggok daagt Will uit om ook de schilderijen mee te nemen. Na wat vragen of hij soms bang is, stemt hij in. 
 Aelar vindt het een slecht plan. Maar wat gaan we nu doen? Onderhandelen met Granny Nightshade? Will inleveren? Schilderij stelen van Granny en terug naar Pavlorna? 
+
+Als Huggok even zijn ogen dichtdoet om wat rust te pakken, hoort hij woorden in zijn hoofd:
+"Ho ho ho, uwe hoogheid, die draken krijgen u niet klein! Heeft u het boek al gevonden? Die met alle antwoorden, in de studeerkamer van de houtige heks? Voor hulp bij het zoeken, kus de kikker: het levert geen prins op, wel een hoogstaande titel. High Jester out!"
+
+# 2023-11-16 Sessie 25
+We besluiten om Will te vragen wat er aan de hand is, en hem uiteindelijk over te leveren aan Granny Nightshade. We rusten uit. Arutha zou de wacht houden maar valt in slaap. Sloan, Aelar en Naal zijn al vroeg wakker. Sloan komt naast Aelar zitten. 
+
+Finnaes probeert Will te vragen hoe het komt dat de boom nooit gevonden is. Hij vertelt dat de boom veel van plek wisselt. Hij zegt wel veel meer kinderen bevrijdt te hebben, maar dat die weggegaan zijn. Hij houdt niemand gevangen, hij is niet zoals Granny Nightshade. 
+
+Finnaes en Aelar gaan Naal 'terugbrengen', en komen bij het huis aan van Granny. Tricklehead vermoedt dat er hier iets aan de hand is, maar roept Granny toch voor de audientie. Ondertussen sluipen Will, Arutha en Hugok niet heel stealthy langs het huis naar de keuken. Bij de keuken aangekomen horen we Granny langslopen, en als ze weg is horen we alleen Cradlefall nog slapen. We gaan naar binnen met Jingejangles sleutel. We zien een keuken, met overal planken met boeken, potten, paddenstoelen, kruiden, een schedel. Op de oven staan een ketel, waar zoete zuurstokachtige dampen uitkomen. Er staat een meisje met een aardappelschilmeisje en aardappels. Ze zit vast aan een ketting, die we losmaken met jinglejangles sleutel. In een gevangenis onder de keuken zit een bejaarde dwerg. Hij had een gevecht tegen de League of Malevolence in het droompaleis. Huggok gaat de studeerkamer in. Er is een grote trap naar boven, heel veel boeken en een spiegel. Veel van de boeken hebben kikkers erop, Huggok kust hem en hij zegt 'Twilight Tides'. Die ernaast zegt 'Pretty he's an elf". "Tales from the gloaming court, part 5". Hij doet het boek in de bag of scolding, maar het disintegrate. Huggok neemt een ander willekeurig boek mee, maar dat disintegrate bij het verlaten van de kamer.
+
+Granny wil Aelars houtsnijdskills wel teruggeven, maar wil drie dingen:
+- de hoorn van een eenhoorn (Alicorn), die Bavlorna is kwijtgeraakt
+- verstoor een toneelstuk van Endelyn in Modderhorn
+- Will, levend
+
+Ze onderhandelen dat Will, levend, binnen het uur voldoende is.
+Het alarm gaat af, en we moeten Will zo snel mogelijk bij Granny krijgen. Finnaes messaget Huggok zodat hij hem kan brengen. Aelar en Finnaes komen bij de ruimte met de portretten, het zijn er 5. Het zijn afbeeldingen van de drie hags, baba yaga de oerheks en een gedaante van een mens die ons indringend aankijkt. 
+
+Arutha is aan het stoeien met Cradlefall. De oven zegt 'burn, burn them all' tegen Arutha in Primordial. 
