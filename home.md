@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-11-16T21:16:34.861Z
+date: 2023-11-16T21:27:51.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -393,7 +393,7 @@ Finnaes probeert Will te vragen hoe het komt dat de boom nooit gevonden is. Hij 
 Finnaes en Aelar gaan Naal 'terugbrengen', en komen bij het huis aan van Granny. Tricklehead vermoedt dat er hier iets aan de hand is, maar roept Granny toch voor de audientie. Ondertussen sluipen Will, Arutha en Hugok niet heel stealthy langs het huis naar de keuken. Bij de keuken aangekomen horen we Granny langslopen, en als ze weg is horen we alleen Cradlefall nog slapen. We gaan naar binnen met Jingejangles sleutel. We zien een keuken, met overal planken met boeken, potten, paddenstoelen, kruiden, een schedel. Op de oven staan een ketel, waar zoete zuurstokachtige dampen uitkomen. Er staat een meisje met een aardappelschilmeisje en aardappels. Ze zit vast aan een ketting, die we losmaken met jinglejangles sleutel. In een gevangenis onder de keuken zit een bejaarde dwerg. Hij had een gevecht tegen de League of Malevolence in het droompaleis. Huggok gaat de studeerkamer in. Er is een grote trap naar boven, heel veel boeken en een spiegel. Veel van de boeken hebben kikkers erop, Huggok kust hem en hij zegt 'Twilight Tides'. Die ernaast zegt 'Pretty he's an elf". "Tales from the gloaming court, part 5". Hij doet het boek in de bag of scolding, maar het disintegrate. Huggok neemt een ander willekeurig boek mee, maar dat disintegrate bij het verlaten van de kamer.
 
 Granny wil Aelars houtsnijdskills wel teruggeven, maar wil drie dingen:
-- de hoorn van een eenhoorn (Alicorn), die Bavlorna is kwijtgeraakt
+- de hoorn van een eenhoorn (Alicorn), die Bavlorna is kwijtgeraakt. We hebben een eenhoornhoorn gezien bij het winkeltje waar we brandhout en een schilderij kochten, bij de luchtballon.
 - verstoor een toneelstuk van Endelyn in Modderhorn
 - Will, levend
 
