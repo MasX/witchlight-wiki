@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2023-11-16T21:27:51.916Z
+date: 2024-01-11T21:29:46.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -394,10 +394,18 @@ Finnaes en Aelar gaan Naal 'terugbrengen', en komen bij het huis aan van Granny.
 
 Granny wil Aelars houtsnijdskills wel teruggeven, maar wil drie dingen:
 - de hoorn van een eenhoorn (Alicorn), die Bavlorna is kwijtgeraakt. We hebben een eenhoornhoorn gezien bij het winkeltje waar we brandhout en een schilderij kochten, bij de luchtballon.
-- verstoor een toneelstuk van Endelyn in Modderhorn
+- verstoor een toneelstuk van Endelyn (Bitter End) in Modderhorn
 - Will, levend
 
 Ze onderhandelen dat Will, levend, binnen het uur voldoende is.
 Het alarm gaat af, en we moeten Will zo snel mogelijk bij Granny krijgen. Finnaes messaget Huggok zodat hij hem kan brengen. Aelar en Finnaes komen bij de ruimte met de portretten, het zijn er 5. Het zijn afbeeldingen van de drie hags, baba yaga de oerheks en een gedaante van een mens die ons indringend aankijkt. 
 
 Arutha is aan het stoeien met Cradlefall. De oven zegt 'burn, burn them all' tegen Arutha in Primordial. 
+
+# 2024-01-11 Sessie 26
+<!-- Coen stapt uit, Iris en Joep erbij-->
+Arutha's grapple op Cradlefall mislukt. Huggok probeert hem te stoppen maar dat lukt niet. 
+
+Aelar valt dood neer en uit hem kruipt een elfachtige met cape. De gedaante geeft aan voor eenheid te zijn. De gedaante heet "Rule of Three". Hij zegt "keuzes brengen mogelijkheden, verbinding". Hij tekent op rap tempo runes met Aelars bloed. Hij cast summon demon. 
+Arutha en Huggok werken Cradlefall de oven in en proberen de deur dicht te houden. 
+Benji (Iris) (human, 20, kort haar, bril, spreukenboek, nieuwsgierig) en Scram (Joep) zijn ook in de boom en proberen Finnaes te helpen. Rule of Three is er om Finnaes te helpen. Hij lijkt een elf, maar is het toch niet.  Huggok trapt de deur door en ziet de elf die Aelar vermoord heeft en probeert hem te bespringen maar hij teleport weg. Door de teleport ziet hij een groene omgeving met een wit statig gebouw, met stenen in een halve cirkel. De demoon rent op beveel van Finnaes naar boven en laat daar kinderen schreeuwen. Finnaes stuurt alle kinderen naar buiten. We rennen weg. We leren dat Scram en Benji bij Valor's call horen. Ze zijn compagnonnen kwijt, eentje zit opgesloten in de keuken van de heks. We bekijken de horcruxes. Ze veroorzaken negatieve gedachten bij degene die ze vasthouden. Benji weet dat Tasha bekend is van het oproepen van demonen. We besluiten terug te gaan om Elkhorn te redden, de dwerg die in de keuken vast zit. 
