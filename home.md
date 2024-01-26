@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-01-11T21:29:46.927Z
+date: 2024-01-26T21:45:11.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -408,4 +408,7 @@ Arutha's grapple op Cradlefall mislukt. Huggok probeert hem te stoppen maar dat 
 
 Aelar valt dood neer en uit hem kruipt een elfachtige met cape. De gedaante geeft aan voor eenheid te zijn. De gedaante heet "Rule of Three". Hij zegt "keuzes brengen mogelijkheden, verbinding". Hij tekent op rap tempo runes met Aelars bloed. Hij cast summon demon. 
 Arutha en Huggok werken Cradlefall de oven in en proberen de deur dicht te houden. 
-Benji (Iris) (human, 20, kort haar, bril, spreukenboek, nieuwsgierig) en Scram (Joep) zijn ook in de boom en proberen Finnaes te helpen. Rule of Three is er om Finnaes te helpen. Hij lijkt een elf, maar is het toch niet.  Huggok trapt de deur door en ziet de elf die Aelar vermoord heeft en probeert hem te bespringen maar hij teleport weg. Door de teleport ziet hij een groene omgeving met een wit statig gebouw, met stenen in een halve cirkel. De demoon rent op beveel van Finnaes naar boven en laat daar kinderen schreeuwen. Finnaes stuurt alle kinderen naar buiten. We rennen weg. We leren dat Scram en Benji bij Valor's call horen. Ze zijn compagnonnen kwijt, eentje zit opgesloten in de keuken van de heks. We bekijken de horcruxes. Ze veroorzaken negatieve gedachten bij degene die ze vasthouden. Benji weet dat Tasha bekend is van het oproepen van demonen. We besluiten terug te gaan om Elkhorn te redden, de dwerg die in de keuken vast zit. 
+Benji (Iris) (human, 20, kort haar, bril, spreukenboek, nieuwsgierig) en Scram (Joep) zijn ook in de boom en proberen Finnaes te helpen. Rule of Three is er om Finnaes te helpen. Hij lijkt een elf, maar is het toch niet.  Huggok trapt de deur door en ziet de elf die Aelar vermoord heeft en probeert hem te bespringen maar hij teleport weg. Door de teleport ziet hij een groene omgeving met een wit statig gebouw, met stenen in een halve cirkel. De demoon rent op bevel van Finnaes naar boven en laat daar kinderen schreeuwen. Finnaes stuurt alle kinderen naar buiten. We rennen weg. We leren dat Scram en Benji bij Valor's call horen. Ze zijn compagnonnen kwijt, eentje zit opgesloten in de keuken van de heks. We bekijken de horcruxes. Ze veroorzaken negatieve gedachten bij degene die ze vasthouden. Benji weet dat Tasha bekend is van het oproepen van demonen. We besluiten terug te gaan om Elkhorn te redden, de dwerg die in de keuken vast zit. 
+
+# 2024-01-26 Sessie 27
+Onderweg terug komen we dwergen tegen. Ze zitten onder het zand. We doden er een en jagen de andere twee weg. We lopen verder en komen bij een zandgroeve. We nemen een kijkje. Twee tinnen mannetjes begraven een dwerg. We zien een groot gat waar een demoon doorheen gekomen zou kunnen zijn. Benji en Scram gaan op onderzoek uit. Aelar wordt er begraven. Er liggen veel stukjes tinnen mannetjes. Bovenop een mesthoop hangt de vriend van Benji en Scram. Scram gaat hem redden. De rest zorgt voor afleiding. Woede komt over Huggok (horcruxes), en hij gaat pompoenen aanvallen. Daar aangekomen, na een flinke intimidatiebrul, barsten twee pompoenen open en er komen slangen uit. Huggok is niet boos op de slangen en biedt zijn excuses aan. 
