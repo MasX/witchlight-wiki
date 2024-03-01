@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-03-01T21:26:31.847Z
+date: 2024-03-01T21:37:18.169Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -417,7 +417,7 @@ De hag komt gehavend naar buiten en we vluchten.
 
 # 2024-03-01 Sessie 28
 De hag komt ons achteraan. We worden ingesloten door bomen. Ze komt overvliegen op haar paard en Benji gooit een fireball op haar, de pop en haar paard. Het paard ontploft en de heks en het pop landen met veel schade. Huggok gooit een boom op haar. Helaas blijft ze concentreren op een onbekende spell. Ze vallen Scram aan maar missen. Ze verliest concentratie en een eekhoorntje in de goblin markt verandert weer terug in een demon. We doden de heks met een magic missle en er beginnen insecten uit haar te kruipen. De pop rent hard weg. Er ontsnapt een blauwe kever uit de heks die wat wil zeggen maar door Silence niks kan zeggen. Uit de jurk van de heks rolt een zaagje en de rest van een houtbewerkersset (mes, beitel). Oogt magisch en elfen. Arutha wordt aangevallen door de demon en Huggok rent erop af. Huggok wordt neergeslagen, maar nadat de demon gesuggest wordt door Finnaes rent die onzichtbaar weg. We vertrekken snel uit het bos, want de bomen komen erg bedreigend over. 
-We gaan terug naar het huis van de heks. De mesthoop lijkt verplaatst te zijn... Scram gaat het huis in. Er zitten daar kinderen zich te verstoppen voor de Boggles. Dat is een plakkerige blob waar Scram al snel in vast zit. Scram komt naar buiten en we nemen een short rest. Daarna kunnen we de kinderen wel redden.
+We gaan terug naar het huis van de heks. De mesthoop lijkt verplaatst te zijn... Scram gaat het huis in. Er zitten daar kinderen zich te verstoppen voor de Boggles. Dat is een plakkerige blob waar Scram al snel in vast zit. Scram komt naar buiten en we nemen een short rest. Daarna kunnen we de kinderen wel redden. Tijdens een short rest praten we met de dwerg. 
 
 Level 6
 
