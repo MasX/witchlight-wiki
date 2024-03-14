@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-03-14T21:34:50.153Z
+date: 2024-03-14T21:44:02.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -434,3 +434,5 @@ Ze lopen door en komen bij een kamer met een balkon. Het tikt er van de mechanis
 "Sister, I don't have Alidorn's horn. If I did, I would use it to free Jullybeak". The draak, vriend van zybilna is een gevaar voor het koninkrijk. Alidorn's mate is nog steeds hier. Endelyn weet waar de horn is, maar wil niets zeggen. Wat zal de Jabberwock doen als hij verveeld raakt? We moeten meer dan de true names weten. Met de horn kunnen we creatures bevrijden time-freezing magic. Zybilna is Tasha.  
 
 De acht dagen zijn voorbij. Huggok krimpt een beetje. Hij is nu goblin sized (small), alsof zijn lengte gestolen is. Arutha's wereld staat op z'n kop. Zijn orientatie is gestolen. 
+
+Benji gebruikt sending om iemand van Wither's Call te bereiken. Ze laat weten waar we zijn. Er komt niks terug.
