@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-03-14T21:44:02.063Z
+date: 2024-03-28T21:19:40.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -376,7 +376,7 @@ Een alicorn is een kruising tussen een pegasus en een eenhoorn, of de hoorn van 
 We gaan achter Naal aan, we hebben hem of Will nodig voor de heist. We gaan op zoek naar de boomhut van Will. Onderweg vinden we een tol, die Huggok met plezier meeneemt. We zien sporen van een klein groepje, van klein formaat. We horen vrolijke kinderstemmen. Ze komen bij een boom vandaan waar een boomhut in gebouwd is. Daar bovenin, in het groen, Will. Aan zijn voeten ligt een kitten, kind van Dirlagraun? Will is echt stereotypisch Peter Pan. Sloan, de wood-elf, Zennor, een orc, en Bobby, een dwerg. 
 Will is een stuk sterker dan hij lijkt. Huggok komt daar hardhandig achter...
 
-Huggok geeft de bal van Dirlagraun aan Sterre die er enthousiast mee gaat spelen. Er lijkt niet direct herkenning dat de bal speciaal is. Ze leidt ons naar een olievlek, gemaakt door squirt die uit de boom is gevallen toen ze moesten vluchten voor de piraat ("zo'n paddestoel", big red). We kunnen hem redden in de cloystered clove. Ondertussen lijkt Finnaes gecharmed door Will, die niet echt een kind lijkt te zijn maar iets heeft geshapeshift. Aelar denkt dat hij vervloekt is.
+Huggok geeft de bal van Dirlagraun aan Sterre die er enthousiast mee gaat spelen. Er lijkt niet direct herkenning dat de bal speciaal is. Ze leidt ons naar een olievlek, gemaakt door squirt die uit de boom is gevallen toen ze moesten vluchten voor de piraat ("zo'n paddestoel", big red). We kunnen hem redden in de cloystered cove. Ondertussen lijkt Finnaes gecharmed door Will, die niet echt een kind lijkt te zijn maar iets heeft geshapeshift. Aelar denkt dat hij vervloekt is.
 
 Het plan om de kinderen van de Granny Nightshade mee te nemen is als volgt:
 we moeten snoep kopen bij de goblins. Will gaat naar binnen om de kinderen te redden. Huggok daagt Will uit om ook de schilderijen mee te nemen. Na wat vragen of hij soms bang is, stemt hij in. 
@@ -435,4 +435,32 @@ Ze lopen door en komen bij een kamer met een balkon. Het tikt er van de mechanis
 
 De acht dagen zijn voorbij. Huggok krimpt een beetje. Hij is nu goblin sized (small), alsof zijn lengte gestolen is. Arutha's wereld staat op z'n kop. Zijn orientatie is gestolen. 
 
-Benji gebruikt sending om iemand van Wither's Call te bereiken. Ze laat weten waar we zijn. Er komt niks terug.
+Benji gebruikt sending om iemand van Wither's Call te bereiken. Hij laat weten waar we zijn. Er komt niks terug.
+
+We vinden:
+• A spell scroll of speak with plants tucked in a side table drawer
+• Iron metalworking tongs shaped like the jaws of a snapping dragon (15 gp)
+• Three bolts of silk in shades of putrid green and cesspit brown (10 gp each)
+• A small, leather-bound book containing delicate sketches and watercolor paintings of pixies, sprites, and other Fey (50 gp)
+• Six brass egg cups embossed with the faces of crying children (5 gp each)
+• A varnished human eyeball inside the lower half of a small hourglass that hangs like a pendant from a necklace made of woven hair.
+• A black-feathered quill with a bone tip that magically produces its own ink (150 gp). The ink is the crimson color of fresh blood until it dries, whereupon its color changes to sepia.
+• A Tiny clockwork toad. If a creature places the toad on the ground, it hops 5 feet across the ground on each of the creature’s turns in a random direction and makes a croaking noise that can be heard out to a range of 30 feet.
+
+
+# 2024-03-28 Sessie 30
+Little Oak is aan komen lopen. 
+
+Finnaes bekijkt de vogels, mechanische mussen. Eentje heet Cliff. Hij neemt hem, en Pim en Zwie mee. 
+We gaan naar de schilderijen. De hags hangen er weer. Pavlorna en Moongrave zijn omgewisseld. We proberen te praten met de doornstruiken ervoor door de scroll te gebruiken. Ze willen bloed. Scram biedt ze zijn bloed aan en de schilderijen veranderen in Benji, Scram, nog twee familieleden, maar Tasha blijft Tasha. 
+Huggok probeert hetzelfde. We zien Hurly, Burly, Aelar. Maar geen Tasha. 
+We komen nog wat goblins tegen die alles aan het plunderen zijn. Ze hebben veel goud gevonden, en vingerpoppetjes van een ruziemakende familie. Ze nemen ook het poppenhuis mee. Ze wisten het magische woord: rumpleclump. 
+Finnaes vertelt de doorns om weg te gaan. We kunnen de schilderijen met gemak meenemen, behalve dat ze zo groot zijn. Huggok & fam staat er nog steeds op. We rennen naar buiten omdat we horen dat Aelar en het dwergenkind daar begraven worden. Will, de kinderen, Star en Little Oak zijn daar ook. Huggok houdt zijn praatje ter herinnering aan Aelar en zoekt daarna een knuffel, bij Will en Finnaes. Will doet een stap achteruit. Will ziet eruit alsof hij zich schuldig voelt en verdrietig is.  
+
+Squirt is overal geweest, volgens Will. Hij is gevangen door Big Red. Hij kan ons wel de weg wijzen naar Downfall. 
+
+Fensell lijkt hier ook te zijn! Hij is behoorlijk dronken. Scram maakt hem nuchter. Hij is hierheen gelopen door een moeras, herberg aan het einde van de weg, bos. Het is een herberg met voeten.
+
+Will teaset ons bij de spiegel over het codewoord. Finnaes suggests hem maar dat faalt en Will blaast Benji in slaap. Huggok haalt de schilderijen netjes uit elkaar met Aelar's tools en begint ook aan de reparatie van het vliegende paard. Dat zou zeker een paar dagen werk zijn.  
+
+We gaan richting Squirt. We horen in het bos iets zwaars over de grond bewegen en horen 'hoot, hoot'.
