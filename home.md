@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-03-28T21:19:40.284Z
+date: 2024-03-28T21:20:26.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
