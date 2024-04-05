@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-03-28T21:20:26.110Z
+date: 2024-04-05T20:42:25.338Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -350,7 +350,7 @@ We nemen een kijkje in de paddestoelenhoek. Aelar neemt al snel een hap van eent
 
 Nip kan wel iets maken zodat we door paddestoelenringen kunnen teleporteren. Nip kan wel iets maken waardoor we gebruik kunnen maken van de ringen. We pakken wat goud in de bag of holding, en zien een hoop geesten (slechte daden van Nip) achter ons neervallen. We leggen het goud maar weer terug. 
 
-We vermoeden dat Will geteleporteerd is door Syvilna, want een aangevallen kind is een geteleporteerd kind. Granny Nightshade heeft Will ontvoerd, maar niet aangevallen. Misschien weet kapitein Big Red hier meer over, want hij heeft niks aardigs gezegd over Will en de rest wel. Nip heeft een haak voor hem gepaakt waarmee hij ook dingen op afstand kan pakken. 
+We vermoeden dat Will geteleporteerd is door Syvilna, want een aangevallen kind is een geteleporteerd kind. Granny Nightshade heeft Will ontvoerd, maar niet aangevallen. Misschien weet kapitein Big Red hier meer over, want hij heeft niks aardigs gezegd over Will en de rest wel. Nip heeft een haak voor hem gemaakt waarmee hij ook dingen op afstand kan pakken. 
 
 Met de twee teleporteerstokken voor de Fairy Ring Wayfaring gaan we op stap, want Arutha heeft er eentje gezien onderweg hiernaartoe. We gaan onderweg en komen een zichzelf met boter wassende paddestoel tegen, naast een grote pan op een vuurtje. De paddestoel is een campestry. Hij is flink aan het zingen en dansen. Er komt een goblin, genaamd Kroa, aan die vraagt of de paddestoel al klaar is. 
 
@@ -463,4 +463,21 @@ Fensell lijkt hier ook te zijn! Hij is behoorlijk dronken. Scram maakt hem nucht
 
 Will teaset ons bij de spiegel over het codewoord. Finnaes suggests hem maar dat faalt en Will blaast Benji in slaap. Huggok haalt de schilderijen netjes uit elkaar met Aelar's tools en begint ook aan de reparatie van het vliegende paard. Dat zou zeker een paar dagen werk zijn.  
 
-We gaan richting Squirt. We horen in het bos iets zwaars over de grond bewegen en horen 'hoot, hoot'.
+
+
+# 2024-04-05 Sessie 31
+Huggok koopt 3 snoepjes, in de hoop dat die hem weer groot kunnen maken. 
+
+Benji inspecteert het hourglass dat we gevonden hadden. Het is een coven eye, gemaakt door de drie hags. Ze kunnen erdoor kijken. Als we het vernietigen verblindt het de makers tijdelijk. Huggok stopt hem in de bag of scolding, zodat ze er niet door kunnen kijken. 
+
+We gaan richting Squirt. We horen in het bos iets zwaars over de grond bewegen en horen 'hoot, hoot'. Het klint zoekend. 
+
+Het is een soort beer-uil. Er hangt een soort strijdwagen achter. De wagen is leeg. Hij heet Juniper en is op zoek naar een draak. We gaan met zn allen op zoek naar de persoon die eerst in de wagen zat. We komen op een plek waar het lijkt dat een korte worsteling heeft plaatsgevonden, in een open plek. Jabberwock tegen de persoon die bij Juniper hoort. 
+We besluiten hier te rusten en zoeken voedsel. Gelukkig vindt Arutha iets, want de Owlbear is erg hongerig. Huggok eet een giftige paddenstoel, maar Scram kan hem ontpoisonen.
+
+We komen Pixies tegen. "Volgens mij is het cake voor een Treant¨. 
+
+We komen aan bij het strand van Cloystered Clove. We zien iemand het dek schrobben en Scram valt hem meteen aan. Hij valt dood neer. We lopen over het gladde dek en kijken naar binnen en naar beneden. Veel meuk. Touwen, zakken met eten. Finnaes imiteert het gezang van de nu-dode matroos. Achter een met een metalen balk afgesloten hok vinden we vooral meuk en een laag water, waar het schip stuk is. We lopen het water in en Huggok wordt aangevallen door een enorme (huge) krokodil. We weten te ontsnappen, flink gehavend. 
+Uit de deur uit de andere kant komt Big Red. Hij nodigt ons uit in zijn hut nadat we hem overtuigen dat zijn matroos aan het zwemmen is ("maar hij weet toch dat er hier monsters in het water zitten??). In zijn hut hangen allemaal posters van Will. Maar hij zoekt Will niet, hij zoekt Mugan. Mugan/Will is een kinderhandelaar! Hij heeft zijn hand afgehakt. Hij werkt samen met de Hag. Big Red wil zijn hoed dolgraag in het bloed van Will dopen, om krachtig te worden en de krokodil aan te kunnen.
+
+Als we de krokodil aanvallen wil Big Red wel de balista bemannen. 
