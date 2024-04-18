@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-04-05T20:42:25.338Z
+date: 2024-04-18T20:35:12.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -128,7 +128,7 @@ Matrik biedt een caramel aan en wil graag weten of we Zybilna al gevonden hebben
 
 We gaan naar de Dragonfly Rides en zien daar Northwind. Er is ook een eekhoorn bij, [Rat](npc/rat).
 
-We maken een ritje en spreken met Rat en Northwind. Northwind vertelt dat de spiegels van de hall of illusions een pad zijn, naar Presmeer. Mr Witch en Light weten wat je moet zeggen om door de spiegels te stappen. 
+We maken een ritje en spreken met Rat en Northwind. Northwind vertelt dat de spiegels van de hall of illusions een pad zijn, naar Prismeer. Mr Witch en Light weten wat je moet zeggen om door de spiegels te stappen. 
 
 Tickets:
 Finnaes: 1
@@ -481,3 +481,10 @@ We komen aan bij het strand van Cloystered Clove. We zien iemand het dek schrobb
 Uit de deur uit de andere kant komt Big Red. Hij nodigt ons uit in zijn hut nadat we hem overtuigen dat zijn matroos aan het zwemmen is ("maar hij weet toch dat er hier monsters in het water zitten??). In zijn hut hangen allemaal posters van Will. Maar hij zoekt Will niet, hij zoekt Mugan. Mugan/Will is een kinderhandelaar! Hij heeft zijn hand afgehakt. Hij werkt samen met de Hag. Big Red wil zijn hoed dolgraag in het bloed van Will dopen, om krachtig te worden en de krokodil aan te kunnen.
 
 Als we de krokodil aanvallen wil Big Red wel de balista bemannen. 
+
+# 2024-04-18 Sessie 32
+Red caps dopen hun mutsen in bloed, maar de matroos Squirmish niet. Die gebruikte bessen. 
+
+We besluiten om de krokodil aan te vallen. Huggok eet twee candy's. Hij verwacht nog groter te worden, maar in plaats daarvan veranderd hij in een vlinder. Hij vliegt over het water en de krokodil hapt toe. Finnaes teleporteert hem weer het dek op, flink gehavend. We raken hem hard met de ballista en de haak van de kapitein. We krijgen de oliekan van Big Red, maar zien ook dat er een pixie in zijn la vastgebonden zit. Met veel geluk om de val niet te activeren opent Benji de la. Hij bevrijdt Bella de pixie, die erg fan is van Will. Ze komt van de vliegende eilanden. Ze gaat onzichtbaar Benji's tas in. Arutha vindt een compas, blijkt magisch. Het wijst niet naar het noorden, maar naar iets of iemand anders, richting het midden van Prismeer. Big Red is weg. 
+
+We gaan naar Loomlurch om olie te vinden en Will vragen te stellen. 
