@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-04-18T20:35:12.186Z
+date: 2024-04-25T20:10:24.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -485,6 +485,19 @@ Als we de krokodil aanvallen wil Big Red wel de balista bemannen.
 # 2024-04-18 Sessie 32
 Red caps dopen hun mutsen in bloed, maar de matroos Squirmish niet. Die gebruikte bessen. 
 
-We besluiten om de krokodil aan te vallen. Huggok eet twee candy's. Hij verwacht nog groter te worden, maar in plaats daarvan veranderd hij in een vlinder. Hij vliegt over het water en de krokodil hapt toe. Finnaes teleporteert hem weer het dek op, flink gehavend. We raken hem hard met de ballista en de haak van de kapitein. We krijgen de oliekan van Big Red, maar zien ook dat er een pixie in zijn la vastgebonden zit. Met veel geluk om de val niet te activeren opent Benji de la. Hij bevrijdt Bella de pixie, die erg fan is van Will. Ze komt van de vliegende eilanden. Ze gaat onzichtbaar Benji's tas in. Arutha vindt een compas, blijkt magisch. Het wijst niet naar het noorden, maar naar iets of iemand anders, richting het midden van Prismeer. Big Red is weg. 
+We besluiten om de krokodil aan te vallen. Huggok eet twee candy's. Hij verwacht nog groter te worden, maar in plaats daarvan veranderd hij in een vlinder. Hij vliegt over het water en de krokodil hapt toe. Finnaes teleporteert hem weer het dek op, flink gehavend. We raken hem hard met de ballista en de haak van de kapitein. We krijgen de oliekan van Big Red, maar zien ook dat er een pixie in zijn la vastgebonden zit. Met veel geluk om de val niet te activeren opent Benji de la. Hij bevrijdt Bella de pixie, die erg fan is van Will. Ze komt van de vliegende eilanden. Ze gaat onzichtbaar Benji's tas in. Arutha vindt een compas, blijkt magisch. Het wijst niet naar het noorden, maar naar iets of iemand anders, richting het midden van Prismeer. We vinden een kaart naar Loomlurch met een treant-traject erop, waarschijnlijk Little Oak. Big Red is weg. 
 
 We gaan naar Loomlurch om olie te vinden en Will vragen te stellen. 
+
+# 2024-04-25 Sessie 33
+We volgen Big Red's voetstappen. We komen bij een bessenstruik bij een boom op de rand van een clif. Het lijkt een menselijke gedaante. De bessen zijn waarschijnlijk gebruikt voor Squirmish die zijn hoed rood wilde maken. Bij de boom zien we een vuurvliegjesachtige gloed. Benji raakt het aan en leert Sylvan, ziet alles in roze en blauw en wordt zeeblauw, alsof er golven over hem heengaan. 
+De Summon Steed van Scram, Aela, weet de weg wel naar Big Red. 
+We komen een wit konijn tegen. Arutha schiet het dood en we eten heerlijk. Mogelijk is het een Alice-in-Wonderland-konijn. Of een verdwenen Compagnon van Benij en Scram die in een konijn veranderd is. Benji messaget Strongheart en krijgt alleen een harde schreeuw van pijn als antwoord.
+
+We nemen een long rest. Bij het ontwaken groeien er verschillend gekleurde paddestoelen rond Arutha, in groepjes van 3. Ze zijn magisch, maar we weten niet wat ze doen. 
+
+We gaan verder en komen langs een muziekdoosje op een boomstronk. Upbeat en drie gedaantes eromheen, maar we besluiten ze te ontwijken en ons pad te vervolgen. We komen aan bij Loomlurch. Alles lijkt vrolijk. We vinden Will. Hij stuurt direct alle kinderen op pad om olie te vinden. 
+
+We stellen Will de drie beloofde vragen. Will vertelt dat het woord voor de spiegel Bandersnatch is. Will laat ook zien wie hij echt is. Een gigantische gedaante met hoorns, met een onprettige blauwachtige gloed, wit haar. 
+
+Op dat moment horen we achter ons Big Red: "Haha! MUGAN!"
