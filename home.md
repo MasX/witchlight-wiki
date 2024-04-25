@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-04-25T20:10:24.757Z
+date: 2024-04-25T20:11:31.937Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -498,6 +498,6 @@ We nemen een long rest. Bij het ontwaken groeien er verschillend gekleurde padde
 
 We gaan verder en komen langs een muziekdoosje op een boomstronk. Upbeat en drie gedaantes eromheen, maar we besluiten ze te ontwijken en ons pad te vervolgen. We komen aan bij Loomlurch. Alles lijkt vrolijk. We vinden Will. Hij stuurt direct alle kinderen op pad om olie te vinden. 
 
-We stellen Will de drie beloofde vragen. Will vertelt dat het woord voor de spiegel Bandersnatch is. Will laat ook zien wie hij echt is. Een gigantische gedaante met hoorns, met een onprettige blauwachtige gloed, wit haar. 
+We stellen Will de drie beloofde vragen. Will vertelt dat het woord voor de spiegel Bandersnatch is, als je erdoor gaat is je avontuur afgelopen (terug naar Witchlight). Will laat ook zien wie hij echt is. Een gigantische gedaante met hoorns, met een onprettige blauwachtige gloed, wit haar. 
 
 Op dat moment horen we achter ons Big Red: "Haha! MUGAN!"
