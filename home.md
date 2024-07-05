@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-06-21T20:36:19.078Z
+date: 2024-07-05T17:56:42.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -502,17 +502,19 @@ We stellen Will de drie beloofde vragen. Will vertelt dat het woord voor de spie
 
 Op dat moment horen we achter ons Big Red: "Haha! MUGAN!"
 
-# 2024-06-06
+# 2024-06-06 Sessie 34
 We vragen Will hoe we naar Hither kunnen komen, maar hij weet het niet. Big Red wordt ongeduldig en valt Will aan. We helpen Will door hem weg te teleporteren. We vechten met Big Red en 2 red caps. In het gevecht gebruikt Scram Turn the faithless, waardoor Arutha, wat red caps, Huggok en Bella weggaan. Bella is na het gevecht pas in staat om terug te komen. 
 
 We doden de red caps en Big Red. Will verandert in een wolk mist. Er staan twee blokken ijs, waarvan eentje met een gouden haak erin. 
 
 We zijn een paar minuten verwijderd van Loomlurch. Daar gaan we naartoe, om Squirt te vinden. Die weet de weg naar Hither. 
 
-# 2024-06-21
+# 2024-06-21 Sessie 35
 We ontmoeten Elkhorn aan de rand van het bos. Will is naar boven gegaan. We zien hem vanuit de toren en zwaaien, met de haak in de hand van Arutha. Will zegt ons dat we ook vragen kunnen stellen aan de twee eenhoorns, die hebben magie. We gaan beneden op zoek naar Squirt. Hij wordt heen en weer gegooid door kinderen. Hij wil ons wel naar Yon brengen, maar de weg naar Hither weet hij niet. Hij vertelt over vliegende windmolens die het niet meer doen. Daardoor is de mist er. De molen moet gesmeerd worden, maar die vliegt in de wind. Sloan en Bobby weten waar de eenhoorns zijn. Je kan op dat eiland alleen komen als de pool denkt dat je eenhoorn bent. Je kan ook gewoon onder een doek met een hoorn erop. 
 We gaan onderweg naar de eenhoorns. Bobby gaat niet mee, maar Squirt wel. We komen op een open plek met veel voetstappen, verschillende groottes en soorten, blote voeten. Het spoor van een herberg. We volgen, met grote haast, vliegend, o.a. op het hobbelpaard. Dan stopt het spoor en horen we de jabberwock. De Jabberwock probeert ons te grijpen en volgt Arutha. Hij ziet het huis en vliegt naar binnen. Benji vertelt dat de draak bang is voor muziek. Arutha ruilt onze namen in met Tsu, de barkeeper, zodat de herberg even op ons wacht. Terwijl er eten voor ons wordt gemaakt ontmoeten we Catkin, de zwarte kat. Hij flirt met Scram, als hij nog zo heet.
 Arutha krijgt zijn naam terug in ruil voor het verhaal waarom we naar Hither willen. Hij wordt eraan herinnerd dat zijn papieren mogelijk in het Palace of Heart's Desire zijn, het paleis van Zybilna. Daar woont ook de Jabberwock. Huggok krijgt zijn naam terug in ruil voor een krokodillentand en een nog onbepaald klusje voor Tsu. Benji krijgt zijn naam terug in ruil voor de sleutelbos in Loomlurch en een klusje. Scram voor alleen een klusje. 
-De andere twee herbergbezoekers, twee elfen genaamd Afronil en Talia stellen zich voor. Ze zoeken hun dochter, Sloan. Ze was elf toen ze kwijtraakte, op het carnaval. We vertellen ze dat ze meegenomen was door de redcaps. Ze verlaten de inn.
+De andere twee herbergbezoekers, twee elfen genaamd Afronil en Talia stellen zich voor. Ze zoeken hun dochter, Sloan. Ze was elf toen ze kwijtraakten, op het carnaval. We vertellen ze dat ze meegenomen was door de redcaps. Ze verlaten de inn.
 
 We worden wakken dichtbij Downfall, Hither. 
+
+# 2024-07-05 Sessie 36
