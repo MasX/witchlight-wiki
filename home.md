@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-08-29T18:38:06.122Z
+date: 2024-08-29T18:56:59.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -522,4 +522,5 @@ Pavlorna geeft ons een hoop dingen. Huggok krijgt een potion of regrowth. De win
 
 # 2024-08-29 Sessie 37
 Mist, damp, kikkergekwaak, blubber, drek, water. We banen ons erdoorheen. Arutha glijdt over het landschap, met Finnaes op zijn rug. Huggok slaat alles weg, Scram op de schouder van Huggok. Benji op het hobbelpaard. 
-We komen standbeelden van paarden tegen, in het moeras. Het lijken beelden van centaurs te zijn, niet allemaal in takt. Iemand heeft standbeelden gemaakt, het lijkt er niet op dat er iets versteend is. Arutha lijkt dezelfde runen te hebben op zijn ketting als een van de centaurs om hun arm. 
+We komen standbeelden van paarden tegen, in het moeras. Het lijken beelden van centaurs te zijn, niet allemaal in takt. Iemand heeft standbeelden gemaakt, het lijkt er niet op dat er iets versteend is. Arutha lijkt dezelfde runen te hebben op zijn ketting als een van de centaurs om hun arm. We gaan door. Huggok krimpt wat. Opeens stapt hij in het drijfzand. Huggok zakt kopje onder, maar weet te groeien en gered te worden door een teleport van Finnaes. 
+Dan begint het water weg te zakken. Is er een O'well in de buurt? We kunnen nu makkelijker lopen, ookal is het wel drekkig. 
