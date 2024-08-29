@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-08-29T19:47:50.120Z
+date: 2024-08-29T19:58:43.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -523,5 +523,6 @@ Pavlorna geeft ons een hoop dingen. Huggok krijgt een potion of regrowth. De win
 # 2024-08-29 Sessie 37
 Mist, damp, kikkergekwaak, blubber, drek, water. We banen ons erdoorheen. Arutha glijdt over het landschap, met Finnaes op zijn rug. Huggok slaat alles weg, Scram op de schouder van Huggok. Benji op het hobbelpaard. 
 We komen standbeelden van paarden tegen, in het moeras. Het lijken beelden van centaurs te zijn, niet allemaal in takt. Iemand heeft standbeelden gemaakt, het lijkt er niet op dat er iets versteend is. Arutha lijkt dezelfde runen te hebben op zijn ketting als een van de centaurs om hun arm. We gaan door. Huggok krimpt wat. Opeens stapt hij in het drijfzand. Huggok zakt kopje onder, maar weet te groeien en gered te worden door een teleport van Finnaes. 
-Dan begint het water weg te zakken. Is er een O'well in de buurt? We kunnen nu makkelijker lopen, ookal is het wel drekkig. We komen twee medium-grootte kraanvogels tegen en schieten er 1 neer. Die was wel groot genoeg geweest om op te kunnen vliegen... Maar nu hebben we wat te eten, wanneer we een plek vinden om een kamp op te zetten. Verderop is een goblin met een top hat. Hij heeft een gammel bootje. In het water zien we iets groots zwemmen, vrachtwagengrootte. Ze heet Barbara en ze zijn al lang samen. Ze is niet te koop. 
+Dan begint het water weg te zakken. Is er een O'well in de buurt? We kunnen nu makkelijker lopen, ookal is het wel drekkig. We komen twee medium-grootte kraanvogels tegen en schieten er 1 neer. Die was wel groot genoeg geweest om op te kunnen vliegen... Maar nu hebben we wat te eten, wanneer we een plek vinden om een kamp op te zetten. Verderop is een goblin met een top hat. Hij heeft een gammel bootje. In het water zien we iets groots zwemmen, vrachtwagengrootte. Ze heet Barbara, is een krokodil, en ze zijn al lang samen. Ze is niet te koop. 
 Hij verkoopt een honden/kattenhalsband waardoor ze kunnen blinken. Ook heeft hij een speer te koop, waardoor alle vissen naar je luisteren. We kopen de trident en potion waarmee je dieren kan commanderen, voor onder andere de hourglass penchant. 
+We komen iets heel schattigs tegen. Iedereen ziet iets anders. Huggok ziet een klein goblintje, heel schattig. De goblin zegt dat hij mijn wens kan vervullen.
