@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-07-05T17:56:42.489Z
+date: 2024-08-29T18:38:06.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -515,6 +515,11 @@ We gaan onderweg naar de eenhoorns. Bobby gaat niet mee, maar Squirt wel. We kom
 Arutha krijgt zijn naam terug in ruil voor het verhaal waarom we naar Hither willen. Hij wordt eraan herinnerd dat zijn papieren mogelijk in het Palace of Heart's Desire zijn, het paleis van Zybilna. Daar woont ook de Jabberwock. Huggok krijgt zijn naam terug in ruil voor een krokodillentand en een nog onbepaald klusje voor Tsu. Benji krijgt zijn naam terug in ruil voor de sleutelbos in Loomlurch en een klusje. Scram voor alleen een klusje. 
 De andere twee herbergbezoekers, twee elfen genaamd Afronil en Talia stellen zich voor. Ze zoeken hun dochter, Sloan. Ze was elf toen ze kwijtraakten, op het carnaval. We vertellen ze dat ze meegenomen was door de redcaps. Ze verlaten de inn.
 
-We worden wakken dichtbij Downfall, Hither. 
+We worden wakker dichtbij Downfall, Hither. 
 
 # 2024-07-05 Sessie 36
+Pavlorna geeft ons een hoop dingen. Huggok krijgt een potion of regrowth. De windmolens staan even aan om de weg naar Yon vrij te maken. We gaan door het water.
+
+# 2024-08-29 Sessie 37
+Mist, damp, kikkergekwaak, blubber, drek, water. We banen ons erdoorheen. Arutha glijdt over het landschap, met Finnaes op zijn rug. Huggok slaat alles weg, Scram op de schouder van Huggok. Benji op het hobbelpaard. 
+We komen standbeelden van paarden tegen, in het moeras. Het lijken beelden van centaurs te zijn, niet allemaal in takt. Iemand heeft standbeelden gemaakt, het lijkt er niet op dat er iets versteend is. Arutha lijkt dezelfde runen te hebben op zijn ketting als een van de centaurs om hun arm. 
