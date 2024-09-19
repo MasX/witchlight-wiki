@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-08-29T20:02:26.734Z
+date: 2024-09-19T20:24:09.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -526,3 +526,11 @@ We komen standbeelden van paarden tegen, in het moeras. Het lijken beelden van c
 Dan begint het water weg te zakken. Is er een O'well in de buurt? We kunnen nu makkelijker lopen, ookal is het wel drekkig. We komen twee medium-grootte kraanvogels tegen en schieten er 1 neer. Die was wel groot genoeg geweest om op te kunnen vliegen... Maar nu hebben we wat te eten, wanneer we een plek vinden om een kamp op te zetten. Verderop is een goblin met een top hat. Hij heeft een gammel bootje. In het water zien we iets groots zwemmen, vrachtwagengrootte. Ze heet Barbara, is een krokodil, en ze zijn al lang samen. Ze is niet te koop. 
 Hij verkoopt een honden/kattenhalsband waardoor ze kunnen blinken. Ook heeft hij een speer te koop, waardoor alle vissen naar je luisteren. We kopen de trident en potion waarmee je dieren kan commanderen, voor onder andere de hourglass penchant. 
 We komen iets heel schattigs tegen. Iedereen ziet iets anders. Huggok ziet een klein goblintje, heel schattig. De goblin zegt dat hij mijn wens kan vervullen.
+
+# 2024-09-19 Sessie 38
+Hij kan ons in een Boghag veranderen. We bedanken en gaan door. We horen de hag al "schaaaatjes" roepen. Het laatste stukje moeras vliegen we over. In het moeras worden we door pijlen aangevallen. Het zijn centaurs, die boos zijn omdat er iemand op Arutha rijdt. 
+We komen uit de mist. We zien een weg omhoog, met veel bliksem erachter.
+Drie geiten op de berg die roepen: "When the moon obstructs the sun, creeping limb will come undone. Play to her passions, stay on script. A cat, a horn or a shadow ripped. The fool's ceptor is the key." Creeping limb = andolyn?
+We moeten verder de berg op om bij Andolyn te komen. Finnaes en Huggok voelen dat hier hun woorden en muziek hangen. We zien een tornado bovenop de berg. Boven de pilaar op de berg: een grote bliksemafleider. We proberen een grot te bereiken maar worden gepakt door de tornado. Die zet ons af in een willekeurige plek in Prismeer. We vallen neer bij een aantal torens, met een wenteltrap erin. Onderaan een meer. Een vuurkorf op de torens. Grote medium-sized vogels met gewijen op elke toren. Op een van de trappen loopt een gedaante met een fakkel omhoog, een elf. Hij steekt de vuurkorf aan, maar als hij weer halverwege naar beneden is wapperen de vogels het uit. We steken er zelf eentje aan en de vogels komen er op af. De vogels zijn geen dieren, maar Peritons, een kruising tussen een jachtvogel en een hert. Als je naar hun schaduw kijkt, heeft de schaduw een mensachtige vorm. 
+De elf heet Alagartaz, prince of the misty forest. De vogels waren de Greyhawk murmurs, een groep acteurs. Hij wil terug naar Misty Forest, maar daarvoor moeten alle vuurkorven aan, dan ziet hij de weg naar huis. Hij heeft een cape met een goud/groen randje. Hij heeft een afspraak gemaakt met Andolyn, maar hij moest dan eerst de draak doden. Hij zou in dat gevecht sterven, maar niet als hij hier een jaar zou blijven. 
+We leiden de vogels af door toneelstukken op te voeren. Huggok kan dat blijkbaar heel goed en houdt het uren vol. De laatste vuurkorf steekt hij aan onder toneelbegeleiding van Finnaes en Scram die Gnomeo en Elfiet opvoeren. De elf duikt in het water en verdwijnt, waarop de vuurkorven weer uit gaan. We zetten kamp op bovenop, bij een vuurtje. Arutha houdt de wacht om zeker te zijn dat we er niet afrollen in onze slaap. Hij blijft vast wakker... toch? (nee)
