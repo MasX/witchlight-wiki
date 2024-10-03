@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-09-19T20:25:04.562Z
+date: 2024-10-03T20:27:08.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -534,3 +534,7 @@ Drie geiten op de berg die roepen: "When the moon obstructs the sun, creeping li
 We moeten verder de berg op om bij Andolyn te komen. Finnaes en Huggok voelen dat hier hun woorden en muziek hangen. We zien een tornado bovenop de berg. Boven de pilaar op de berg: een grote bliksemafleider. We proberen een grot te bereiken maar worden gepakt door de tornado. Die zet ons af in een willekeurige plek in Prismeer. We vallen neer bij een aantal torens, met een wenteltrap erin. Onderaan een meer. Een vuurkorf op de torens. Grote medium-sized vogels met gewijen op elke toren. Op een van de trappen loopt een gedaante met een fakkel omhoog, een elf. Hij steekt de vuurkorf aan, maar als hij weer halverwege naar beneden is wapperen de vogels het uit. We steken er zelf eentje aan en de vogels komen er op af. De vogels zijn geen dieren, maar Peritons, een kruising tussen een jachtvogel en een hert. Als je naar hun schaduw kijkt, heeft de schaduw een mensachtige vorm. 
 De elf heet Alagartaz, prince of the misty forest. De vogels waren de Greyhawk murmurs, een groep acteurs. Hij wil terug naar Misty Forest, maar daarvoor moeten alle vuurkorven aan, dan ziet hij de weg naar huis. Hij heeft een cape met een goud/groen randje. Hij heeft een afspraak gemaakt met Andolyn, maar hij moest dan eerst de draak doden. Hij zou in dat gevecht sterven, maar niet als hij hier een jaar zou blijven. 
 We leiden de vogels af door toneelstukken op te voeren. Huggok kan dat blijkbaar heel goed en houdt het uren vol. De laatste vuurkorf steekt hij aan onder toneelbegeleiding van Finnaes en Scram die Gnomeo en Elfiet opvoeren. De elf duikt in het water en verdwijnt, waarop de vuurkorven weer uit gaan. We zetten kamp op bovenop, bij een vuurtje. Arutha houdt de wacht om zeker te zijn dat we er niet afrollen in onze slaap. Hij blijft vast wakker... toch? (nee)
+
+# 2024-10-03 Sessie 39
+We halen maar een short rest. We dromen allemaal over thuis. Huggok droomt van een groep bij het kampvuur, hij kan het wel voelen! Een paar van ons horen een Jabberwock erdoorheen. We haasten ons naar beneden. Benji op Arutha's rug, met fly. Scram rent van de trap maar komt de Jabberwock tegen en springt naar beneden. Arutha vangt hem. Finnaes en Huggok rennen naar beneden, met wat shortcuts vliegend naar de volgdende verdieping. De jabberwock blijft Arutha en Scram achterna vliegen. Ze duiken het water in. 
+Benji, Finnaes en Huggok rennen rond het meer om te gaan helpen. Benji ziet een acrobatenelf die aangeeft dat we moeten komen. We overnachten bij de elf, en Arutha en Scram onder de grond in een hol. Als ze wakker worden zijn ze vastgebonden...
