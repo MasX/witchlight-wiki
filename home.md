@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-10-03T20:27:08.511Z
+date: 2024-11-07T21:03:54.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -537,4 +537,17 @@ We leiden de vogels af door toneelstukken op te voeren. Huggok kan dat blijkbaar
 
 # 2024-10-03 Sessie 39
 We halen maar een short rest. We dromen allemaal over thuis. Huggok droomt van een groep bij het kampvuur, hij kan het wel voelen! Een paar van ons horen een Jabberwock erdoorheen. We haasten ons naar beneden. Benji op Arutha's rug, met fly. Scram rent van de trap maar komt de Jabberwock tegen en springt naar beneden. Arutha vangt hem. Finnaes en Huggok rennen naar beneden, met wat shortcuts vliegend naar de volgdende verdieping. De jabberwock blijft Arutha en Scram achterna vliegen. Ze duiken het water in. 
-Benji, Finnaes en Huggok rennen rond het meer om te gaan helpen. Benji ziet een acrobatenelf die aangeeft dat we moeten komen. We overnachten bij de elf, en Arutha en Scram onder de grond in een hol. Als ze wakker worden zijn ze vastgebonden...
+Benji, Finnaes en Huggok rennen rond het meer om te gaan helpen. Benji ziet een acrobatenelf, Gleam, die aangeeft dat we moeten komen. We overnachten bij de elf, en Arutha en Scram onder de grond in een hol. Als ze wakker worden zijn ze vastgebonden... De andere helft van het elfenduo zit gevangen. Ze kunnen door elkaars ogen kijken en hebben geen schaduw, of in ieder geval Gleam niet.
+
+# 2024-10-x Sessie 40
+<!-- ziek --> 
+Party gesplit. Muisachtige beesten. Mulliver van Wither's call was er, onbewust dat hen zoek was. Hen leidt ze weer naar boven. 
+
+De andere helft gaat naar de Court. Of niet. Bij Moddernhorn komen ze een Goblin meisje, Finia, tegen met een cursed vlieger. Als ze hem los laat dan gaat er iets mis, maar onduidelijk wat. We maken de vlieger los, met wat moeite. Ze zegt dat je wel gek moet zijn om naar Modderhorn te gaan. 
+
+# 2024-11-07 Sessie 41
+Creeping Lynn heeft Grolmo de brickanox gevangen. Hij ontwerpt, onder andere bruggen. Ze worden gewaarschuwd op te passen voor de schaduwlozen. 
+
+theatertje op straat met Scram en Arutha erin
+Als we herenigd zijn gaan we Modderhorn in. Binnen openen we een zwart gordijn en horen een theater. Een voorstelling van drie verdrinkende zeelieden die een doodskist vasthouden in een golfachtige constructie. Van bovenaf goblins die schijnwerpers richten. Een elf, een goblin en een dwerg. 
+Vanuit dieper in de berg horen we iets ratelen. Op de hoogste balkons staat een gedaante met zo'n theatermonocleding. Het is de hag. Een kleurrijke goblin komt onze kant op. Hij heeft een staf vast met een goblinhoofd erop. Een nilgob? Hij heet stagefright. Of we indruk komen maken op de Dame of Unhappy endings. Hij geeft ons een script dat gelijk verdwijnt. Huggok speelt de laffe nobelman. Hij neemt ons mee naar de prop room. We moeten zelf vinden wat we nodig hebben. Er hangen allerlei props, eigenlijk alles wat je redelijkerwijs kunt verwachten. Maar ook een mensengrootte muizenval. We moeten de hag pleasen, want dan mogen we onderhandelen over het teruggeven van o.a. de viol van Finnaes. 
