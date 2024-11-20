@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-20T21:06:10.836Z
+date: 2024-11-20T21:10:18.740Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -560,3 +560,5 @@ In de omkleedruimte komen we Hurly tegen, in drakenkostuum. Hij ziet er niet bes
 Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. We komen langs een bibliotheek, en dan langs een ruimte met een vreemd elektrisch geval. We komen bij het audientiekamertje. Zwarte muren met gouden versierinkjes. Mooie stoelen, gericht op een podium waar een gordijn voorhangt. We gaan zitten. Endelynn komt tevoorschijn zodra Stagefright weg is. 
 
 We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Modderhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Skilla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als charming geintroduceerd. 
+
+Level 7! 
