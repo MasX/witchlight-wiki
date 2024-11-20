@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-07T21:05:34.718Z
+date: 2024-11-20T20:17:50.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -551,3 +551,11 @@ Creeping Lynn heeft Grolmo de brickanox gevangen. Hij ontwerpt, onder andere bru
 theatertje op straat met Scram en Arutha erin
 Als we herenigd zijn gaan we Modderhorn in. Binnen openen we een zwart gordijn en horen een theater. Een voorstelling van drie verdrinkende zeelieden die een doodskist vasthouden in een golfachtige constructie. Van bovenaf goblins die schijnwerpers richten. Een elf, een goblin en een dwerg. 
 Vanuit dieper in de berg horen we iets ratelen. Op de hoogste balkons staat een gedaante met zo'n theatermonocleding. Het is de hag. Een kleurrijke goblin komt onze kant op. Hij heeft een staf vast met een goblinhoofd erop. Een nilgob? Hij heet stagefright. Of we indruk komen maken op de Dame of Unhappy endings. Hij geeft ons een script dat gelijk verdwijnt. Huggok speelt de laffe nobelman. Hij neemt ons mee naar de prop room. We moeten zelf vinden wat we nodig hebben. Er hangen allerlei props, eigenlijk alles wat je redelijkerwijs kunt verwachten. Maar ook een mensengrootte muizenval. We moeten de hag pleasen, want dan mogen we onderhandelen over het teruggeven van o.a. de viol van Finnaes. 
+
+# 2024-11-20 Sessie 42
+Huggok pakt een blikken 'zilveren' kroon, een staf met een pompoen in hoofdvorm en een cape met grote jas met kraag die ooit wit was maar nu geel. Hij vindt dat de staf met hoofd doet denken aa de laffe stagefright, en aan de laffe pompoenen in Loomlurch. 
+
+In de omkleedruimte komen we Hurly tegen, in drakenkostuum. Hij ziet er niet best uit. In de spiegel nog slechter dan in echt. Hij heeft een slechte deal gemaakt, zodat iedereen hem aardig zou vinden. Hij heeft ook zijn schaduw weggeruild. Hij lijkt voor de stem in de hall of illusions getrapt te zijn, die belooft dat ze van je houden als je meekomt. 
+
+Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. 
+
