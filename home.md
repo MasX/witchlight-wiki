@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-20T20:17:50.333Z
+date: 2024-11-20T20:54:59.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -557,5 +557,6 @@ Huggok pakt een blikken 'zilveren' kroon, een staf met een pompoen in hoofdvorm 
 
 In de omkleedruimte komen we Hurly tegen, in drakenkostuum. Hij ziet er niet best uit. In de spiegel nog slechter dan in echt. Hij heeft een slechte deal gemaakt, zodat iedereen hem aardig zou vinden. Hij heeft ook zijn schaduw weggeruild. Hij lijkt voor de stem in de hall of illusions getrapt te zijn, die belooft dat ze van je houden als je meekomt. 
 
-Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. 
+Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. We komen langs een bibliotheek, en dan langs een ruimte met een vreemd elektrisch geval. We komen bij het audientiekamertje. Zwarte muren met gouden versierinkjes. Mooie stoelen, gericht op een podium waar een gordijn voorhangt. We gaan zitten. Endelynn komt tevoorschijn zodra Stagefright weg is. 
 
+We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Modderhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. 
