@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-20T21:10:18.740Z
+date: 2024-11-28T19:23:22.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -530,7 +530,7 @@ We komen iets heel schattigs tegen. Iedereen ziet iets anders. Huggok ziet een k
 # 2024-09-19 Sessie 38
 Hij kan ons in een Boghag veranderen. We bedanken en gaan door. We horen de hag al "schaaaatjes" roepen. Het laatste stukje moeras vliegen we over. In het moeras worden we door pijlen aangevallen. Het zijn centaurs, die boos zijn omdat er iemand op Arutha rijdt. 
 We komen uit de mist. We zien een weg omhoog, met veel bliksem erachter.
-Drie geiten op de berg die roepen: "When the moon obstructs the sun, creeping limb will come undone. Play to her passions, stay on script. A cat, a horn or a shadow ripped. The fool's ceptor is the key." Creeping limb = andolyn?
+Drie geiten op de berg die roepen: "When the moon obstructs the sun, creeping limb will come undone. Play to her passions, stay on script. A cat, a horn or a shadow ripped. The fool's scepter is the key." Creeping limb = andolyn?
 We moeten verder de berg op om bij Andolyn te komen. Finnaes en Huggok voelen dat hier hun woorden en muziek hangen. We zien een tornado bovenop de berg. Boven de pilaar op de berg: een grote bliksemafleider. We proberen een grot te bereiken maar worden gepakt door de tornado. Die zet ons af in een willekeurige plek in Prismeer. We vallen neer bij een aantal torens, met een wenteltrap erin. Onderaan een meer. Een vuurkorf op de torens. Grote medium-sized vogels met gewijen op elke toren. Op een van de trappen loopt een gedaante met een fakkel omhoog, een elf. Hij steekt de vuurkorf aan, maar als hij weer halverwege naar beneden is wapperen de vogels het uit. We steken er zelf eentje aan en de vogels komen er op af. De vogels zijn geen dieren, maar Peritons, een kruising tussen een jachtvogel en een hert. Als je naar hun schaduw kijkt, heeft de schaduw een mensachtige vorm. 
 De elf heet Alagartaz, prince of the misty forest. De vogels waren de Greyhawk murmurs, een groep acteurs. Hij wil terug naar Misty Forest, maar daarvoor moeten alle vuurkorven aan, dan ziet hij de weg naar huis. Hij heeft een cape met een goud/groen randje. Hij heeft een afspraak gemaakt met Andolyn, maar hij moest dan eerst de draak doden. Hij zou in dat gevecht sterven, maar niet als hij hier een jaar zou blijven. 
 We leiden de vogels af door toneelstukken op te voeren. Huggok kan dat blijkbaar heel goed en houdt het uren vol. De laatste vuurkorf steekt hij aan onder toneelbegeleiding van Finnaes en Scram die Gnomeo en Elfiet opvoeren. De elf duikt in het water en verdwijnt, waarop de vuurkorven weer uit gaan. We zetten kamp op bovenop, bij een vuurtje. Arutha houdt de wacht om zeker te zijn dat we er niet afrollen in onze slaap. Hij blijft vast wakker... toch? (nee)
@@ -543,13 +543,13 @@ Benji, Finnaes en Huggok rennen rond het meer om te gaan helpen. Benji ziet een 
 <!-- ziek --> 
 Party gesplit. Muisachtige beesten. Mulliver van Wither's call was er, onbewust dat hen zoek was. Hen leidt ze weer naar boven. 
 
-De andere helft gaat naar de Court. Of niet. Bij Moddernhorn komen ze een Goblin meisje, Finia, tegen met een cursed vlieger. Als ze hem los laat dan gaat er iets mis, maar onduidelijk wat. We maken de vlieger los, met wat moeite. Ze zegt dat je wel gek moet zijn om naar Modderhorn te gaan. 
+De andere helft gaat naar de Court. Of niet. Bij Motherhorn komen ze een Goblin meisje, Finia, tegen met een cursed vlieger. Als ze hem los laat dan gaat er iets mis, maar onduidelijk wat. We maken de vlieger los, met wat moeite. Ze zegt dat je wel gek moet zijn om naar Motherhorn te gaan. 
 
 # 2024-11-07 Sessie 41
 Creeping Lynn heeft Grolmo de brickanox gevangen. Hij ontwerpt, onder andere bruggen. Ze worden gewaarschuwd op te passen voor de schaduwlozen. 
 
 theatertje op straat met Scram en Arutha erin
-Als we herenigd zijn gaan we Modderhorn in. Binnen openen we een zwart gordijn en horen een theater. Een voorstelling van drie verdrinkende zeelieden die een doodskist vasthouden in een golfachtige constructie. Van bovenaf goblins die schijnwerpers richten. Een elf, een goblin en een dwerg. 
+Als we herenigd zijn gaan we Motherhorn in. Binnen openen we een zwart gordijn en horen een theater. Een voorstelling van drie verdrinkende zeelieden die een doodskist vasthouden in een golfachtige constructie. Van bovenaf goblins die schijnwerpers richten. Een elf, een goblin en een dwerg. 
 Vanuit dieper in de berg horen we iets ratelen. Op de hoogste balkons staat een gedaante met zo'n theatermonocleding. Het is de hag. Een kleurrijke goblin komt onze kant op. Hij heeft een staf vast met een goblinhoofd erop. Een nilgob? Hij heet stagefright. Of we indruk komen maken op de Dame of Unhappy endings. Hij geeft ons een script dat gelijk verdwijnt. Huggok speelt de laffe nobelman. Hij neemt ons mee naar de prop room. We moeten zelf vinden wat we nodig hebben. Er hangen allerlei props, eigenlijk alles wat je redelijkerwijs kunt verwachten. Maar ook een mensengrootte muizenval. We moeten de hag pleasen, want dan mogen we onderhandelen over het teruggeven van o.a. de viol van Finnaes. 
 
 # 2024-11-20 Sessie 42
@@ -559,6 +559,9 @@ In de omkleedruimte komen we Hurly tegen, in drakenkostuum. Hij ziet er niet bes
 
 Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. We komen langs een bibliotheek, en dan langs een ruimte met een vreemd elektrisch geval. We komen bij het audientiekamertje. Zwarte muren met gouden versierinkjes. Mooie stoelen, gericht op een podium waar een gordijn voorhangt. We gaan zitten. Endelynn komt tevoorschijn zodra Stagefright weg is. 
 
-We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Modderhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Skilla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als charming geintroduceerd. 
+We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Motherhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Skilla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als charming geintroduceerd. 
 
 Level 7! 
+
+# 2024-11-28 Sessie 43
+
