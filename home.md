@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-28T21:08:10.616Z
+date: 2024-11-28T21:11:33.762Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -571,4 +571,4 @@ Charmay lijkt self-absorbed, maar wel met interesse om iets uit de situatie te h
 We huren de scepter van Stagefright voor de trident, tot de volgende voorstelling. 
 Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. Hij kent Huggok van het legioen. Hij vertelt dat de maskers voorgangers waren die slechte dingen hebben gedaan, of gasten die ze niet mag. Naast het schaduwtheater is een maskermaker. De kamer erboven is de gevangenis waar de zon-elf gevangen zit. De maan-elf was die we buiten achtergelaten hebben. De goblin vertelt dat er in een van de torens iets dichtgetimmerd is en erachter zit een grote bel. In een van de kleedkamers staat een troon met een sleutel onder het kussen verstopt. Voor de revolutie. Van de goblins. 
 
-Onderweg naar de gevangenis komen we door de bibliotheek. We lijken gevolgd te worden door de biliothekarissen. Benji leidt ze af door een boek te lezen, over een Elf die zijn hart aan de hag gegeven heeft. We sneaken door. Benji vindt een kleine gedaante achter een kast die aan het overgeven is. De Wretched Demon heeft een philactery in het voorhoofd. Benji raakt hem aan en als we terug komen om hem te halen, wij ook. We komen in een abstracte-kunst-wereld. We zien een oververmoeide vrouw met een kristallen bal. Ze heeft een aberrant feymark onder haar oog, net als die van Huggok op zijn arm. Ze slaat de bal weg, tegen iets wat dan begint te vliegen. De focus shift naar een schaakbord. Een wit stuk slaat de zwarte koningin. 
+Onderweg naar de gevangenis komen we door de bibliotheek. We lijken gevolgd te worden door de biliothekarissen. Benji leidt ze af door een boek te lezen, over een Elf die zijn hart aan de hag gegeven heeft. We sneaken door. Benji vindt een kleine gedaante achter een kast die aan het overgeven is. De Wretched Demon heeft een philactery in het voorhoofd. Benji raakt hem aan en als we terug komen om hem te halen, wij ook. We komen in een abstracte-kunst-wereld. We zien een oververmoeide vrouw met een kristallen bal. Ze heeft een aberrant feymark onder haar oog, net als die van Huggok op zijn arm. De mark die hij heeft van de horcruxes. Ze slaat de bal weg, tegen iets wat dan begint te vliegen. De focus shift naar een schaakbord. Een wit stuk slaat de zwarte koningin. 
