@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-28T20:30:11.502Z
+date: 2024-11-28T21:05:37.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -569,4 +569,6 @@ Scram spreekt een goblin aan: "de raaf wacht in de schaduw". Hij koopt onbedoeld
 Charmay lijkt self-absorbed, maar wel met interesse om iets uit de situatie te halen. Ze weet meer dan ze voor doet komen. Mogelijk een changeling of anders vals voorkomen. Ze kwam hier met Kelk van de league, want die wilden de staf van Ringelrun overnemen. Om Sybilna te chanteren om te helpen. Ze heeft de league verraadden. Ze heeft in Motherhorn haar roeping gevonden: Baba Yaga. Ze voert een spell uit met lichtjes in haar hand. Onduidelijk wat dat is. Ze lijkt een warlock te zijn met Baba Yaga als patron. Toen Kelk met Sybilna ging praten hebben ze de boel overgenomen. Baba Yaga is in het huis met de twee kippenpoten.   
 
 We huren de scepter van Stagefright voor de trident, tot de volgende voorstelling. 
-Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. 
+Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. Hij kent Huggok van het legioen. Hij vertelt dat de maskers voorgangers waren die slechte dingen hebben gedaan, of gasten die ze niet mag. Naast het schaduwtheater is een maskermaker. De kamer erboven is de gevangenis waar de zon-elf gevangen zit. De maan-elf was die we buiten achtergelaten hebben. De goblin vertelt dat er in een van de torens iets dichtgetimmerd is en erachter zit een grote bel. In een van de kleedkamers staat een troon met een sleutel onder het kussen verstopt. Voor de revolutie. Van de goblins. 
+
+Onderweg naar de gevangenis komen we door de bibliotheek. We lijken gevolgd te worden door de biliothekarissen. Benji leidt ze af door een boek te lezen, over een Elf die zijn hart aan de hag gegeven heeft. We sneaken door. Benji vindt een kleine gedaante achter een kast die aan het overgeven is. De Wretched Demon heeft een philactery in het voorhoofd. Benji raakt hem aan en als we terug komen om hem te halen, wij ook. We komen in een abstracte-kunst-wereld. We zien een oververmoeide vrouw met een kristallen bal. Ze slaat de bal weg, tegen iets wat dan begint te vliegen. De focus shift naar een schaakbord. Een wit stuk slaat de zwarte koningin. 
