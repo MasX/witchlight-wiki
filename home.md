@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-28T19:24:41.542Z
+date: 2024-11-28T20:30:11.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -559,9 +559,14 @@ In de omkleedruimte komen we Hurly tegen, in drakenkostuum. Hij ziet er niet bes
 
 Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. We komen langs een bibliotheek, en dan langs een ruimte met een vreemd elektrisch geval. We komen bij het audientiekamertje. Zwarte muren met gouden versierinkjes. Mooie stoelen, gericht op een podium waar een gordijn voorhangt. We gaan zitten. Endelynn komt tevoorschijn zodra Stagefright weg is. 
 
-We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Motherhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Charmay/Skylla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als charming geintroduceerd. 
+We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Motherhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Skylla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als Charmay geintroduceerd. 
 
 Level 7! 
 
 # 2024-11-28 Sessie 43
+Scram spreekt een goblin aan: "de raaf wacht in de schaduw". Hij koopt onbedoeld wat drugs. Maar dit is niet de goblin die hij zoekt. Hij komt te weten waar de goblingevangenis is: diep onder de grond. Daar zit Klyn gevangen. Dat is wat anders dan de andere gevangenis, waar het mooier is. 
 
+Charmay lijkt self-absorbed, maar wel met interesse om iets uit de situatie te halen. Ze weet meer dan ze voor doet komen. Mogelijk een changeling of anders vals voorkomen. Ze kwam hier met Kelk van de league, want die wilden de staf van Ringelrun overnemen. Om Sybilna te chanteren om te helpen. Ze heeft de league verraadden. Ze heeft in Motherhorn haar roeping gevonden: Baba Yaga. Ze voert een spell uit met lichtjes in haar hand. Onduidelijk wat dat is. Ze lijkt een warlock te zijn met Baba Yaga als patron. Toen Kelk met Sybilna ging praten hebben ze de boel overgenomen. Baba Yaga is in het huis met de twee kippenpoten.   
+
+We huren de scepter van Stagefright voor de trident, tot de volgende voorstelling. 
+Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. 
