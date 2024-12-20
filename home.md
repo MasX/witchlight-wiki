@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-11-28T21:11:33.762Z
+date: 2024-12-20T20:29:44.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -571,4 +571,21 @@ Charmay lijkt self-absorbed, maar wel met interesse om iets uit de situatie te h
 We huren de scepter van Stagefright voor de trident, tot de volgende voorstelling. 
 Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. Hij kent Huggok van het legioen. Hij vertelt dat de maskers voorgangers waren die slechte dingen hebben gedaan, of gasten die ze niet mag. Naast het schaduwtheater is een maskermaker. De kamer erboven is de gevangenis waar de zon-elf gevangen zit. De maan-elf was die we buiten achtergelaten hebben. De goblin vertelt dat er in een van de torens iets dichtgetimmerd is en erachter zit een grote bel. In een van de kleedkamers staat een troon met een sleutel onder het kussen verstopt. Voor de revolutie. Van de goblins. 
 
-Onderweg naar de gevangenis komen we door de bibliotheek. We lijken gevolgd te worden door de biliothekarissen. Benji leidt ze af door een boek te lezen, over een Elf die zijn hart aan de hag gegeven heeft. We sneaken door. Benji vindt een kleine gedaante achter een kast die aan het overgeven is. De Wretched Demon heeft een philactery in het voorhoofd. Benji raakt hem aan en als we terug komen om hem te halen, wij ook. We komen in een abstracte-kunst-wereld. We zien een oververmoeide vrouw met een kristallen bal. Ze heeft een aberrant feymark onder haar oog, net als die van Huggok op zijn arm. De mark die hij heeft van de horcruxes. Ze slaat de bal weg, tegen iets wat dan begint te vliegen. De focus shift naar een schaakbord. Een wit stuk slaat de zwarte koningin. 
+Onderweg naar de gevangenis komen we door de bibliotheek. We lijken gevolgd te worden door de biliothekarissen. Benji leidt ze af door een boek te lezen, over een Elf die zijn hart aan de hag gegeven heeft. We sneaken door. Benji vindt een kleine gedaante achter een kast die aan het overgeven is. De Wretched Demon heeft een philactery in het voorhoofd. Benji raakt hem aan en als we terug komen om hem te halen, wij ook. We komen in een abstracte-kunst-wereld. We zien een oververmoeide vrouw met een kristallen bal. Ze heeft een aberrant feymark onder haar oog, net als die van Huggok op zijn arm. De mark die hij heeft van de horcruxes. Ze slaat de bal weg, er komt een demoontje uitkruimen dat weg begint te vliegen. De focus shift naar een schaakbord. Een wit stuk slaat de zwarte koningin. 
+
+# 2024-12-20 Sessie 44
+Tasha triggert als Huggok suggereert dat de zwarte koningin Baba Yaga is. Vroeger was alles goed, toen ze bij haar moeder was. Het is allemaal Morden Caynen's schuld. Die heeft haar altijd zitten tegenwerken. Ze was de witch queen van Pernland, daar was iedereen gelukkig. Ze zit vast door Crast, een demon met 6 vingers. Greyhawk is een stad waar ze was, Scram komt er vandaan. 
+Ze inspecteert onze philactery. Het is geen ziel, maar een gevoel. Een gevoel van woede, het is de philactery van het pompoenenveld in Loomlurch. Ze zijn gemaakt door een zeer sterke mage, Iggwilv, de Witch Queen of Pernland, die van zijn/haar emoties afwilde. Dat Benji hier achter komt verandert de geschiedenis. 
+Als we terug zijn in de bibliotheek komen de bibliothekarisen naar ons toe, met een pagina uit een boek met de mark erop. Naast ons ligt de philactery van disgust. 
+
+Philacteries: 
+- [x] Jealousy (grot van Nip)
+- [x] Envy (bovenop de o'well)
+- [x] Rage (pompoenenveld, loomlurch)
+- [ ] Maliciousness (digs in the dark of night)
+- [x] Disdain (hut van Baron Illig)
+- [ ] Loathing (stands still, a cold stony face)
+- [x] Disgust (bibliotheek van Motherhorn)
+- [ ] Annoyance (ignites at the faintest of sounds)
+
+Natasha -> Tasha -> Iggwilv -> Zybilna
