@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-12-20T21:30:07.405Z
+date: 2024-12-20T21:35:06.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -596,4 +596,5 @@ We zien een boek met een kikker op de kaft. Huggok besluit het te kussen. Tales 
 Boven aan de trap vinden we een hoop goblinharnassen met goblinskeletten erin. De deur begint te bewegen en stuurt ons weg. De deur doet zijn mond open bij het zien van de scepter en we gaan erdoorheen. We komen bij een hele comfortabele cel. Glister, de zonne-elf, is wijn aan het drinken in een gouden cel. De zonne-eclipse is de zwakte van de Hag. Ze werkten voor het mooiste carnaval, ze waren de acrobaten. Glister heeft haar schaduw nog wel. Misschien kunnen we in plaats van haar zus als maan een maan laten maken door de goblins. De elf was Tales from the gloaming court, vol 8. aan het lezen. Lijkt niet relevant te zijn, maar wel een goed verhaal. 
 In de toren zit een portal naar de palace of heart's desire. 
 
-We gaan een toneelstuk opvoeren waarin we een maan, gemaakt de goblins, gebruiken samen met de Glister als zon zodat Endolynn niet meer onsterfelijk is. De goblins helpen we om hun opstand te organiseren, zij zorgen voor chaos om de de Darklings af te leiden mochten ze het erg vinden als we Endolynn aanvallen. We lokken Endolyn naar beneden, met een goblinhoofd op een staak. 
+Het plan: 
+We gaan een toneelstuk opvoeren waarin we een maan, gemaakt de goblins, gebruiken samen met de Glister als zon zodat Endolynn niet meer onsterfelijk is. De goblins helpen we om hun opstand te organiseren, hoewel de Ragged Legion (het verzet) buiten het kasteel zit. Zij zorgen voor chaos om de de Darklings af te leiden mochten ze het erg vinden als we Endolynn aanvallen. We lokken Endolyn naar beneden, met een goblinhoofd op een staak. Kunnen we de Darklings in het publiek laten denken dat het gevecht met haar bij het toneelstuk hoort? 
