@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-12-20T21:35:06.097Z
+date: 2024-12-20T21:39:27.600Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -598,3 +598,4 @@ In de toren zit een portal naar de palace of heart's desire.
 
 Het plan: 
 We gaan een toneelstuk opvoeren waarin we een maan, gemaakt de goblins, gebruiken samen met de Glister als zon zodat Endolynn niet meer onsterfelijk is. De goblins helpen we om hun opstand te organiseren, hoewel de Ragged Legion (het verzet) buiten het kasteel zit. Zij zorgen voor chaos om de de Darklings af te leiden mochten ze het erg vinden als we Endolynn aanvallen. We lokken Endolyn naar beneden, met een goblinhoofd op een staak. Kunnen we de Darklings in het publiek laten denken dat het gevecht met haar bij het toneelstuk hoort? 
+De maan is aan het praten met een grote paardebloem. Het lijkt erop dat zij mogelijk door de mist wil reizen. 
