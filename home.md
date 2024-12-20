@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-12-20T20:29:44.986Z
+date: 2024-12-20T21:30:07.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -574,7 +574,7 @@ Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. Hij k
 Onderweg naar de gevangenis komen we door de bibliotheek. We lijken gevolgd te worden door de biliothekarissen. Benji leidt ze af door een boek te lezen, over een Elf die zijn hart aan de hag gegeven heeft. We sneaken door. Benji vindt een kleine gedaante achter een kast die aan het overgeven is. De Wretched Demon heeft een philactery in het voorhoofd. Benji raakt hem aan en als we terug komen om hem te halen, wij ook. We komen in een abstracte-kunst-wereld. We zien een oververmoeide vrouw met een kristallen bal. Ze heeft een aberrant feymark onder haar oog, net als die van Huggok op zijn arm. De mark die hij heeft van de horcruxes. Ze slaat de bal weg, er komt een demoontje uitkruimen dat weg begint te vliegen. De focus shift naar een schaakbord. Een wit stuk slaat de zwarte koningin. 
 
 # 2024-12-20 Sessie 44
-Tasha triggert als Huggok suggereert dat de zwarte koningin Baba Yaga is. Vroeger was alles goed, toen ze bij haar moeder was. Het is allemaal Morden Caynen's schuld. Die heeft haar altijd zitten tegenwerken. Ze was de witch queen van Pernland, daar was iedereen gelukkig. Ze zit vast door Crast, een demon met 6 vingers. Greyhawk is een stad waar ze was, Scram komt er vandaan. 
+Tasha triggert als Huggok suggereert dat de zwarte koningin Baba Yaga is. Vroeger was alles goed, toen ze bij haar moeder was. Het is allemaal Morden Caynen's schuld. Die heeft haar altijd zitten tegenwerken. Ze was de witch queen van Pernland, daar was iedereen gelukkig. Ze zit vast door Crast, een demon met 6 vingers, die haar rechterhand was. Greyhawk is een stad waar ze was, Scram komt er vandaan. 
 Ze inspecteert onze philactery. Het is geen ziel, maar een gevoel. Een gevoel van woede, het is de philactery van het pompoenenveld in Loomlurch. Ze zijn gemaakt door een zeer sterke mage, Iggwilv, de Witch Queen of Pernland, die van zijn/haar emoties afwilde. Dat Benji hier achter komt verandert de geschiedenis. 
 Als we terug zijn in de bibliotheek komen de bibliothekarisen naar ons toe, met een pagina uit een boek met de mark erop. Naast ons ligt de philactery van disgust. 
 
@@ -589,3 +589,11 @@ Philacteries:
 - [ ] Annoyance (ignites at the faintest of sounds)
 
 Natasha -> Tasha -> Iggwilv -> Zybilna
+
+Is Rule of Three een kind van Crast en Tasha? De relatief gematigde zoon. 
+
+We zien een boek met een kikker op de kaft. Huggok besluit het te kussen. Tales from the gloaming court, vol. 3. Huggok probeert het te stelen maar wordt betrapt en laat het vallen. 
+Boven aan de trap vinden we een hoop goblinharnassen met goblinskeletten erin. De deur begint te bewegen en stuurt ons weg. De deur doet zijn mond open bij het zien van de scepter en we gaan erdoorheen. We komen bij een hele comfortabele cel. Glister, de zonne-elf, is wijn aan het drinken in een gouden cel. De zonne-eclipse is de zwakte van de Hag. Ze werkten voor het mooiste carnaval, ze waren de acrobaten. Glister heeft haar schaduw nog wel. Misschien kunnen we in plaats van haar zus als maan een maan laten maken door de goblins. De elf was Tales from the gloaming court, vol 8. aan het lezen. Lijkt niet relevant te zijn, maar wel een goed verhaal. 
+In de toren zit een portal naar de palace of heart's desire. 
+
+We gaan een toneelstuk opvoeren waarin we een maan, gemaakt de goblins, gebruiken samen met de Glister als zon zodat Endolynn niet meer onsterfelijk is. De goblins helpen we om hun opstand te organiseren, zij zorgen voor chaos om de de Darklings af te leiden mochten ze het erg vinden als we Endolynn aanvallen. We lokken Endolyn naar beneden, met een goblinhoofd op een staak. 
