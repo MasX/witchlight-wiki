@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-01-10T19:58:17.572Z
+date: 2025-01-10T21:03:10.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -603,5 +603,14 @@ Gleam is aan het praten met een grote paardebloem. Het lijkt erop dat zij mogeli
 We kunnen ook proberen een maan naar deze cellen te krijgen en de hag te verrassen als ze hier naartoe komt. 
 
 # 2025-01-10 Sessie 45
+<!-- Coen afwezig, vakantie -->
 We willen Gleam naar binnen halen. We gaan terug naar de artiestenslaapruimtes en nemen een long rest.
 Als Huggok slaapt maar wordt wakker gemaakt door Charmay, die hem vraagt of hij het snapt. Ze spreekt hem telkens aan met Naggok. "Wanneer moet je eigenlijk een nieuwe naam, als je zo veranderd bent?"
+
+Arutha wordt aangetikt door een oude goblin die duidelijk iets tegen centaurs heeft. "Wat je zoekt in je hart zal je met je hoofd niet vinden."
+
+De naam van de verzetsleider heet Dimitrik, de beste grapjas, de stem van de koning, high jester, iets met een 'c'. Hij heeft alle woorden.  
+
+Huggok probeert Charmay aan zijn kant te krijgen. Ze lijkt het niet heel erg te vinden als Endolyn's kamers vrij komen, maar wil geen actieve rol spelen tenzij haar veiligheid bedreigd wordt. We moeten sowieso wel zorgen dat Goblins hun plek blijven kennen. 
+
+We gaan naar de luchtballon, want mogelijk hebben we van boven meer geluk om de goblinleider te vinden. De hag staat te kijken naar het bliksemapparaat waarmee ze de toekomst kan zien, we kunnen er niet ongemerkt langs. We stealthen en acrobaten er voorbij. We komen bij een deur, waarachter de kamer van 3 darklings ligt. Twee grote en een kleine. Ze kijken met een blik van herkenning. De grote zegt dat ze geen handelaren meer zijn. De schaduw van de grote is niet in sync met de gedaante zelf. Ze hebben een draad (in de kleur van frustratie en zelftwijfel) als gift voor Endolyn. Ze impliceren dat Charmay de eenhoornhoorn heeft. We lenen hun ballon, met als onderpand de kleur van de ogen van Arutha en Benji, en Benjis ritmegevoel.  
