@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2024-12-20T21:47:03.716Z
+date: 2025-01-10T19:58:17.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -530,7 +530,7 @@ We komen iets heel schattigs tegen. Iedereen ziet iets anders. Huggok ziet een k
 # 2024-09-19 Sessie 38
 Hij kan ons in een Boghag veranderen. We bedanken en gaan door. We horen de hag al "schaaaatjes" roepen. Het laatste stukje moeras vliegen we over. In het moeras worden we door pijlen aangevallen. Het zijn centaurs, die boos zijn omdat er iemand op Arutha rijdt. 
 We komen uit de mist. We zien een weg omhoog, met veel bliksem erachter.
-Drie geiten op de berg die roepen: "When the moon obstructs the sun, creeping limb will come undone. Play to her passions, stay on script. A cat, a horn or a shadow ripped. The fool's scepter is the key." Creeping limb = andolyn?
+Drie geiten op de berg die roepen: "When the moon obstructs the sun, creeping Lyn will come undone. Play to her passions, stay on script. A cat, a horn or a shadow ripped. The fool's scepter is the key." Creeping Lyn = Endolyn.
 We moeten verder de berg op om bij Andolyn te komen. Finnaes en Huggok voelen dat hier hun woorden en muziek hangen. We zien een tornado bovenop de berg. Boven de pilaar op de berg: een grote bliksemafleider. We proberen een grot te bereiken maar worden gepakt door de tornado. Die zet ons af in een willekeurige plek in Prismeer. We vallen neer bij een aantal torens, met een wenteltrap erin. Onderaan een meer. Een vuurkorf op de torens. Grote medium-sized vogels met gewijen op elke toren. Op een van de trappen loopt een gedaante met een fakkel omhoog, een elf. Hij steekt de vuurkorf aan, maar als hij weer halverwege naar beneden is wapperen de vogels het uit. We steken er zelf eentje aan en de vogels komen er op af. De vogels zijn geen dieren, maar Peritons, een kruising tussen een jachtvogel en een hert. Als je naar hun schaduw kijkt, heeft de schaduw een mensachtige vorm. 
 De elf heet Alagartaz, prince of the misty forest. De vogels waren de Greyhawk murmurs, een groep acteurs. Hij wil terug naar Misty Forest, maar daarvoor moeten alle vuurkorven aan, dan ziet hij de weg naar huis. Hij heeft een cape met een goud/groen randje. Hij heeft een afspraak gemaakt met Andolyn, maar hij moest dan eerst de draak doden. Hij zou in dat gevecht sterven, maar niet als hij hier een jaar zou blijven. 
 We leiden de vogels af door toneelstukken op te voeren. Huggok kan dat blijkbaar heel goed en houdt het uren vol. De laatste vuurkorf steekt hij aan onder toneelbegeleiding van Finnaes en Scram die Gnomeo en Elfiet opvoeren. De elf duikt in het water en verdwijnt, waarop de vuurkorven weer uit gaan. We zetten kamp op bovenop, bij een vuurtje. Arutha houdt de wacht om zeker te zijn dat we er niet afrollen in onze slaap. Hij blijft vast wakker... toch? (nee)
@@ -546,7 +546,7 @@ Party gesplit. Muisachtige beesten. Mulliver van Wither's call was er, onbewust 
 De andere helft gaat naar de Court. Of niet. Bij Motherhorn komen ze een Goblin meisje, Finia, tegen met een cursed vlieger. Als ze hem los laat dan gaat er iets mis, maar onduidelijk wat. We maken de vlieger los, met wat moeite. Ze zegt dat je wel gek moet zijn om naar Motherhorn te gaan. 
 
 # 2024-11-07 Sessie 41
-Creeping Lynn heeft Grolmo de brickanox gevangen. Hij ontwerpt, onder andere bruggen. Ze worden gewaarschuwd op te passen voor de schaduwlozen. 
+Creeping Lynn heeft Grolmo de brickanox gevangen. Hij ontwerpt, onder andere bruggen. Ze worden gewaarschuwd op te passen voor de schaduwlozen. De Brickanox kunnen mogelijk ook helpen tegen de heks.
 
 theatertje op straat met Scram en Arutha erin
 Als we herenigd zijn gaan we Motherhorn in. Binnen openen we een zwart gordijn en horen een theater. Een voorstelling van drie verdrinkende zeelieden die een doodskist vasthouden in een golfachtige constructie. Van bovenaf goblins die schijnwerpers richten. Een elf, een goblin en een dwerg. 
@@ -559,14 +559,14 @@ In de omkleedruimte komen we Hurly tegen, in drakenkostuum. Hij ziet er niet bes
 
 Huggok wil weg, maar de rest niet. We gaan het podium op. Er zijn veel toeschouwers, met maskers op. We voeren een erg warrige tragedie op, met ook een rol voor Finnaes viol. Het publiek is overwegend enthousiast. Stagefright neemt ons mee naar de hag. We komen langs 3 duistere gedaantes, ze doen ons denken aan het vliegende winkeltje. We komen langs een bibliotheek, en dan langs een ruimte met een vreemd elektrisch geval. We komen bij het audientiekamertje. Zwarte muren met gouden versierinkjes. Mooie stoelen, gericht op een podium waar een gordijn voorhangt. We gaan zitten. Endelynn komt tevoorschijn zodra Stagefright weg is. 
 
-We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Motherhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Skylla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als Charmay geintroduceerd. 
+We moeten op zoek naar een goblin die haar verraden heeft. Maar waar is die, wat is zijn naam? Dat komen we niet te weten. Mogelijk krijgen we wat terug als we het hoofd van de goblin terugbrengen op een staak. We verlaten de ruimte en smeden een plan. Scram kan bij de goblins van Motherhorn infiltreren. Misschien een zwakte vinden, of meer informatie krijgen over de goblin die verrader is. Hij gaat dat doen en de rest gaat op zoek naar Stagefright. Hij is aan het werk onder het podium, waar ook een hele hoop andere goblins werken. Er staat ook een nette vrouw die een jurk aangemeten wordt. Benji herkent haar als Skylla van de league of malevolence. De rest herkent haar ook. Ze had opgetreden op het Witchlight Carnival, vlak voor ons optreden, daar werd ze als Charmay geintroduceerd. Toen zong ze een liedje waar de oren rood van werden.
 
 Level 7! 
 
 # 2024-11-28 Sessie 43
 Scram spreekt een goblin aan: "de raaf wacht in de schaduw". Hij koopt onbedoeld wat drugs. Maar dit is niet de goblin die hij zoekt. Hij komt te weten waar de goblingevangenis is: diep onder de grond. Daar zit Klyn gevangen. Dat is wat anders dan de andere gevangenis, waar het mooier is. 
 
-Charmay lijkt self-absorbed, maar wel met interesse om iets uit de situatie te halen. Ze weet meer dan ze voor doet komen. Mogelijk een changeling of anders vals voorkomen. Ze kwam hier met Kelk van de league, want die wilden de staf van Ringelrun overnemen. Om Sybilna te chanteren om te helpen. Ze heeft de league verraadden. Ze heeft in Motherhorn haar roeping gevonden: Baba Yaga. Ze voert een spell uit met lichtjes in haar hand. Onduidelijk wat dat is. Ze lijkt een warlock te zijn met Baba Yaga als patron. Toen Kelk met Sybilna ging praten hebben ze de boel overgenomen. Baba Yaga is in het huis met de twee kippenpoten.   
+Charmay lijkt self-absorbed, maar wel met interesse om iets uit de situatie te halen. Ze weet meer dan ze voor doet komen. Mogelijk een changeling of anders vals voorkomen. Ze kwam hier met Kelk van de league, want die wilden de staf van Ringelrun overnemen. Om Sybilna te chanteren om te helpen. Ze heeft de league verraadden, in de Palace of Hearts' desire. Ze heeft in Motherhorn haar roeping gevonden: Baba Yaga. Ze voert een spell uit met lichtjes in haar hand. Onduidelijk wat dat is. Ze lijkt een warlock te zijn met Baba Yaga als patron. Toen Kelk met Sybilna ging praten hebben ze de boel overgenomen. Baba Yaga is in het huis met de twee kippenpoten.   
 
 We huren de scepter van Stagefright voor de trident, tot de volgende voorstelling. 
 Scram gaat naar de gevangenis en probeert zijn codewoord, maar tevergeefs. Hij kent Huggok van het legioen. Hij vertelt dat de maskers voorgangers waren die slechte dingen hebben gedaan, of gasten die ze niet mag. Naast het schaduwtheater is een maskermaker. De kamer erboven is de gevangenis waar de zon-elf gevangen zit. De maan-elf was die we buiten achtergelaten hebben. De goblin vertelt dat er in een van de torens iets dichtgetimmerd is en erachter zit een grote bel. In een van de kleedkamers staat een troon met een sleutel onder het kussen verstopt. Voor de revolutie. Van de goblins. 
@@ -588,16 +588,20 @@ Philacteries:
 - [x] Disgust (bibliotheek van Motherhorn)
 - [ ] Annoyance (ignites at the faintest of sounds)
 
-Natasha -> Tasha -> Iggwilv -> Zybilna
+Natasha -> Tasha -> Iggwilv (arch enemy of the circle of eight, schrijver van de demonicon) -> Zybilna
 
 Is Rule of Three een kind van Crast en Tasha? De relatief gematigde zoon. 
 
 We zien een boek met een kikker op de kaft. Huggok besluit het te kussen. Tales from the gloaming court, vol. 3. Huggok probeert het te stelen maar wordt betrapt en laat het vallen. 
 Boven aan de trap vinden we een hoop goblinharnassen met goblinskeletten erin. De deur begint te bewegen en stuurt ons weg. De deur doet zijn mond open bij het zien van de scepter en we gaan erdoorheen. We komen bij een hele comfortabele cel. Glister, de zonne-elf, is wijn aan het drinken in een gouden cel. De zonne-eclipse is de zwakte van de Hag. Ze werkten voor het mooiste carnaval, ze waren de acrobaten. Glister heeft haar schaduw nog wel. Misschien kunnen we in plaats van haar zus als maan een maan laten maken door de goblins. De elf was Tales from the gloaming court, vol 8. aan het lezen. Lijkt niet relevant te zijn, maar wel een goed verhaal. 
-In de toren zit een portal naar de palace of heart's desire. 
+In de toren zit een portal naar de palace of heart's desire, een bel. 
 
 Het plan: 
 We gaan een toneelstuk opvoeren waarin we een maan, gemaakt de goblins, gebruiken samen met de Glister als zon zodat Endolynn niet meer onsterfelijk is. De goblins helpen we om hun opstand te organiseren, hoewel de Ragged Legion (het verzet) buiten het kasteel zit. Zij zorgen voor chaos om de de Darklings af te leiden mochten ze het erg vinden als we Endolynn aanvallen. We lokken Endolyn naar beneden, met een goblinhoofd op een staak. Kunnen we de Darklings in het publiek laten denken dat het gevecht met haar bij het toneelstuk hoort? 
 Gleam is aan het praten met een grote paardebloem. Het lijkt erop dat zij mogelijk door de mist wil reizen. 
 
 We kunnen ook proberen een maan naar deze cellen te krijgen en de hag te verrassen als ze hier naartoe komt. 
+
+# 2025-01-10 Sessie 45
+We willen Gleam naar binnen halen. We gaan terug naar de artiestenslaapruimtes en nemen een long rest.
+Als Huggok slaapt maar wordt wakker gemaakt door Charmay, die hem vraagt of hij het snapt. Ze spreekt hem telkens aan met Naggok. "Wanneer moet je eigenlijk een nieuwe naam, als je zo veranderd bent?"
