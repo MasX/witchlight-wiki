@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-01-10T21:03:10.001Z
+date: 2025-01-10T21:29:25.425Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -609,8 +609,10 @@ Als Huggok slaapt maar wordt wakker gemaakt door Charmay, die hem vraagt of hij 
 
 Arutha wordt aangetikt door een oude goblin die duidelijk iets tegen centaurs heeft. "Wat je zoekt in je hart zal je met je hoofd niet vinden."
 
-De naam van de verzetsleider heet Dimitrik, de beste grapjas, de stem van de koning, high jester, iets met een 'c'. Hij heeft alle woorden.  
+De verzetsleider heet Grilnik, de beste grapjas, de stem van de koning, high jester, iets met een 'c'. Hij heeft alle woorden.  
 
 Huggok probeert Charmay aan zijn kant te krijgen. Ze lijkt het niet heel erg te vinden als Endolyn's kamers vrij komen, maar wil geen actieve rol spelen tenzij haar veiligheid bedreigd wordt. We moeten sowieso wel zorgen dat Goblins hun plek blijven kennen. 
 
-We gaan naar de luchtballon, want mogelijk hebben we van boven meer geluk om de goblinleider te vinden. De hag staat te kijken naar het bliksemapparaat waarmee ze de toekomst kan zien, we kunnen er niet ongemerkt langs. We stealthen en acrobaten er voorbij. We komen bij een deur, waarachter de kamer van 3 darklings ligt. Twee grote en een kleine. Ze kijken met een blik van herkenning. De grote zegt dat ze geen handelaren meer zijn. De schaduw van de grote is niet in sync met de gedaante zelf. Ze hebben een draad (in de kleur van frustratie en zelftwijfel) als gift voor Endolyn. Ze impliceren dat Charmay de eenhoornhoorn heeft. We lenen hun ballon, met als onderpand de kleur van de ogen van Arutha en Benji, en Benjis ritmegevoel.  
+We gaan naar de luchtballon, want mogelijk hebben we van boven meer geluk om de goblinleider te vinden. De hag staat te kijken naar het bliksemapparaat waarmee ze de toekomst kan zien, we kunnen er niet ongemerkt langs. We stealthen en acrobaten er voorbij. We komen bij een deur, waarachter de kamer van 3 darklings ligt. Twee grote en een kleine. Ze kijken met een blik van herkenning. De grote zegt dat ze geen handelaren meer zijn. De schaduw van de grote is niet in sync met de gedaante zelf. Ze hebben een draad (in de kleur van frustratie en zelftwijfel) als gift voor Endolyn. Ze impliceren dat Charmay de eenhoornhoorn heeft. We lenen hun ballon, met als onderpand de kleur van de ogen van Arutha en Benji, en Benjis ritmegevoel. Huggok levert zijn bril waar je niet doorheen kan kijken in. Ze waarschuwen ons: niet meer dan een dag zonder storm. 
+
+We vliegen weg en vinden een verborgen kamp waar we een ontploffing zien, en drie identieke bergen.  We landen iets verderop om niet teveel op te vallen, zowel voor de goblins als voor Motherhorn. Benji beschermt de ballon met een spell. We zijn al gespot door 3 goblins. Scram gaat er op af. Ze nemen ons mee het kamp in, half onder door een berg, naar een verzameling hutjes, tenten en doek. Een hobgoblin, Captain Drawmac, van de Ragged Legion, groet ons en we volgen hem het kamp in. Hij brengt ons naar Grilnik, aka de High Jester. 
