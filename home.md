@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-01-10T21:30:03.532Z
+date: 2025-02-14T21:26:06.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -616,3 +616,11 @@ Huggok probeert Charmay aan zijn kant te krijgen. Ze lijkt het niet heel erg te 
 We gaan naar de luchtballon, want mogelijk hebben we van boven meer geluk om de goblinleider te vinden. De hag staat te kijken naar het bliksemapparaat waarmee ze de toekomst kan zien, we kunnen er niet ongemerkt langs. We stealthen en acrobaten er voorbij. We komen bij een deur, waarachter de kamer van 3 darklings ligt. Twee grote en een kleine. Ze kijken met een blik van herkenning. De grote zegt dat ze geen handelaren meer zijn. De schaduw van de grote is niet in sync met de gedaante zelf. Ze hebben een draad (in de kleur van frustratie en zelftwijfel) als gift voor Endolyn. Ze impliceren dat Charmay de eenhoornhoorn heeft. We lenen hun ballon, met als onderpand de kleur van de ogen van Arutha en Benji, en Benjis ritmegevoel. Huggok levert zijn bril waar je niet doorheen kan kijken in. Ze waarschuwen ons: niet meer dan een dag zonder storm. 
 
 We vliegen weg en vinden een verborgen kamp waar we een ontploffing zien, en drie identieke bergen.  We landen iets verderop om niet teveel op te vallen, zowel voor de goblins als voor Motherhorn. Benji beschermt de ballon met een spell. We zijn al gespot door 3 goblins. Scram gaat er op af. Ze nemen ons mee het kamp in, half onder door een berg, naar een verzameling hutjes, tenten en doek. Een hobgoblin, Captain Drawmac, van de Ragged Legion, groet ons en we volgen hem het kamp in. Hij brengt ons naar Grilnik, aka de High Jester. Degene die Huggoks woorden heeft...
+
+# 2025-02-14 Sessie 46
+Een stuk of 50 goblin(achtigen)(s). Veel dragen een bijeengeraapte uitrusting. Grilnik heeft Nilbog magie. Hij charmt zijn tegenstanders, en als je hem met een dolk probeert te steken raak je zelf gewond. We zien een grote ronde tent met zelfgemaakte spiegels en een ratelend metaalding, iets wat een schuurachtig geluid. We lopen verder en komen bij een grotere tent. Voor in de tent horen we stemmen, waarvan eentje van Grilnik. Er wordt een 2d goblin naar buiten gebracht, zo dun als karton. Hij heet Finnix. We treden binnen bij de High Jester. Hij heeft een heel plan op de wand, erg chaotisch, met rode draadjes ertussen. Er staat iets over een topvertegenwoordiger, met konijnenoren, die op zoek is naar swamp magie. Er wordt op het moment een draak bijgetekend. Grilnik draagt een hoed die zowel kroon lijkt als narrenhoed. Hij ziet er erg jong uit. Onze hobgoblinbegeleider zit half vast in de draden en tegen het tentdoek. Huggoks woorden staan in het boek van de hag, maar dat boek hebben ze nodig voor hun plan. Het boek is van kikkerhuid, en de woorden lopen niet van links naar rechts, maar de diepte in. Huggok leest het en krijgt zijn woorden terug. 
+
+We bespreken de plannen om de hag te doden of uit te schakelen, maar we moeten in onzinplannen spreken omdat de hag een spion heeft. Het duurt even voordat we dat duidelijk hebben... 
+We gaan naar een andere ruimte om onze plannen te bespreken. Ondertussen gebruikt Benji Detect Thoughts om te proberen te vinden wie de spion is, maar alleen surface thoughts om niet gedetecteerd te worden.
+
+We merken dat we afgeluisterd worden. Het blijkt Grips te zijn, de goblin die het had over een koninkrijk voor goblins. Via een Zone of Truth leren we dat hij spioneert voor Grilnik, niet voor de hag. Lorzit is een hobgoblin mage, de beheerder van de spiegel (de Sendar). Flitz von Flammer is een goblin die dol is op vuur. Als zij een rechtzaak met een zone of truth zouden supporten, dan wil iedereen vast meedoen. Flitz is overtuigd als hij maar wat in de fik kan zetten. Drawmac denkt dat het Grilnik zelf is, maar wil weten hoe we hem kunnen doden. We spreken af dat we hem in de fik zetten als hij het echt is. Lorzit is druk bezig met zijn spiegel en magie en een sending stone. Hij is wel onder de indruk van de zone of truth. Hij wil wel helpen om alle goblins bij elkaar brengen voor ons plan. 
