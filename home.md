@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-02-14T21:26:51.204Z
+date: 2025-03-13T21:31:59.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -624,3 +624,10 @@ We bespreken de plannen om de hag te doden of uit te schakelen, maar we moeten i
 We gaan naar een andere ruimte om onze plannen te bespreken. Ondertussen gebruikt Benji Detect Thoughts om te proberen te vinden wie de spion is, maar alleen surface thoughts om niet gedetecteerd te worden.
 
 We merken dat we afgeluisterd worden. Het blijkt Grips te zijn, de goblin die het had over een koninkrijk voor goblins. Via een Zone of Truth leren we dat hij spioneert voor Grilnik, niet voor de hag. Lorzit is een hobgoblin mage, de beheerder van de spiegel (de Sendar). Flitz von Flammer is een goblin die dol is op vuur. Als zij een rechtzaak met een zone of truth zouden supporten, dan wil iedereen vast meedoen. Flitz is overtuigd als hij maar wat in de fik kan zetten. Drawmac denkt dat het Grilnik zelf is, maar wil weten hoe we hem kunnen doden. We spreken af dat we hem in de fik zetten als hij het echt is. Lorzit is druk bezig met zijn spiegel en magie en een sending stone. Hij is wel onder de indruk van de zone of truth. Hij wil wel helpen om alle goblins bij elkaar brengen voor ons plan. 
+
+# 2025-03-13 Sessie 47
+Huggok denkt: hoe zou het zijn om nog meer woorden te hebben, nog in het boek te lezen... Ondertussen gaat de alarm spell bij de luchtballon af. Arutha is als eerste bij de ballon, waar twee goblins proberen het alarm uit te schakelen. Arutha probeert ze te stoppen maar hangt aan de ballon. Arutha en Benji hangen aan de ballon, maar Huggok tilt ze erin, op zijn hobbelpaard. We overtuigen de goblins dat het onze ballon is en we gaan terug naar het kamp.
+
+Ondertussen in het kamp, waar Finnaes en Scram al zijn, komt van achter een naar brand stinkende goblin achter ons aangeslopen. Flitz von Flammer met een zwart rokend pak, stoer kijkend. Er komen meer van de elite (hob)goblins aan, sommigen met spionkostuum. Als alle gasten, behalve Arutha, Benji en Huggok er zijn beginnen Scram en Finnaes al met het ritueel. Scram cast zone of truth. Ze krijgen geen instructies om de save te falen. Niet iedereen haalt de save. Murtz Blacktounge gedraagt zich heel verdacht. Hij heeft een soort kippenpootsymbool met lijntjes op zijn tong. Hetzelfde symbool als Huggok op zijn schouder. We vallen hem aan, in de hoop dat de goblins meevechten. Hij summont een demoon. Het is een hezrou demoon. De goblins vallen ons bij. De demoon stinkt behoorlijk. We slaan hem bloederig en Huggok probeert Murtz veel te grapplen, maar hij teleporteert weg. 
+
+Huggok wordt confused en moet elke begin of turn een d10 rollen. Baddies aan de beurt. 
