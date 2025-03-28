@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-03-13T21:34:26.597Z
+date: 2025-03-28T21:29:40.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -631,3 +631,9 @@ Huggok denkt: hoe zou het zijn om nog meer woorden te hebben, nog in het boek te
 Ondertussen in het kamp, waar Finnaes en Scram al zijn, komt van achter een naar brand stinkende goblin achter ons aangeslopen. Flitz von Flammer met een zwart rokend pak, stoer kijkend. Er komen meer van de elite (hob)goblins aan, sommigen met spionkostuum. Als alle gasten, behalve Arutha, Benji en Huggok er zijn beginnen Scram en Finnaes al met het ritueel. Scram cast zone of truth. Ze krijgen geen instructies om de save te falen. Niet iedereen haalt de save. Murtz Blacktounge gedraagt zich heel verdacht. Hij heeft een soort kippenpootsymbool met lijntjes op zijn tong. Hetzelfde symbool als Huggok op zijn schouder. We vallen hem aan, in de hoop dat de goblins meevechten. Hij summont een demoon. Het is een hezrou demoon. De goblins vallen ons bij. De demoon stinkt behoorlijk. We slaan hem bloederig en Huggok probeert Murtz veel te grapplen, maar hij teleporteert weg. 
 
 Huggok wordt confused en moet elke begin of turn een d10 rollen. Baddies aan de beurt. 
+
+# 2025-03-28 Sessie 48
+Gnilrik roept wat tegen de demoon. Die lijkt hem opeens heel aardig te vinden. Maar Scram haalt flink naar de Demoon uit. En na nog even vechten doodt hij hem. De rest rent naar de Sendar, de richting die Murtz op is gegaan. Hij zit er bovenin, een kabel door te snijden. Hij weet weer weg te teleporteren als we hem grijpen. We kunnen hem niet vinden.
+
+Benji activeert de rode knop van de Sendar. De illusie verdwijnt. We horen een harde piep en Grilnik is omgevallen. Captain Drawmac nadert. 
+Scram jaagt Arutha, Drawmac en Lorzit weg. Huggok pakt de bewusteloze Gnilrik vast en knijpt hem uit voor wat woorden-kracht. Rente, zeg maar. Als hij uiteindelijk de high jester weer teruglegt helpt Scram hem met lay on hands. Benji zet het schild van de Sendar weer aan en communiceert via de Sendar met Arutha. Scram, Finnaes en Huggok willen gaan praten met de high jester, om ons te helpen tegen de Hag. 
