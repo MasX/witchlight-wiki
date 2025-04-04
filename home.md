@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-03-28T21:29:40.343Z
+date: 2025-04-04T20:17:16.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -603,7 +603,7 @@ Gleam is aan het praten met een grote paardebloem. Het lijkt erop dat zij mogeli
 We kunnen ook proberen een maan naar deze cellen te krijgen en de hag te verrassen als ze hier naartoe komt. 
 
 # 2025-01-10 Sessie 45
-<!-- Coen afwezig, vakantie -->
+<!-- Joep afwezig, vakantie -->
 We willen Gleam naar binnen halen. We gaan terug naar de artiestenslaapruimtes en nemen een long rest.
 Als Huggok slaapt maar wordt wakker gemaakt door Charmay, die hem vraagt of hij het snapt. Ze spreekt hem telkens aan met Naggok. "Wanneer moet je eigenlijk een nieuwe naam, als je zo veranderd bent?"
 
@@ -637,3 +637,13 @@ Gnilrik roept wat tegen de demoon. Die lijkt hem opeens heel aardig te vinden. M
 
 Benji activeert de rode knop van de Sendar. De illusie verdwijnt. We horen een harde piep en Grilnik is omgevallen. Captain Drawmac nadert. 
 Scram jaagt Arutha, Drawmac en Lorzit weg. Huggok pakt de bewusteloze Gnilrik vast en knijpt hem uit voor wat woorden-kracht. Rente, zeg maar. Als hij uiteindelijk de high jester weer teruglegt helpt Scram hem met lay on hands. Benji zet het schild van de Sendar weer aan en communiceert via de Sendar met Arutha. Scram, Finnaes en Huggok willen gaan praten met de high jester, om ons te helpen tegen de Hag. 
+
+# 2025-04-04 Sessie 49
+Arutha is buiten het kamp en probeert Murtz Blacktounge in te halen. Hij roept Xarathar op om te helpen. Hij komt langs een rustplaats van Murtz, maar die is al weg. Het gras zingt naar hem. Wat een mooie Tumtum trees en een Butterbird. Het geluid van hoeven. Het lijkt alsof hij in een herinnering zit, van zijn jeugd. Goblins als bedienden, die wensen voor een betere wereld. Dan chaos en geschreeuw. Een vrouwenschim met een ketel. Hij voelt zich geraakt worden in zijn hoofd. Waar was hij ookalweer naar opzoek? Alles was een illusie. Maar daar ziet hij Murtz. Xarathar en Arutha vechten met Murtz, maar Murtz doodt Arutha. RIP. Hij verandert in een standbeeld. 
+
+
+In het kamp komen Drawnac en Lorzit terug. Er komt een grote aankondiging. Iedereen wordt bijeengeroepen. Operation Theater Takedown! Kunnen de goblins via de tunnel van de Brigganox naar binnen? Mulliver zit daar, kunnen we hem spreken? 
+We kunnen ook op een andere manier binnen, via een magisch touw van het haar van de Korred. Maar hun haar kunnen we niet zomaar krijgen. 
+De goblins hebben Gleam in gevangenschap, dus dat is ook al geregeld! 
+We gaan naar de Sendar. Er is inderdaad een tunnel. Maar hebben ze Golmo, de architect, al gered? Hij zit in het gewelf onder Modderhorn. We besluiten om het hele eind naar de ingang van de tunnels af te reizen, dat gaat dagen duren. Daar overtuigen we de Brigganox om ons door de tunnels te laten als we de architect bevrijden. 
+We komen Xarathar tegen. Hij lijkt zoekend te zijn. Hij leidt ons naar het standbeeld van Arutha. We willen hem neerzetten op de hoogste heuvel, zoals hij gewild heeft. Op een heuvel in de buurt staat een troon met tekst in Elven. "Begin with symbol of the queen, then move to where the wine was spilled. " Scram gaat op de troon zitten. Plots heeft hij een telescoop in zijn handen. Het begint hard te waaien. De sterren verbinden zich tot een kroon. De kroon licht op. We maken de puzzel af door met de telescoop naar de verschillende symbolen in de lucht te kijken. Voor de troon begint de grond op te lichten; een dimension door. We komen in een stenen theater. We zien een kristallen draak, slapend. Zes kristallen om ons heen, en een beholder.
