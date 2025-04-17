@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-04-04T20:22:09.706Z
+date: 2025-04-17T20:34:12.954Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -647,3 +647,15 @@ We kunnen ook op een andere manier binnen, via een magisch touw van het haar van
 De goblins hebben Gleam in gevangenschap, dus dat is ook al geregeld! 
 We gaan naar de Sendar. Er is inderdaad een tunnel. Maar hebben ze Golmo, de architect, al gered? Hij zit in het gewelf onder Modderhorn. We besluiten om het hele eind naar de ingang van de tunnels af te reizen, dat gaat dagen duren. Daar overtuigen we de Brigganox om ons door de tunnels te laten als we de architect bevrijden. 
 We komen Xarathar tegen. Hij lijkt zoekend te zijn. Hij leidt ons naar het standbeeld van Arutha. We willen hem neerzetten op de hoogste heuvel, zoals hij gewild heeft. Op een heuvel in de buurt staat een troon met tekst in Elven. "Begin with symbol of the queen, then move to where the wine was spilled. " Scram gaat op de troon zitten. Plots heeft hij een telescoop in zijn handen. Het begint hard te waaien. De sterren verbinden zich tot een kroon. De kroon licht op. We maken de puzzel af door met de telescoop naar de verschillende symbolen in de lucht te kijken. Voor de troon begint de grond op te lichten; een dimension door. We komen in een stenen theater. We zien een kristallen draak, slapend. Zes kristallen om ons heen, en een beholder. Benji heeft het idee dat de draak degene was die om hulp riep. De draak is in magische slaap. 
+
+# 2025-04-17 Sessie 50
+We zijn in de Dreamstar Sancten. Er zijn 6 stenen. De draak stoot elektriciteit af wat naar de kristallen gaat. De beholder (Chivorax Gloomseer) lijkt de kristallen af te stoffen. Duidelijk niet de baas hier. Kleer (Rik) is hier ook. Onverzocht met struikelbaard, slank, slecht passende kleren, staf met haren eruit (zwabber), schild.  Scram loopt over de steen naar een van de gedaantes en over het witte kristal. Hij is opeens geslowd. De rode steen is heet en beschadigd ons. 
+We gaan naar Kleer toe, maar laten de versteende Arutha achter. Kleer gaat daaropaf om Arutha weg te brengen, want alles moet schoon blijven. 
+We moeten de draak (Lyrinth) wakker maken. 
+We dispellen een kristal en proberen een ander kristal te vernietigen. 
+We maken alle kristallen stuk en de draak ontwaakt. Die valt de beholder aan en Finnaes doet de genadeklap. 
+Mazikot, een elf, en de draak hadden samen deze plek gemaakt voor de rust. Mazikot is naar een plek gegaan waar het licht ophoudt. De draak had een 'gunst' van een hag, om zijn verdriet te vergeten ging hij slapen, maar dat duurde wel erg lang. Ze geeft ons een kristallen orb met teleporting krachten of een drakengloed-rapier, of een drinkhoorn waarmee je specifieke potions kan maken.
+
+We kiezen.. ?
+
+We nemen een long rest. 
