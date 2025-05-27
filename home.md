@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-05-27T18:52:51.527Z
+date: 2025-05-27T19:54:20.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -426,7 +426,7 @@ Wat doen we de volgende sessie? Vallen we de pompoenen aan die Huggok zo boos ma
 # 2024-03-14 Sessie 29
 < logs van iemand krijgen > 
 
-In het veld zit een dredge demon. Huggok verdwijnt in zijn bol. Hij belandt in een wasco-kleuren-getekende-wereld. In de wereld zien we drie paarden, rood wit en zwart respectievelijk. Ze hebben felle manen: vuur, donkerte en licht. Verder een vrouw, zwart haar, bekend gezicht, ramt tegen de deur, pakt een zadel en ploft op een hooibaal. Het lijkt op een jonge versie van Tasha. Over haar schouders een spin, die haar meesteres noemt. "Oh, meesteres, ze verdienen u ook gewoon niet". De spin is geen spin maar iets met spinachtige poten, een familiar. Die kennen we, een quasid, een chaotic imp achtige. Het voelt alsof we in iemands herinnering zitten.
+In het veld zit een dretch demon. Huggok verdwijnt in zijn bol. Hij belandt in een wasco-kleuren-getekende-wereld. In de wereld zien we drie paarden, rood wit en zwart respectievelijk. Ze hebben felle manen: vuur, donkerte en licht. Verder een vrouw, zwart haar, bekend gezicht, ramt tegen de deur, pakt een zadel en ploft op een hooibaal. Het lijkt op een jonge versie van Tasha. Over haar schouders een spin, die haar meesteres noemt. "Oh, meesteres, ze verdienen u ook gewoon niet". De spin is geen spin maar iets met spinachtige poten, een familiar. Die kennen we, een quasid, een chaotic imp achtige. Het voelt alsof we in iemands herinnering zitten.
 Huggok cast silent image om een dode Skabatha te laten zien aan Tasha, maar wordt gecounterspelled. De spell kaatst af naar de hut die instort. Tasha vliegt weg op een paard en bedankt Scram. We komen terug in de normale wereld en Scram heeft een bol vast. "Hij kan het en laat niemand hem vertellen dat dat niet zo is, want dan wordt hij BOOS". Slangen komen op en we jagen ze weg. 
 
 We vinden in de bibliotheek een boek "Goblin eht fo hgual tsal" (last laugh of the Nilbog/Goblin). We vinden ook Three Rules to Rule By. Benji en Huggok lezen hun respectievelijke boeken. De rest  ontdekt de slaapkamer, die heel netjes is. Bij het raam een stulp met insectjes en daarnaast een rottend poppenhuis. Dat is waar Granny sliep, maar nu gaat het met geen mogelijkheid open. 
@@ -665,4 +665,6 @@ Kleer droomt over de 8 stenen. De beholder spreekt tegen hem: "in ieder geval wa
 
 We krijgen het boek Mazikot's guide to the galaxies. 
 
-Lyrinth opent een portal naar de mijnen van de Briganock. We stappen door de portal en belanden midden tussen een aantal dreigende standbeelden. We horen een getik. We gaan naar binnen, maar kort erna vallen we in een magische slaap. We worden wakker in vastgebonden staat. 
+Lyrinth opent een portal naar de mijnen van de Briganock. We stappen door de portal en belanden midden tussen een aantal dreigende standbeelden. We horen een getik. We gaan naar binnen, maar kort erna vallen we in een magische slaap. We worden wakker in vastgebonden staat. Mulliver is er ook en laat de briganoks ons losmaken. Voor de weg naar Motherhorn kunnen we beter met Obert praten, hij gaat over de tunnels. Ze hebben een pony (Keg) met het huis van Obert erop. Obert is een edelstenenliefhebber. De route leidt over de River Wish Chasm, waar wensstenen gemijnd worden. Als iemand iets wenst komt het in zo'n steen. Hij heeft de papierenwens van Arutha. Obert is bang voor de Court, als duidelijk wordt dat zij een heel leger door hun tunnels laten gaan. Er zit hier een dretch demon. Zavras, de god van wetenschap heeft Kleer verteld dat hij Philacteries moet verzamelen. Die van ons zaten in de Bag of Scolding. 
+
+De dretch demon komt onze kant op als we hem roepen. We raken hem aan en komen in een gekleurde verfwereld, met grote streken. Een zwartharige heks (Tasha), bezig te concentreren op een spreuk. Ze staat naast een kalig mannetje (Zagyg (een vriend van Morden Caynen, company of seven)). Ze proberen een demoon te vangen, de prince of deception, de demon lord Ras-herb-lu. We helpen ze en de demoon wordt een soort reliëf. Zagyg teleport weg. De reliëf roept tegen Tasha (of tegen Lyrinth) dat hij weet wat ze echt wil en dat hij zal zorgen dat ze nooit meer zonder krachten zal zitten. We belanden weer terug bij de River Wish Chasm en Benji doet de orb in zijn zak. 
