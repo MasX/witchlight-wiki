@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-04-17T20:34:12.954Z
+date: 2025-05-27T18:52:51.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -546,7 +546,7 @@ Party gesplit. Muisachtige beesten. Mulliver van Wither's call was er, onbewust 
 De andere helft gaat naar de Court. Of niet. Bij Motherhorn komen ze een Goblin meisje, Finia, tegen met een cursed vlieger. Als ze hem los laat dan gaat er iets mis, maar onduidelijk wat. We maken de vlieger los, met wat moeite. Ze zegt dat je wel gek moet zijn om naar Motherhorn te gaan. 
 
 # 2024-11-07 Sessie 41
-Creeping Lynn heeft Grolmo de brickanox gevangen. Hij ontwerpt, onder andere bruggen. Ze worden gewaarschuwd op te passen voor de schaduwlozen. De Brickanox kunnen mogelijk ook helpen tegen de heks.
+Creeping Lynn heeft Grolmo de brickanocks gevangen. Hij ontwerpt, onder andere bruggen. Ze worden gewaarschuwd op te passen voor de schaduwlozen. De Briganocks kunnen mogelijk ook helpen tegen de heks.
 
 theatertje op straat met Scram en Arutha erin
 Als we herenigd zijn gaan we Motherhorn in. Binnen openen we een zwart gordijn en horen een theater. Een voorstelling van drie verdrinkende zeelieden die een doodskist vasthouden in een golfachtige constructie. Van bovenaf goblins die schijnwerpers richten. Een elf, een goblin en een dwerg. 
@@ -649,13 +649,20 @@ We gaan naar de Sendar. Er is inderdaad een tunnel. Maar hebben ze Golmo, de arc
 We komen Xarathar tegen. Hij lijkt zoekend te zijn. Hij leidt ons naar het standbeeld van Arutha. We willen hem neerzetten op de hoogste heuvel, zoals hij gewild heeft. Op een heuvel in de buurt staat een troon met tekst in Elven. "Begin with symbol of the queen, then move to where the wine was spilled. " Scram gaat op de troon zitten. Plots heeft hij een telescoop in zijn handen. Het begint hard te waaien. De sterren verbinden zich tot een kroon. De kroon licht op. We maken de puzzel af door met de telescoop naar de verschillende symbolen in de lucht te kijken. Voor de troon begint de grond op te lichten; een dimension door. We komen in een stenen theater. We zien een kristallen draak, slapend. Zes kristallen om ons heen, en een beholder. Benji heeft het idee dat de draak degene was die om hulp riep. De draak is in magische slaap. 
 
 # 2025-04-17 Sessie 50
-We zijn in de Dreamstar Sancten. Er zijn 6 stenen. De draak stoot elektriciteit af wat naar de kristallen gaat. De beholder (Chivorax Gloomseer) lijkt de kristallen af te stoffen. Duidelijk niet de baas hier. Kleer (Rik) is hier ook. Onverzocht met struikelbaard, slank, slecht passende kleren, staf met haren eruit (zwabber), schild.  Scram loopt over de steen naar een van de gedaantes en over het witte kristal. Hij is opeens geslowd. De rode steen is heet en beschadigd ons. 
+We zijn in de Dreamstar Sancten. Er zijn 6 stenen. De draak stoot elektriciteit af wat naar de kristallen gaat. De beholder (Chivorax Gloomseer) lijkt de kristallen af te stoffen. Duidelijk niet de baas hier. Kleer (Rik) is hier ook. Onverzocht met struikelbaard, slank, slecht passende kleren, staf met haren eruit (zwabber), schild.  Scram loopt over de steen naar een van de gedaantes en over het witte kristal. Hij is opeens geslowd. De rode steen is heet en beschadigt ons. 
 We gaan naar Kleer toe, maar laten de versteende Arutha achter. Kleer gaat daaropaf om Arutha weg te brengen, want alles moet schoon blijven. 
 We moeten de draak (Lyrinth) wakker maken. 
 We dispellen een kristal en proberen een ander kristal te vernietigen. 
-We maken alle kristallen stuk en de draak ontwaakt. Die valt de beholder aan en Finnaes doet de genadeklap. 
+We maken alle kristallen stuk en de draak ontwaakt. Die valt de beholder aan en Finnaes doet de genadeklap. In het gevecht is Huggoks bag of scolding stuk gegaan en het hobbelpaard knockout geweest maar ook weer gerepareerd. 
 Mazikot, een elf, en de draak hadden samen deze plek gemaakt voor de rust. Mazikot is naar een plek gegaan waar het licht ophoudt. De draak had een 'gunst' van een hag, om zijn verdriet te vergeten ging hij slapen, maar dat duurde wel erg lang. Ze geeft ons een kristallen orb met teleporting krachten of een drakengloed-rapier, of een drinkhoorn waarmee je specifieke potions kan maken.
 
-We kiezen.. ?
+We kiezen de rapier, voor scram.
 
 We nemen een long rest. 
+
+# 2025-05-27 Sessie 51
+Kleer droomt over de 8 stenen. De beholder spreekt tegen hem: "in ieder geval was jij het niet". Finnaes droomt over vuurwerkspektakel, over hoe de beholder aan z'n einde kwam. Benji droomt over mist, een marmeren hal waar hij al eerder geweest is. Achter een deur grote ijzeren beesten (een leeuw en een hert), hij hoort 8 sleutels. Scram droomt over een kever, in een miniatuurwereld. Huggok voelt in zijn droom zijn bracelet ontwaken (scaled ornament (stirring)).  
+
+We krijgen het boek Mazikot's guide to the galaxies. 
+
+Lyrinth opent een portal naar de mijnen van de Briganock. We stappen door de portal en belanden midden tussen een aantal dreigende standbeelden. We horen een getik. We gaan naar binnen, maar kort erna vallen we in een magische slaap. We worden wakker in vastgebonden staat. 
