@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-05-27T19:54:20.433Z
+date: 2025-05-27T19:56:51.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -667,4 +667,4 @@ We krijgen het boek Mazikot's guide to the galaxies.
 
 Lyrinth opent een portal naar de mijnen van de Briganock. We stappen door de portal en belanden midden tussen een aantal dreigende standbeelden. We horen een getik. We gaan naar binnen, maar kort erna vallen we in een magische slaap. We worden wakker in vastgebonden staat. Mulliver is er ook en laat de briganoks ons losmaken. Voor de weg naar Motherhorn kunnen we beter met Obert praten, hij gaat over de tunnels. Ze hebben een pony (Keg) met het huis van Obert erop. Obert is een edelstenenliefhebber. De route leidt over de River Wish Chasm, waar wensstenen gemijnd worden. Als iemand iets wenst komt het in zo'n steen. Hij heeft de papierenwens van Arutha. Obert is bang voor de Court, als duidelijk wordt dat zij een heel leger door hun tunnels laten gaan. Er zit hier een dretch demon. Zavras, de god van wetenschap heeft Kleer verteld dat hij Philacteries moet verzamelen. Die van ons zaten in de Bag of Scolding. 
 
-De dretch demon komt onze kant op als we hem roepen. We raken hem aan en komen in een gekleurde verfwereld, met grote streken. Een zwartharige heks (Tasha), bezig te concentreren op een spreuk. Ze staat naast een kalig mannetje (Zagyg (een vriend van Morden Caynen, company of seven)). Ze proberen een demoon te vangen, de prince of deception, de demon lord Ras-herb-lu. We helpen ze en de demoon wordt een soort reliëf. Zagyg teleport weg. De reliëf roept tegen Tasha (of tegen Lyrinth) dat hij weet wat ze echt wil en dat hij zal zorgen dat ze nooit meer zonder krachten zal zitten. We belanden weer terug bij de River Wish Chasm en Benji doet de orb in zijn zak. 
+De dretch demon komt onze kant op als we hem roepen. We raken hem aan en komen in een gekleurde verfwereld, met grote streken. Een zwartharige heks (Tasha), bezig te concentreren op een spreuk. Ze staat naast een kalig mannetje (Zagyg (een vriend van Morden Caynen, company of seven)). Ze proberen een demoon te vangen, de prince of deception, de demon lord Ras-herb-lu. We helpen ze en de demoon wordt een soort reliëf. Zagyg teleport weg. De reliëf roept tegen Tasha (of tegen Lyrinth) dat hij weet wat ze echt wil en dat hij zal zorgen dat ze nooit meer zonder krachten zal zitten. We belanden weer terug bij de River Wish Chasm en Benji doet de orb in zijn zak. Scram steekt over en er komen drie figuren om hem heen vliegen. 
