@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-06-20T19:31:45.691Z
+date: 2025-06-20T20:34:30.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -676,4 +676,8 @@ Ze groeten hem maar Scram valt ze aan met een moon beam. Ze slaan hard terug, me
 Mulliver tekent Tasha op de muur terwijl wij overleggen. Hij gaat uiteindelijk terug, maar wij gaan door en verdwalen. Na een long rest heeft Kleer contact met het 'Mordron archief', zijn diety. We leren dat als we blijven zingen we niet gek worden van het getik in deze tunnels. Het getik laat je de tijd verliezen. We zijn nu goed onderweg en de goblins ook, maar we hebben wel veel vertraging. We komen bij een translucente muur. Scram stapt er doorheen. Hij ziet een kamer vol spinnenwebben en theaterstukonderdelen en props. Ook een 8ft diameter houten maan met een lach erop. Een skelet met touwtjes eraan. Het skelet is bezig zijn touwtjes uit de knoop te halen.   
 
 # 2025-06-20 Sessie 53
-Scram ziet een hoop goblins, waaronder Stagefright. Ook een hobgoblin die opeens weg is, en een brickanock. Er wordt een toneelstuk opgevoerd wat erg lijkt op ons verhaal... Het wordt live gevormd, de luchtballon die ze aan het maken waren wordt opeens gecanceld. Benji gaat naar de cellen, waar de deur permanent opengemaakt is, want ze hadden de sleutel niet meer. Glister gaat mee middels dimension door. We moeten nog een dag wachten tot de goblins en Gleam er zijn, dus we kiezen er uit verveling voor om het skelet aan te spreken. Hij heet Break-a-leg. Scram en Finnaes halen hem uit de knoop. Hij weet te vertellen dat op een onzichtbaar papier in de bibliotheek een geheim staat over Skabatha. Kleer weet van zijn god dat in het schaduwtheater, dat bij de bieb met de schaduwen, een namaak zon hangt. 
+Scram ziet een hoop goblins, waaronder Stagefright. Ook een hobgoblin die opeens weg is, en een brickanock. Er wordt een toneelstuk opgevoerd wat erg lijkt op ons verhaal... Het wordt live gevormd, de luchtballon die ze aan het maken waren wordt opeens gecanceld. Benji gaat naar de cellen, waar de deur permanent opengemaakt is, want ze hadden de sleutel niet meer. Glister gaat mee middels dimension door. We moeten nog een dag wachten tot de goblins en Gleam er zijn, dus we kiezen er uit verveling voor om het skelet aan te spreken. Hij heet Break-a-leg. Scram en Finnaes halen hem uit de knoop. Hij weet te vertellen dat op een onzichtbaar papier in de bibliotheek een geheim staat over Skabatha. Kleer weet van zijn god dat in het schaduwtheater, dat bij de bieb met de schaduwen, een namaakzon hangt.
+
+'s nachts 'recruteren' Scram en Huggok een goblin, doden een andere en intimideren er nog een bewusteloos. De goblin verraad ons en Stagefright komt naar de verborgen muur om met ons te praten. Hij heeft vier schaduwen, maar geen is van hem. We besluiten om zijn eigen schaduw te halen in het schaduwtheater in ruil voor de violin van Finnaes. 
+
+Merz is hier ook aangekomen en heeft invloed gehad in de verhalen. Hij speelt nu een hobgoblin (bovenste goblin). 
