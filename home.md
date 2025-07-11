@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-06-20T20:35:39.209Z
+date: 2025-07-11T20:13:34.094Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -680,4 +680,11 @@ Scram ziet een hoop goblins, waaronder Stagefright. Ook een hobgoblin die opeens
 
 's nachts 'recruteren' Scram en Huggok een goblin, doden een andere en intimideren er nog een bewusteloos. De goblin verraad ons en Stagefright komt naar de verborgen muur om met ons te praten. Hij heeft vier schaduwen, maar geen is van hem. We besluiten om zijn eigen schaduw te halen in het schaduwtheater in ruil voor de violin van Finnaes. 
 
-Merz is hier ook aangekomen en heeft invloed gehad in de verhalen. Hij speelt nu een hobgoblin (bovenste goblin). 
+Merz (Blacktounge) is hier ook aangekomen en heeft invloed gehad in de verhalen. Ze lijken verdacht veel op onze plannen... Hij speelt nu een hobgoblin (bovenste goblin). 
+
+# 2025-07-11 Sessie 54
+Huggok gaat een hobgoblinkostuum halen voor Kleer. Onderweg komt hij Charmay tegen die hem vraagt om een rol in het toneelstuk te spelen en hoe het toneelstuk af gaat lopen... Huggok gaat mee maar neemt een pauze om te helpen de schaduw van Stagefright terug te halen. 
+We gaan het schaduwtheater in, met torches in de hand, want het is er donker. We moeten allerlei deuren met tekeningen erop open duwen. Benji valt in een gat. Decorstukken met zijn naam erop en grafstenen. Boven de stoelen hangt een zwak winterzonnetje. Op het podium staan dennenbomen. Er zwaait een trapeze heen en weer. 
+Kleers spirit guardians sturen de schaduwen terug naar hun eigenaren. Als we weer naar buiten gaan zien we Merz en Charmay in de bibliotheek zitten. Merz zegt dat we allemaal hetzelfde willen en dat hij geen andere keus had dan Arutha doden. 
+We gaan op zoek naar Stagefright. Goblins zijn bezig een set op de zetten van wat we net beleefd hebben. Stagefrights andere vier schaduwen vallen Kleer aan. Hij doodt er twee en Stagefright cast een spell op ze met behulp van de viool. Kleer doodt de andere twee. Finneas krijgt haar viool daarna terug. 
+We horen dat de goblins aangekomen zijn in de tunnel. 
