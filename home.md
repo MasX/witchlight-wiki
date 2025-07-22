@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-07-22T20:25:07.474Z
+date: 2025-07-22T20:25:19.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -690,4 +690,4 @@ We gaan op zoek naar Stagefright. Goblins zijn bezig een set op de zetten van wa
 We horen dat de goblins aangekomen zijn in de tunnel. 
 
 # 2025-07-22
-We leggen de goblins het plan uit. We gaan het toneelstuk opvoeren en op een gegeven moment komt Endelynn op het podium erbij. We voeren het toneelstuk op. De hag komt naar beneden en we raken in een gevecht. Veel goblins sneuvelen tegen ontploffende darklings. Hun donkertje komt steeds dichterbij. We doden de hag. Een stuk duisternis verdwijnt, door Charmay en Merz. Feestelijk vuurwerk in Montherhorn. 
+We leggen de goblins het plan uit. We gaan het toneelstuk opvoeren en op een gegeven moment komt Endelynn op het podium erbij. We voeren het toneelstuk op. De hag komt naar beneden en we raken in een gevecht. Veel goblins sneuvelen tegen ontploffende darklings. Hun donkertje komt steeds dichterbij. We doden de hag. Een stuk duisternis verdwijnt, door Charmay en Merz. Feestelijk vuurwerk in Motherhorn. 
