@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2025-07-11T20:20:45.130Z
+date: 2025-07-22T20:25:07.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -688,3 +688,6 @@ We gaan het schaduwtheater in, met torches in de hand, want het is er donker. We
 Kleers spirit guardians sturen de schaduwen terug naar hun eigenaren. Als we weer naar buiten gaan zien we Merz en Charmay in de bibliotheek zitten. Merz zegt dat we allemaal hetzelfde willen en dat hij geen andere keus had dan Arutha doden. 
 We gaan op zoek naar Stagefright. Goblins zijn bezig een set op de zetten van wat we net beleefd hebben. Stagefrights andere vier schaduwen vallen Kleer aan. Hij doodt er twee en Stagefright cast een spell op ze met behulp van de viool. Kleer doodt de andere twee. Finneas krijgt haar viool daarna terug. 
 We horen dat de goblins aangekomen zijn in de tunnel. 
+
+# 2025-07-22
+We leggen de goblins het plan uit. We gaan het toneelstuk opvoeren en op een gegeven moment komt Endelynn op het podium erbij. We voeren het toneelstuk op. De hag komt naar beneden en we raken in een gevecht. Veel goblins sneuvelen tegen ontploffende darklings. Hun donkertje komt steeds dichterbij. We doden de hag. Een stuk duisternis verdwijnt, door Charmay en Merz. Feestelijk vuurwerk in Montherhorn. 
