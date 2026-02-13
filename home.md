@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-02-13T21:06:35.423Z
+date: 2026-02-13T21:07:43.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -697,5 +697,5 @@ Level up!
 # 2026-02-13 Sessie 56 
 Charmay komt naar beneden en beweert dat ze samen met Huggok gaat heersen. Als hij 'ja' zegt krijgt hij de hoorn. Ze beseft dat de hoorn veel waard is maar weet niet zo goed waarom. Ze beweert dat Merz onder invloed was van de Hag, en eigenlijk niet zo'n kwaaie is. Duidelijk onzin, maar Huggok en Kleer accepteren het. 
 Ze heeft de alicorn in een pocket dimension. Een hut bij haar patron. Een hut met pootjes eronder... Die van Baba Yaga. Ze denkt veel aan een grote magische ketel, die van goud naar ijzer en terug verandert. Misschien ook wel van naam. Yggwilf's cauldron, gemaakt door haar adoptiemoeder Baba Yaga. Met de ketel kan je de tijd stil zetten. De ketel kan vernietigd worden met een brandend zwaard. Net zo eentje als Orduk, van de league of Malevolence heeft. Bij de ketel: een keizerlijke vrouw van middelbare leeftijd met ernaast een jonge vrouw, Mercion. Allebei bevroren. 
-Kleer vraagt zijn God of trouwen met Charmay een slecht idee is. De goden zeggen in ieder geval 7 dagen gaat prima, mits beiden het huwelijk respecteren. Let wel op het 'goblinsentiment' (Scram? alle goblins hier? Merz?). De hoorn is dan voor Huggok.  
+Kleer vraagt zijn God of trouwen met Charmay een slecht idee is. De goden zeggen in ieder geval 7 dagen gaat prima, mits beiden het huwelijk respecteren. Let wel op het 'goblinsentiment' (Scram? alle goblins hier? Merz?). De hoorn is dan voor Huggok.  De Goden van Kleer hebben ook een belang hierin...
 Huggok roept "laat het huwelijk beginnen!"
