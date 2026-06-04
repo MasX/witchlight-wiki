@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-02-13T21:07:43.452Z
+date: 2026-06-04T19:34:38.255Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -431,7 +431,7 @@ Huggok cast silent image om een dode Skabatha te laten zien aan Tasha, maar word
 
 We vinden in de bibliotheek een boek "Goblin eht fo hgual tsal" (last laugh of the Nilbog/Goblin). We vinden ook Three Rules to Rule By. Benji en Huggok lezen hun respectievelijke boeken. De rest  ontdekt de slaapkamer, die heel netjes is. Bij het raam een stulp met insectjes en daarnaast een rottend poppenhuis. Dat is waar Granny sliep, maar nu gaat het met geen mogelijkheid open. 
 Ze lopen door en komen bij een kamer met een balkon. Het tikt er van de mechanische spreeuwen. Boven de ramen staat Hither en Yon. Een bureau vol pennen en papieren.  
-"Sister, I don't have Alidorn's horn. If I did, I would use it to free Jullybeak". The draak, vriend van zybilna is een gevaar voor het koninkrijk. Alidorn's mate is nog steeds hier. Endelyn weet waar de horn is, maar wil niets zeggen. Wat zal de Jabberwock doen als hij verveeld raakt? We moeten meer dan de true names weten. Met de horn kunnen we creatures bevrijden time-freezing magic. Zybilna is Tasha.  
+"Sister, I don't have Alidorn's horn. If I did, I would use it to free Bloodybeak". The draak, vriend van zybilna is een gevaar voor het koninkrijk. Alidorn's mate is nog steeds hier. Endelyn weet waar de horn is, maar wil niets zeggen. Wat zal de Jabberwock doen als hij verveeld raakt? We moeten meer dan de true names weten. Met de horn kunnen we creatures bevrijden time-freezing magic. Zybilna is Tasha.  
 
 De acht dagen zijn voorbij. Huggok krimpt een beetje. Hij is nu goblin sized (small), alsof zijn lengte gestolen is. Arutha's wereld staat op z'n kop. Zijn orientatie is gestolen. 
 
@@ -699,3 +699,23 @@ Charmay komt naar beneden en beweert dat ze samen met Huggok gaat heersen. Als h
 Ze heeft de alicorn in een pocket dimension. Een hut bij haar patron. Een hut met pootjes eronder... Die van Baba Yaga. Ze denkt veel aan een grote magische ketel, die van goud naar ijzer en terug verandert. Misschien ook wel van naam. Yggwilf's cauldron, gemaakt door haar adoptiemoeder Baba Yaga. Met de ketel kan je de tijd stil zetten. De ketel kan vernietigd worden met een brandend zwaard. Net zo eentje als Orduk, van de league of Malevolence heeft. Bij de ketel: een keizerlijke vrouw van middelbare leeftijd met ernaast een jonge vrouw, Mercion. Allebei bevroren. 
 Kleer vraagt zijn God of trouwen met Charmay een slecht idee is. De goden zeggen in ieder geval 7 dagen gaat prima, mits beiden het huwelijk respecteren. Let wel op het 'goblinsentiment' (Scram? alle goblins hier? Merz?). De hoorn is dan voor Huggok.  De Goden van Kleer hebben ook een belang hierin...
 Huggok roept "laat het huwelijk beginnen!"
+
+# 2026-06-04 Sessie 57
+Gisteren was het feest. Het was een heel goed feest. Kleer wordt wakker met zijn benen bungelend over het randje van het balkon. Naast hem een satyr. Hij weet één ding nog van wat er gisteren gebeurd is. Hij weet nog wel dat er 'ja' gezegd is. Hij ziet veel goblins met een kater. Er vliegen kraaien langs. 
+Een verdieping hoger, op het balkon, Finnaes. Hij heeft de sterren van de hemel gespeeld: contact other plane, om precies te zijn. Hij heeft iets omlaag gespeeld uit de hemel. Zybilna werd opgeroepen, maar dat lukte niet.. er kwam wel een andere gedaante: Yggwilf. 
+
+-- Yggwilf is de evil versie van Tasha / Zybilna -- 
+
+Finnaes vraagt naar de philacteries. Yggwilf wordt woedend, bollen schieten uit haar gezicht en de philacteries vallen op de grond. Ze rollen naast het balkon omlaag. Ze verdwijnen. Een goblin zegt 'daar is die bel!', maar wat staat erbij?
+
+Scram in de kelder. Kevers om hem heen. "Ik ben een konijn!". Maar naast wie wordt Scram wakker? Zijn kleren zijn bebloedender dan normaal. Captain Drawmac. Scrams zwaard in hem. Hij had gewonnen. Yay. Maar heeft hij de bruiloft kunnen stoppen?
+
+Huggoks wordt wakker in de hut van de hag. Het teken op zijn arm trekt. Er prikt iets in zijn zij, een hoorn. Die is nodig om de dormant creatures te waken, at last. Hij gaat op zoek naar ontbijt. De marionetten die er hangen komen tot leven, maar Huggok ontwijkt ze. Hij kan het eten al ruiken...
+
+Huggok kent de satyr. Fensel? Die is ook overal waar er drank is. 
+
+Finnaes neemt weer contact op, deze keer met een belangrijke fae. De cauldron is wel in deze plane, maar niet in Motherhorn. Orduk en het brandend zwaard zijn in palace of heart's desire. 
+
+De eenhornhoorn past ergens in. Het hobbelpaard! Het verandert in een eenhoorn. Elidon. Wat weet hij over Bloodybeak? Die is zo groot als hun eiland. 
+
+Zwarte zak met grote verzameling flessen, 4 gold bedpost knobs, gemumificeerde hand (elegrant, vrouwelijk, met gouden ring met sterpatroon), stapel papieren (agonies of alagarthas). In de klerenkast een grote spiegel. Kleding met veel of weinig juwelen. Huggok weet niet of het een bekende spiegel. 
