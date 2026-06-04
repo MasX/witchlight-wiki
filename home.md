@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-06-04T19:34:38.255Z
+date: 2026-06-04T20:12:09.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -719,3 +719,13 @@ Finnaes neemt weer contact op, deze keer met een belangrijke fae. De cauldron is
 De eenhornhoorn past ergens in. Het hobbelpaard! Het verandert in een eenhoorn. Elidon. Wat weet hij over Bloodybeak? Die is zo groot als hun eiland. 
 
 Zwarte zak met grote verzameling flessen, 4 gold bedpost knobs, gemumificeerde hand (elegrant, vrouwelijk, met gouden ring met sterpatroon), stapel papieren (agonies of alagarthas). In de klerenkast een grote spiegel. Kleding met veel of weinig juwelen. Huggok weet niet of het een bekende spiegel. 
+
+We lopen richting de bel. Onderweg veel kooien, waarvan eentje met 3 gevouwen papieren vogeltjes. En staat iets op ze geschreven. Op eentje staat Lord Kelek, van de league of malevolence, die we op het carnival gezien hebben. De brief aan lord Kelek vliegt weg, maar we vangen die aan Bav en Skab.
+De warlock spy heeft dat Kelek, Zargash en de anderen de hags willen verraden. Charmay is een warlock. 
+
+We schrijven zelf wat brieven. Ze vliegen naar het palace. 
+We slaan op de bel. In de verte zes stippen verschijnen. Grote witte kraanvogels. 
+De eenhoorn kan ons ook teleporteren... maar niet mee met de kraanvogels. Hoe gaan we naar het paleis? 
+Scram speaks met animals met ze. "Voorzichtig waar de jabberwock vliegt!". 
+We teleporteren naar de paleistuin. 
+We staan in de tuin. Geurige bloemen. Grote beek. Circel van stenen. Grote poort op een kiertje. Het paleis. Muziek in de tuin. Stemmen van het paviljoen. 
