@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-06-04T20:12:50.283Z
+date: 2026-06-04T20:13:13.429Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -730,4 +730,4 @@ Scram speaks met animals met ze. "Voorzichtig waar de jabberwock vliegt!".
 We teleporteren naar de paleistuin. 
 We staan in de tuin. Geurige bloemen. Grote beek. Circel van stenen. Grote poort op een kiertje. Het paleis. Muziek in de tuin. Stemmen van het paviljoen. 
 
-Er staat een dredge demon. 
+Er staat een dredge demon, versteend. 
