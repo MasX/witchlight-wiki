@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-10T19:05:48.828Z
+date: 2026-07-10T19:48:42.198Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -728,7 +728,7 @@ We slaan op de bel. In de verte zes stippen verschijnen. Grote witte kraanvogels
 De eenhoorn kan ons ook teleporteren... maar niet mee met de kraanvogels. Hoe gaan we naar het paleis? 
 Scram speaks met animals met ze. "Voorzichtig waar de jabberwock vliegt!". 
 We teleporteren naar de paleistuin. 
-We staan in de tuin. Geurige bloemen. Grote beek. Circel van stenen. Grote poort op een kiertje. Het paleis. Muziek in de tuin. Stemmen van het paviljoen. 
+We staan in de tuin. Geurige bloemen. Grote beek. Cirjel van stenen. Grote poort op een kiertje. Het paleis. Muziek in de tuin. Stemmen van het paviljoen. 
 
 Er staat een dredge demon, versteend. 
 
@@ -737,5 +737,6 @@ We zijn in een gezelschap dat wacht tot ze Zybilna mogen spreken.
 Ze hebben een cadeau voor ons, met onze namen erop. Ook Arutha en de rest van de OG feywild party. "Many thanks, sir Talivar". Er zitten vier ringen in, met een seizoen als stijl. Ze unlocken de druidcraft cantrip en geven elfen trance ipv slaap. Elke heeft charges, als je schade van het seizoen krijgen kan je resistance krijgen of 2 charges voor advantage tegen spells en nog iets. Rings of the Feycourt. Huggok neemt die van he herfst (necrotic). 
 We gaan verder zonder te attunen.
 
-"The lion or the hart (mannetjeshert) must wear the crown, but which one must it weigh down?" staat op een steen voor de poort. Alles lijkt een beetje bevroren, niet alleen de forest gnomes maar ook de natuur. We zien de toren, waarvan een bonenstaak een toren heeft weggeduwd. Uit het marmeren fontijntje zijn dierenhoofden uitgehouwen die het water uitspugen. 8 met 3 anderen erboven. 
+"The lion or the hart (mannetjeshert) must wear the crown, but which one must it weigh down?" staat op een steen voor de poort. Alles lijkt een beetje bevroren, niet alleen de forest gnomes maar ook de natuur. We zien de toren, waarvan een bonenstaak een toren heeft weggeduwd. Uit het marmeren fontijntje zijn dierenhoofden uitgehouwen die het water uitspugen. 8 met 3 anderen erboven. Het water voelt als klei. Huggok vult een waterskin.  
 
+We inspecteren de dredge demon, helemaal versteend. Aanraken transporteert ons niet. Er zit een snavelgat in. Van een cockatrice. Huggok doet de dredge demon in de bag of scolding en de party gaat door naar het kasteel. Een beeld van een hert op een deur die dicht zit. De eenhoorn vindt dat het hier tintelt, erg magisch. Ziet er lastig uit om deze deur open te krijgen. We kijken bij een andere deur, zonder mooie inleg. Deze deur gaat wel open. In deze kamer een kristallen koets met twee kristallen pegasi ervoor. De koets heeft ingeklapte stoffen vlindervleugels. In het midden van de koets een glazen sleutel. We kiezen ervoor om de koets heel te houden en verder te kijken. Iets met de drie regels van Prismeer. We gaan door, kamer met drie deuren waarvan eentje met een stenen leeuw erboven. Op de grond een meterslang kleed met rozen. Bij de andere twee deuren vazen met rozen. Er hangt een briefje aan met 'take one'. Huggok en Scram nemen er eentje. Finnaes niet en wordt gegrepen door het kleed. We beschadigen het, Finnaes teleporteert en pakt een roos. De deur met de leeuw erboven zit ook magisch dicht. De deur ertegenover gaat wel open. Scram doet hem open en staat op een balkon. Voor hem een leegte met storm. In het midden een soort arena. In de lucht zwevende torens. Daar het figuur dat het zwaard van paladin Stormheart vasthoudt, vast in de tijd.   
