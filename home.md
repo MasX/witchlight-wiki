@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-10T20:23:00.093Z
+date: 2026-07-10T20:24:15.026Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -741,4 +741,4 @@ We gaan verder zonder te attunen.
 
 We inspecteren de dredge demon, helemaal versteend. Aanraken transporteert ons niet. Er zit een snavelgat in. Van een cockatrice. Huggok doet de dredge demon in de bag of scolding en de party gaat door naar het kasteel. Een beeld van een hert op een deur die dicht zit. De eenhoorn vindt dat het hier tintelt, erg magisch. Ziet er lastig uit om deze deur open te krijgen. We kijken bij een andere deur, zonder mooie inleg. Deze deur gaat wel open. In deze kamer een kristallen koets met twee kristallen pegasi ervoor. De koets heeft ingeklapte stoffen vlindervleugels. In het midden van de koets een glazen sleutel. We kiezen ervoor om de koets heel te houden en verder te kijken. Iets met de drie regels van Prismeer. We gaan door, kamer met drie deuren waarvan eentje met een stenen leeuw erboven. Op de grond een meterslang kleed met rozen. Bij de andere twee deuren vazen met rozen. Er hangt een briefje aan met 'take one'. Huggok en Scram nemen er eentje. Finnaes niet en wordt gegrepen door het kleed. We beschadigen het, Finnaes teleporteert en pakt een roos. De deur met de leeuw erboven zit ook magisch dicht. De deur ertegenover gaat wel open. Scram doet hem open en staat op een balkon. Voor hem een leegte met storm. In het midden een soort arena. In de lucht zwevende torens. Daar het figuur dat het zwaard van paladin Stormheart vasthoudt, vast in de tijd. We gaan de andere kant op verder. Er zijn nog meer deuren met leeuwen en herten. 
 De jabberwock is er ook, slapend. Hij heeft meerdere deuren gesloopt. We durven hem niet aan te vallen.
-We kijken verder. In het midden een zwarte ketel met donkere rook en meerdere gedaantes, bevroren in tijd. Mercion, zybilna. De jabberwock ligt eromheen te slapen. Zybilna neigt naar de ketel en Mercion met een quarterstaff. De jabberwock ontwaakt... We proberen weg te komen, maar besluiten als dat niet lukt toch te vechten. Bless, bardic inspiration en Royal Shield en gift of frost gaan het verschil maken, toch?
+We kijken verder. In het midden een zwarte ketel met donkere rook en meerdere gedaantes, bevroren in tijd. Mercion, zybilna. De jabberwock ligt eromheen te slapen. Zybilna neigt naar de ketel en Mercion met een quarterstaff. De jabberwock ontwaakt... Huggok zet de versteende dredge demon neer. We proberen weg te komen, maar besluiten als dat niet lukt toch te vechten. Bless, bardic inspiration en Royal Shield en gift of frost gaan het verschil maken, toch?
