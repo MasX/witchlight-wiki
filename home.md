@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-23T20:15:47.464Z
+date: 2026-07-23T20:19:26.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -696,17 +696,17 @@ Level up!
 
 # 2026-02-13 Sessie 56 
 Charmay komt naar beneden en beweert dat ze samen met Huggok gaat heersen. Als hij 'ja' zegt krijgt hij de hoorn. Ze beseft dat de hoorn veel waard is maar weet niet zo goed waarom. Ze beweert dat Merz onder invloed was van de Hag, en eigenlijk niet zo'n kwaaie is. Duidelijk onzin, maar Huggok en Kleer accepteren het. 
-Ze heeft de alicorn in een pocket dimension. Een hut bij haar patron. Een hut met pootjes eronder... Die van Baba Yaga. Ze denkt veel aan een grote magische ketel, die van goud naar ijzer en terug verandert. Misschien ook wel van naam. Yggwilf's cauldron, gemaakt door haar adoptiemoeder Baba Yaga. Met de ketel kan je de tijd stil zetten. De ketel kan vernietigd worden met een brandend zwaard. Net zo eentje als Orduk, van de league of Malevolence heeft. Bij de ketel: een keizerlijke vrouw van middelbare leeftijd met ernaast een jonge vrouw, Mercion. Allebei bevroren. 
+Ze heeft de alicorn in een pocket dimension. Een hut bij haar patron. Een hut met pootjes eronder... Die van Baba Yaga. Ze denkt veel aan een grote magische ketel, die van goud naar ijzer en terug verandert. Misschien ook wel van naam. Iggwilf's cauldron, gemaakt door haar adoptiemoeder Baba Yaga. Met de ketel kan je de tijd stil zetten. De ketel kan vernietigd worden met een brandend zwaard. Net zo eentje als Orduk, van de league of Malevolence heeft. Bij de ketel: een keizerlijke vrouw van middelbare leeftijd met ernaast een jonge vrouw, Mercion. Allebei bevroren. 
 Kleer vraagt zijn God of trouwen met Charmay een slecht idee is. De goden zeggen in ieder geval 7 dagen gaat prima, mits beiden het huwelijk respecteren. Let wel op het 'goblinsentiment' (Scram? alle goblins hier? Merz?). De hoorn is dan voor Huggok.  De Goden van Kleer hebben ook een belang hierin...
 Huggok roept "laat het huwelijk beginnen!"
 
 # 2026-06-04 Sessie 57
 Gisteren was het feest. Het was een heel goed feest. Kleer wordt wakker met zijn benen bungelend over het randje van het balkon. Naast hem een satyr. Hij weet één ding nog van wat er gisteren gebeurd is. Hij weet nog wel dat er 'ja' gezegd is. Hij ziet veel goblins met een kater. Er vliegen kraaien langs. 
-Een verdieping hoger, op het balkon, Finnaes. Hij heeft de sterren van de hemel gespeeld: contact other plane, om precies te zijn. Hij heeft iets omlaag gespeeld uit de hemel. Zybilna werd opgeroepen, maar dat lukte niet.. er kwam wel een andere gedaante: Yggwilf. 
+Een verdieping hoger, op het balkon, Finnaes. Hij heeft de sterren van de hemel gespeeld: contact other plane, om precies te zijn. Hij heeft iets omlaag gespeeld uit de hemel. Zybilna werd opgeroepen, maar dat lukte niet.. er kwam wel een andere gedaante: Iggwilf. 
 
--- Yggwilf is de evil versie van Tasha / Zybilna -- 
+-- Iggwilf is de evil versie van Tasha / Zybilna -- 
 
-Finnaes vraagt naar de philacteries. Yggwilf wordt woedend, bollen schieten uit haar gezicht en de philacteries vallen op de grond. Ze rollen naast het balkon omlaag. Ze verdwijnen. Een goblin zegt 'daar is die bel!', maar wat staat erbij?
+Finnaes vraagt naar de philacteries. Iggwilf wordt woedend, bollen schieten uit haar gezicht en de philacteries vallen op de grond. Ze rollen naast het balkon omlaag. Ze verdwijnen. Een goblin zegt 'daar is die bel!', maar wat staat erbij?
 
 Scram in de kelder. Kevers om hem heen. "Ik ben een konijn!". Maar naast wie wordt Scram wakker? Zijn kleren zijn bebloedender dan normaal. Captain Drawmac. Scrams zwaard in hem. Hij had gewonnen. Yay. Maar heeft hij de bruiloft kunnen stoppen?
 
@@ -752,4 +752,4 @@ We zien Grast (rule of three)? Hij verwelkomt ons in Lavocia (?) en revivet de d
 
 Zargash draait om en roept Kelek. 
 
-Grast wil graag alle philacteries (bollen) terug zodat zijn moeder - Yggwilf - terug kan komen. 
+Grast wil graag alle philacteries (bollen) terug zodat zijn moeder - Iggwilf - terug kan komen. Hij wil er zeven, maar we vermoeden dat de achtste loathing is, van de versteende dredge demon.  
