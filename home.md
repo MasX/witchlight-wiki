@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-23T20:31:58.015Z
+date: 2026-07-23T20:32:19.828Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -755,3 +755,5 @@ Zargash draait om en roept Kelek.
 Grast wil graag alle philacteries (bollen) terug zodat zijn moeder - Iggwilf - terug kan komen. Hij wil er zeven, maar we vermoeden dat de achtste loathing is, van de versteende dredge demon. Huggok doet zijn philactery in de ketel maar die gaat weer om Zybilna draaien.  
 
 Kleer is een van de drie levende wezens die iets over de ketel weten. Huggok neemt de dredge demon mee en we gaan op zoek naar een plek om te rusten. Grast wil nog heel graag dat we de andere ballen terugbrengen maar we spreken niks af. Kleer probeert een bal te pakken maar wordt daarop aangevallen door Grast en krijgt 52 schade en gaat knock-out. 
+
+Level up!
