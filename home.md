@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-23T20:08:30.925Z
+date: 2026-07-23T20:09:38.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -749,3 +749,5 @@ Op de rand van de ketel 8 kikkers, 8 ogen, etc. Scram doet flink schade, maar de
 
 We zien veel gedaantes in de ruimte. Bullywoks met pantsering (quicklings), goblins met vleugels, Mercion, Zybilna, Wringlerun. 
 We zien Grast (rule of three)? Hij verwelkomt ons in Lavocia (?) en revivet de draak, die hem prompt aanvalt maar mist. Kleer en Scram vallen de zombies aan. Huggok pakt de philactery van rage. Een visie van alle centaurs die weggaan, leve de goblins! Finnaes die van Envy. Een gevoel van te laat zijn, terwijl dat al lang niet meer gebeurde in een wereld waar geen tijd is.  
+
+Zargash draait om en roept Kellek. 
