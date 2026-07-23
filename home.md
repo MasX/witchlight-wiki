@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-23T20:20:24.564Z
+date: 2026-07-23T20:25:29.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -753,3 +753,5 @@ We zien Grast (rule of three)? Hij verwelkomt ons in Lavocia (?) en revivet de d
 Zargash draait om en roept Kelek. 
 
 Grast wil graag alle philacteries (bollen) terug zodat zijn moeder - Iggwilf - terug kan komen. Hij wil er zeven, maar we vermoeden dat de achtste loathing is, van de versteende dredge demon. Huggok doet zijn philactery in de ketel maar die gaat weer om Zybilna draaien.  
+
+Kleer is een van de drie levende wezens die iets over de ketel weten. 
