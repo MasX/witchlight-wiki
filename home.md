@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-23T20:09:38.205Z
+date: 2026-07-23T20:10:43.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -90,7 +90,7 @@ Finnaes voelt dat hij wat mist, iets magisch...
 
 # 2022-09-30 sessie 4
 <!-- zonder Rik, invallen zieke collega -->
-We zoeken water! We vormen een lijn om emmers water over te geven en op het vuur te gooien. Palasha ligt in het water maar wil niks zeggen en lijkt erg boos. Aelar vindt een magier, [Kellek](npc/kellek), die het in één keer kan blussen. Daarna vliegt ie weg. Aelar denkt dat Kellek maar geluk gehad heeft bij het casten van zijn spreuk. Er is weinig van de tent over, maar de spiegels zijn nog acceptabel.
+We zoeken water! We vormen een lijn om emmers water over te geven en op het vuur te gooien. Palasha ligt in het water maar wil niks zeggen en lijkt erg boos. Aelar vindt een magier, [Kelek](npc/kelek), die het in één keer kan blussen. Daarna vliegt ie weg. Aelar denkt dat Kellek maar geluk gehad heeft bij het casten van zijn spreuk. Er is weinig van de tent over, maar de spiegels zijn nog acceptabel.
 
 Als het meisje weggedragen wordt horen we van de Witchlight hands dat er meerdere van dit soort meisjes rondlopen, en dat zolang je er werkt of een kaartje hebt er niks aan de hand is.
 
@@ -750,4 +750,4 @@ Op de rand van de ketel 8 kikkers, 8 ogen, etc. Scram doet flink schade, maar de
 We zien veel gedaantes in de ruimte. Bullywoks met pantsering (quicklings), goblins met vleugels, Mercion, Zybilna, Wringlerun. 
 We zien Grast (rule of three)? Hij verwelkomt ons in Lavocia (?) en revivet de draak, die hem prompt aanvalt maar mist. Kleer en Scram vallen de zombies aan. Huggok pakt de philactery van rage. Een visie van alle centaurs die weggaan, leve de goblins! Finnaes die van Envy. Een gevoel van te laat zijn, terwijl dat al lang niet meer gebeurde in een wereld waar geen tijd is.  
 
-Zargash draait om en roept Kellek. 
+Zargash draait om en roept Kelek. 
