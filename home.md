@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-07-23T20:03:00.391Z
+date: 2026-07-23T20:08:30.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -748,4 +748,4 @@ We vechten. Scram eropaf. Huggok erop. Er komen zombies uit de gang aanzetten. H
 Op de rand van de ketel 8 kikkers, 8 ogen, etc. Scram doet flink schade, maar de draak heelt ook een beetje. Daarna lasert de draak de bag of scolding van binnen, die in flarden uitbarst. Gelukkig maar dat de philacteries er al uit waren... Vreemd genoeg telt de kop van de draak niet als 'content' van de bag en overleeft deze het. Finnaes gebruikt silence zodat we geen last hebben van het gebrabbel! Maar is ook verblind door Zargash. Scram wordt flink geraakt. Hij hoort het geluid van baby's die naar de wiegjes willen, ondanks de Silence.. het komt van de ketel vandaan. Huggok haalt nog uit, Kleer gebruikt zijn spiritual weapon en blinde en dove Finnaes raakt met een nat 20 de draak in zijn hoog! De draak valt dood neer. Met zijn laatste adem draait hij nog zijn staart om Zybilna. 
 
 We zien veel gedaantes in de ruimte. Bullywoks met pantsering (quicklings), goblins met vleugels, Mercion, Zybilna, Wringlerun. 
-We zien Grast (rule of three)? Hij verwelkomt ons in Lavocia (?) en revivet de draak, die hem prompt aanvalt maar mist. 
+We zien Grast (rule of three)? Hij verwelkomt ons in Lavocia (?) en revivet de draak, die hem prompt aanvalt maar mist. Kleer en Scram vallen de zombies aan. Huggok pakt de philactery van rage. Een visie van alle centaurs die weggaan, leve de goblins! Finnaes die van Envy. Een gevoel van te laat zijn, terwijl dat al lang niet meer gebeurde in een wereld waar geen tijd is.  
