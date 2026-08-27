@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-08-27T19:20:05.786Z
+date: 2026-08-27T20:03:33.535Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -762,10 +762,15 @@ Level up!
 Kleer wordt wakker, hij kreeg een healing potion van een dwerg, elcorn. Een paar andere characters bij hem. Heeft hij geprobeerd om te teleporten? niet doen hoor! Er steekt iets scherps uit zijn hoofd. De tovenaar komt er zo aan om hem te genezen. Pavlorna. Kleer is naar het verleden geslagen. 
 Kleer is weer ergens anders, of in een andere tijd. Morty en Kalimanzaros zijn er, net als Zybilna. Zybilna zegt dat ze gaan voor het plan van Finnix. Een hele platte goblin, zo plat als een vel papier. Kleer herinnert zich deze kamer, in puinhoop. Het is een kamer in de Palace of Hearts' desire. Er liggen veel explosieven. De baby kamer is klaar. Als Morden Kainen (?) aanvalt teleporteren de dredge demons overal naartoe.  
 
-Iets met een kind dat geholpen word. Dan kriebel in de keel van Kleer. Twee elven komen naar hem toegesneld en beginnen spreuken te casten. Ze roepen "Kellek, we hebben Wringlerun gevonden!". Één grote chaos. 
+Iets met een kind dat geholpen word. Dan kriebel in de keel van Kleer. Twee elven komen naar hem toegesneld en beginnen spreuken te casten. Ze roepen "Kellek, we hebben Wringlerun gevonden!". Één grote chaos. Een gevecht. De hags casten de tijdstopspell. Zybilna probeerde het nog te stoppen, maar er was teveel chaos door het gevecht tussen Valor's Call en de League of Malevolence. Kleer pakt de éénhoorn van de hags af en zet het op een rennen. Zodra hij 0 hp raakt gaat hij verder naar een andere tijd, met de hoorn. 
+Helaas is daar de Jabberwock. 
 
 --
 
 We zoeken een rustplaats. Huggok neemt de versteende dredge demon mee, maar Rule of Three vindt dat niet zo erg lijkt het. We gaan een kamer in, waar een gigantische uil zit, achter een stevig hek. Op de grond gigantische rattenbotten. De uil lijkt bevroren in de tijd. Een groot raam dat open lijkt te kunnen. 
 
 Volgende kamer bevat een bankethal, met een giant erin. Druk etende. We sneaken er voorbij. In de volgende ruimte bonenstaan, en een gigantische taart. Voor wie zou die nou zijn? We brengen de taart naar de giant, inclusief brandende kaarsjes. Omdat hij hier sowieso een paar uur mee bezig zal zijn bekijken we het balkon. Daar eten we en hebben we een short rest. We overleggen met een lepel, een butler. Hij zegt dat we aan Finnix, de hoofdbutler moeten vragen hoe we de tijd weer opstarten. Er is een gedicht nodig om Finnix te vinden. Slip underneath the doorway. Then fold and disappear. That's where you'll be hiding. Whenever I am near. But I have something for you, a thing you don't yet know. I'll tell you my great secret, if only you'll show (a secret). Gebruik de bel in de gastenvertrekken. De giant is een vriend van Kellek. 
+
+We gaan via de keuken, naar de gastenvertrekken. In de keuken horen we zachtjes 'help' van boven. Er glipt een hele platte goblin onder de deur door, ziet Scram. We gaan erachteraan. In de kamer meerdere kaarsen, alles klein, kleine bevroren bedjes. Vijf bevroren goblins. Aan de muur belletjes. Scram vertelt een goed geheim en Finnix verschijnt, in minder platte versie. Huggok kent deze gedaante. We hebben hem in het goblinkamp gezien. Hij zegt dat we de cauldron niet stuk moeten maken. Zij en elke hag zouden heel boos worden. We moeten de ballen terugbrengen, naar de cradles, boven. Dan veranderen ze terug in hun dredge demon vorm. Dan zybilna aanraken met de hoorn en haar eigen naam zeggen (Yggwilf). Als we niet eerst de demonen wegbrengen dan ontwaken we Yggwilf, anders is het Zybilna. 
+Spreek ook met de Librarian (john?). In de tuin staan een ijzeren leeuw en een ijzeren hert, in de torens. Op die manier kunnen de deuren open. De deuren gaan ook open als je in het boek staat, wat zich in de hoge toren bevind. 
+De jabberwock is bang voor bloodybeak, de uil. 
