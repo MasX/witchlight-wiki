@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-08-27T20:29:13.601Z
+date: 2026-08-27T20:30:19.600Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -778,3 +778,5 @@ De jabberwock is bang voor bloodybeak, de uil.
 
 We klimmen naar boven en treffen Kleer en de familiar van Zybilna, een kikker met een tovenaarshoed. Hij heet Igrik. Hij vertrouwt ons als Huggok zijn tattoo laat zien. Hij zou het prima vinden als we de ketel kapot maken. En als we Zybilna terugbrengen moeten we Tasha zeggen (dus niet Yggwilf). 
 Scram valt de kikker aan, en een quasit verschijnt, een kleine demonendraak. Scram doodt hem. 
+
+Wat zal de party nu doen met de hoorn en de bollen (en de versteende dredge demon)?
