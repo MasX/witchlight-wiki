@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-08-27T20:03:33.535Z
+date: 2026-08-27T20:28:14.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -763,7 +763,8 @@ Kleer wordt wakker, hij kreeg een healing potion van een dwerg, elcorn. Een paar
 Kleer is weer ergens anders, of in een andere tijd. Morty en Kalimanzaros zijn er, net als Zybilna. Zybilna zegt dat ze gaan voor het plan van Finnix. Een hele platte goblin, zo plat als een vel papier. Kleer herinnert zich deze kamer, in puinhoop. Het is een kamer in de Palace of Hearts' desire. Er liggen veel explosieven. De baby kamer is klaar. Als Morden Kainen (?) aanvalt teleporteren de dredge demons overal naartoe.  
 
 Iets met een kind dat geholpen word. Dan kriebel in de keel van Kleer. Twee elven komen naar hem toegesneld en beginnen spreuken te casten. Ze roepen "Kellek, we hebben Wringlerun gevonden!". Één grote chaos. Een gevecht. De hags casten de tijdstopspell. Zybilna probeerde het nog te stoppen, maar er was teveel chaos door het gevecht tussen Valor's Call en de League of Malevolence. Kleer pakt de éénhoorn van de hags af en zet het op een rennen. Zodra hij 0 hp raakt gaat hij verder naar een andere tijd, met de hoorn. 
-Helaas is daar de Jabberwock. 
+Helaas is daar de Jabberwock. Hij wil uit de ketel drinken. 
+Kleer cast divination om er achter te komen hoe hij terugkomt in het 'nu'. Het advies is om in een bonenstaak te zitten en zacht om hulp te roepen. Hij gaat ernaartoe. Daar zit een kikker, die ook hulp zoekt.  
 
 --
 
@@ -774,3 +775,6 @@ Volgende kamer bevat een bankethal, met een giant erin. Druk etende. We sneaken 
 We gaan via de keuken, naar de gastenvertrekken. In de keuken horen we zachtjes 'help' van boven. Er glipt een hele platte goblin onder de deur door, ziet Scram. We gaan erachteraan. In de kamer meerdere kaarsen, alles klein, kleine bevroren bedjes. Vijf bevroren goblins. Aan de muur belletjes. Scram vertelt een goed geheim en Finnix verschijnt, in minder platte versie. Huggok kent deze gedaante. We hebben hem in het goblinkamp gezien. Hij zegt dat we de cauldron niet stuk moeten maken. Zij en elke hag zouden heel boos worden. We moeten de ballen terugbrengen, naar de cradles, boven. Dan veranderen ze terug in hun dredge demon vorm. Dan zybilna aanraken met de hoorn en haar eigen naam zeggen (Yggwilf). Als we niet eerst de demonen wegbrengen dan ontwaken we Yggwilf, anders is het Zybilna. 
 Spreek ook met de Librarian (john?). In de tuin staan een ijzeren leeuw en een ijzeren hert, in de torens. Op die manier kunnen de deuren open. De deuren gaan ook open als je in het boek staat, wat zich in de hoge toren bevind. 
 De jabberwock is bang voor bloodybeak, de uil. 
+
+We klimmen naar boven en treffen Kleer en de familiar van Zybilna, een kikker met een tovenaarshoed. Hij heet Igrik. Hij vertrouwt ons als Huggok zijn tattoo laat zien. Hij zou het prima vinden als we de ketel kapot maken. En als we Zybilna terugbrengen moeten we Tasha zeggen (dus niet Yggwilf). 
+Scram valt de kikker aan, en een quasit verschijnt, een kleine demonendraak. Scram doodt hem. 
