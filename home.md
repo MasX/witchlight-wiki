@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-09-17T20:15:23.405Z
+date: 2026-09-17T20:17:05.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -810,3 +810,4 @@ We leggen de rest van de philacteries in de wiegjes. De versteende wordt ontstee
 Een vrouw vaart langs in een bootje, kroon van botten, donkere gedaante, een rivier van zout. Door een bos met slangen als takken. Ze wordt aangesproken als Wyllva. De demoon, quassit, speelt op een luit 'muziek'. 
 Ze zijn met elkaar verbonden. Hij heeft een cadeau voor haar: een grote rode mantel, zesvingerige hand erop. Gemaakt van de beste pitfiend. Hij houdt echt van haar zoals ze is!
 
+Kleer heeft vleugels van vuur. Scram trekt zijn zwaard.
