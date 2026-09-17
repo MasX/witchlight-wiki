@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-09-17T19:29:03.467Z
+date: 2026-09-17T19:55:30.299Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -800,3 +800,8 @@ Een van de jurken heeft een binnenjurk, erg mooi, prachtig leer. Dichtgehouden d
 We laten de jurken maar met rust.
 
 In het grote meer: een zee van goblins met centaurs eroverheen.  
+In de volgende kamer: veel kleine zwarte vliegende wezens. Wormen op de grond, en 8 gevlochten wiegen. Boven de wiegjes tekens: abghilnstvwyz. De letters van natasha en iggwylv. In een van de wiegjes een dredge demon, rondkijkend.
+Ohja, in elke philactery staat een letter. Ze veranderen, op maliciousness stond een t, nu een b. We leggen maliciousness in een wiegje, waarop hij uitgroeit tot een dredge demon. 
+We raken de eerste dredge demon aan. 
+
+We zijn in een bos, hyperrealistisch. Een vrouw, met een gevleugelde familiar op de schouder. Centaurs en goblingeluid. De centaurs gaan de opstand wel even neerslaan. 8 bollen om haar heen draaien. Zo irritant dat Baba Yaga gelijk heeft, ze had dit al voorspeld! Benji's notities. De bollen verbinden met de vrouw. Niemand kan me verslaan. Een van de centaurs roept uit: "ik ga zingen!". Centaurs rennen alle kanten op. Voor ons een gebouw, marmeren torens, een paleis. De demoon zegt "niemand is zo sterk als u, Iggwylv". Haar haren worden wit. Nee, "ik ben niet allen Iggwylv, ik ben Natasha, Zybilna". Natasha was een adoptiekind, nooit geaccepteerd. Kleer ziet visioenen van de hele reis van Natasha. Ze kiest ervoor om Zybilna te worden. 
