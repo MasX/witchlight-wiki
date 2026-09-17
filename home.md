@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-09-17T18:36:00.028Z
+date: 2026-09-17T19:29:03.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -789,4 +789,14 @@ In de kist zitten:
 - gouden soeplepel, beetje onhandig. magisch: 1x/dag tasha's bubbling cauldron
 - schoenenpaar met verdikte zool en vleugels. Winged boots (2024).
 
-Kleer is hoorns aan het groeien, demonenvorm. Hij voelt zich als een vogel die zijn vleugels wil uitslaan. 
+Kleer is hoorns aan het groeien, demonenvorm. Hij voelt zich als een vogel die zijn vleugels wil uitslaan. Kleer weerstaat pogingen om de demoon uit zich te drijven.
+Huggok attunet aan de schoenen, Kleer geeft hem de eenhoornhoorn. Deze lijkt anders dan die we eerder hadden. 
+
+We vliegen naar de toren waar de babygeluiden vandaan komen. We doen de deur open, vier gesloten luiken. In de volgende kamer een kamer die blank staat, met blauwe vlammen boven het water. Aan de muur een reliëf, van een centaur. 
+Achter de luiken: bugbearhoofd (zonder lijf), harpie, ..,... Ze maken geluiden. Ba! Ba! Ya! G--- (nou die laatste activeren we toch maar niet ;)). 
+We doen de deur open. Magisch water, zeer spiegelend. Er komt een zeilboot aan en er zwemmen grote dingen. Te groot voor het water. We gaan de boot in. De eerste deur, 8 paspoppen in een stolp. Allemaal hun eigen outfit. Van simpele kinderjurk tot zeer bijzondere volwassenjurk, ongetwijfeld magisch. Gevarieerde heksenoutfits, in glas bewaard. In de kleinste een naam: Natasha. We herkennen een aantal outfits, uit visits, het carnival. De laatste jurken wat minder queen dan eerder. De eerste ook wat minder. 
+
+Een van de jurken heeft een binnenjurk, erg mooi, prachtig leer. Dichtgehouden door een zilveren hand met zes vingers. 
+We laten de jurken maar met rust.
+
+In het grote meer: een zee van goblins met centaurs eroverheen.  
