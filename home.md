@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-08-27T20:33:10.440Z
+date: 2026-09-17T18:36:00.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -782,3 +782,11 @@ Scram valt de kikker aan, en een quasit verschijnt, een kleine demonendraak. Scr
 Er staat ook een kist, maar Kleer mocht er nooit in kijken. 
 
 Wat zal de party nu doen met de hoorn en de bollen (en de versteende dredge demon)?
+
+# 2026-09-17 Sessie 61
+In de kist zitten:
+- rode kaars, met brokjes erin, waarschijnlijk tanden. Centaurtanden. Waarschijnlijk wel magisch. 4x aura / opbranden voor gate naar een plane.  
+- gouden soeplepel, beetje onhandig. magisch: 1x/dag tasha's bubbling cauldron
+- schoenenpaar met verdikte zool en vleugels. Winged boots (2024).
+
+Kleer is hoorns aan het groeien, demonenvorm. Hij voelt zich als een vogel die zijn vleugels wil uitslaan. 
