@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-10-02T18:47:16.310Z
+date: 2026-10-02T20:28:11.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -817,4 +817,13 @@ We horen stemmen aankomen. We gaan de boot weer in en gaan verder. We kijken goe
 We horen Iggwylv in ons hoofd: 'stop, or be crushed!'. Ze volgen ons.
 We gaan de volgende kamer in, vol met zwevende kaarsen. Tevens zwevende zwarte boekenkasten, met zwarte boeken zonder titels. In het midden van de kamer een bureau, met een quill. 
 
-Finnaes cast fear. Eentje lijkt niet onder de indruk, de andere twee rennen weg. De gedaante komt de kamer binnen, zich niks aantrekkend van de kasten, dwars erdoorheen. De shadow valt Finnaes aan.  
+Finnaes cast fear. Eentje lijkt niet onder de indruk, de andere twee rennen weg. De gedaante komt de kamer binnen, zich niks aantrekkend van de kasten, dwars erdoorheen. De shadow valt Finnaes aan.  We verslaan ze, waarop ze op een andere plane terugkomen. Misschien laat dat op die andere plane wel alarmbellen afgaan... 
+
+We nemen een boek mee en een quill. Huggok doet de armor van de demon aan. Wat kan er fout gaan? Huggok attunet. We nemen ook de familiar van Zybilna mee, die heeft het overleeft. Laten we hem maar niet terugsturen, want dan gaat er ongetwijfeld een alarm af in een andere plane. 
+We gaan richting de ketel, waar Bavlorna en Rule of Three zijn. Finnaes gebruikt clearvoyance, wat opgemerkt wordt door Bavlorna. Ze stuurt lornlings rond, die ons vinden. 
+
+Gedicht opnoemen terwijl we met de hoorn de ketel aanraken, of zybilna ontdooien met de hoorn door true name te zeggen. 
+
+We raken Mercion en Strongheart aan met de hoorn en zeggen hun namen. Ze worden ontdooid. 'Maar... wanneer zijn we?...'.
+
+Kleer cast een gate naar een andere portal naar het huis van Grazt't. Rule of Three probeert Scram te raken maar mist dankzij protection from good/evil van Finnaes.
