@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-10-02T20:31:23.265Z
+date: 2026-10-02T20:32:13.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -826,4 +826,4 @@ Gedicht opnoemen terwijl we met de hoorn de ketel aanraken, of zybilna ontdooien
 
 We raken Mercion en Strongheart aan met de hoorn en zeggen hun namen. Ze worden ontdooid. 'Maar... wanneer zijn we?...'.
 
-Rule of Three probeert Scram te raken maar mist dankzij protection from good/evil van Finnaes. Kleer cast een gate naar een andere portal naar het huis van Grazt't in de Abyss. 15ft diameter. Er komt een enorme herrie uit, het is niet om aan te zien. Een prettige chaos. 
+Rule of Three probeert Scram te raken maar mist dankzij protection from good/evil van Finnaes. Kleer cast een gate naar een andere portal naar het huis van Grazt't in de Abyss. 15ft diameter. Er komt een enorme herrie uit, het is niet om aan te zien. Een prettige chaos. Opeens ziet Rule Of Three Kleer als companion...
