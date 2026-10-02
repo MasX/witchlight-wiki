@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-09-17T20:17:05.138Z
+date: 2026-10-02T18:47:16.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -776,7 +776,7 @@ We gaan via de keuken, naar de gastenvertrekken. In de keuken horen we zachtjes 
 Spreek ook met de Librarian (john?). In de tuin staan een ijzeren leeuw en een ijzeren hert, in de torens. Op die manier kunnen de deuren open. De deuren gaan ook open als je in het boek staat, wat zich in de hoge toren bevind. 
 De jabberwock is bang voor bloodybeak, de uil. 
 
-We klimmen naar boven en treffen Kleer en de familiar van Zybilna, een kikker met een tovenaarshoed. Hij heet Igrik. Hij vertrouwt ons als Huggok zijn tattoo laat zien. Hij zou het prima vinden als we de ketel kapot maken. En als we Zybilna terugbrengen moeten we Tasha zeggen (dus niet Yggwilf). 
+We klimmen naar boven en treffen Kleer en de familiar van Zybilna (black comet), een kikker met een tovenaarshoed. Hij heet Igrik. Hij vertrouwt ons als Huggok zijn tattoo laat zien. Hij zou het prima vinden als we de ketel kapot maken. En als we Zybilna terugbrengen moeten we Tasha zeggen (dus niet Yggwilf). 
 Scram valt de kikker aan, en een quasit verschijnt, een kleine demonendraak. Scram doodt hem. 
 
 Er staat ook een kist, maar Kleer mocht er nooit in kijken. 
@@ -810,4 +810,11 @@ We leggen de rest van de philacteries in de wiegjes. De versteende wordt ontstee
 Een vrouw vaart langs in een bootje, kroon van botten, donkere gedaante, een rivier van zout. Door een bos met slangen als takken. Ze wordt aangesproken als Wyllva. De demoon, quassit, speelt op een luit 'muziek'. 
 Ze zijn met elkaar verbonden. Hij heeft een cadeau voor haar: een grote rode mantel, zesvingerige hand erop. Gemaakt van de beste pitfiend. Hij houdt echt van haar zoals ze is!
 
-Kleer heeft vleugels van vuur. Scram trekt zijn zwaard.
+Kleer heeft vleugels van vuur. Scram trekt zijn zwaard. Maar doet hem na een korte bedreiging weer terug.
+
+# 2026-10-02 Sessie 62
+We horen stemmen aankomen. We gaan de boot weer in en gaan verder. We kijken goed, is het nou de Quassir die we al gedood hadden? Als we goed kijken zien we een hele grote demoon, kikkerachtig, door het water lopend. Een donkerharige vrouw, tattoo onder de ogen, strakke leren kleding, zoekend, 8ft groot. Er lijkt iets niet te kloppen. Een illusie? Wie is het echt? 
+We horen Iggwylv in ons hoofd: 'stop, or be crushed!'. Ze volgen ons.
+We gaan de volgende kamer in, vol met zwevende kaarsen. Tevens zwevende zwarte boekenkasten, met zwarte boeken zonder titels. In het midden van de kamer een bureau, met een quill. 
+
+Finnaes cast fear. Eentje lijkt niet onder de indruk, de andere twee rennen weg. De gedaante komt de kamer binnen, zich niks aantrekkend van de kasten, dwars erdoorheen. De shadow valt Finnaes aan.  
