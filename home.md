@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-10-02T20:32:13.030Z
+date: 2026-10-16T19:46:19.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -827,3 +827,10 @@ Gedicht opnoemen terwijl we met de hoorn de ketel aanraken, of zybilna ontdooien
 We raken Mercion en Strongheart aan met de hoorn en zeggen hun namen. Ze worden ontdooid. 'Maar... wanneer zijn we?...'.
 
 Rule of Three probeert Scram te raken maar mist dankzij protection from good/evil van Finnaes. Kleer cast een gate naar een andere portal naar het huis van Grazt't in de Abyss. 15ft diameter. Er komt een enorme herrie uit, het is niet om aan te zien. Een prettige chaos. Opeens ziet Rule Of Three Kleer als companion...
+
+# 2026-1016 Sessie 63
+Door de portal, Grazt't op een mooie troon in een prachtige balzaal. Demonen krioelen over de grond. 
+8 dredge demons komen door de portal. We gooien bavlorna en rule of three er doorheen en casten dispel magic met een nat 20! De portal sluit, net voor Grazt't neus. Een van onze nieuwe allies banisht de kikkerdemoon. Nu zijn er alleen nog wat dredge demons. 
+Uit de gang komen nog vliegende demons aan. Een oudere tovenaar en een zwaarbepantserde kerel. Warduk en Squeeze van de league of malevolence. Twee haanachtige beesten vliegen erachteraan.  Warduk en Scram vliegen boven de storm, maar Scram slaat hem dood. Scram pakt zijn zwaard en wordt gewarped. 
+De familiar van Zybilna had de eenhoornhoorn gepakt en probeerde zybilna terug te brengen door Yggwilv te noemen. Het werkt niet. 
+Finnaes vortex warpt Kleer naar de kamer met de wiegjes, met de orb. 
