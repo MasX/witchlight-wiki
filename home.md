@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-10-16T20:08:14.554Z
+date: 2026-10-16T20:12:39.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -835,4 +835,4 @@ Uit de gang komen nog vliegende demons aan. Een oudere tovenaar en een zwaarbepa
 De familiar van Zybilna had de eenhoornhoorn gepakt en probeerde zybilna terug te brengen door Yggwilv te noemen. Het werkt niet. 
 Finnaes vortex warpt Kleer naar de kamer met de wiegjes, met de orb. Hij legt de orb in de mand. Maar hoe komt hij terug zonder boot?
 Huggok vliegt naar de evil wizard en deflect de aanval van zijn cockatrices om hem te verstenen. Hij weet zichzelf nog net op tijd naar vaste grond te misty steppen. 
-Finnaes brengt Zybilna terug. "Wat is hier gebeurt?...".
+Finnaes brengt Zybilna terug. "Wat is hier gebeurt?...". Ze neemt de hoorn en raakt ermee de ketel aan en zegt haar gedicht. 
