@@ -2,7 +2,7 @@
 title: Eriks log
 description: Notes made by Erik
 published: true
-date: 2026-10-16T19:46:19.200Z
+date: 2026-10-16T20:08:14.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:22:01.403Z
@@ -833,4 +833,6 @@ Door de portal, Grazt't op een mooie troon in een prachtige balzaal. Demonen kri
 8 dredge demons komen door de portal. We gooien bavlorna en rule of three er doorheen en casten dispel magic met een nat 20! De portal sluit, net voor Grazt't neus. Een van onze nieuwe allies banisht de kikkerdemoon. Nu zijn er alleen nog wat dredge demons. 
 Uit de gang komen nog vliegende demons aan. Een oudere tovenaar en een zwaarbepantserde kerel. Warduk en Squeeze van de league of malevolence. Twee haanachtige beesten vliegen erachteraan.  Warduk en Scram vliegen boven de storm, maar Scram slaat hem dood. Scram pakt zijn zwaard en wordt gewarped. 
 De familiar van Zybilna had de eenhoornhoorn gepakt en probeerde zybilna terug te brengen door Yggwilv te noemen. Het werkt niet. 
-Finnaes vortex warpt Kleer naar de kamer met de wiegjes, met de orb. 
+Finnaes vortex warpt Kleer naar de kamer met de wiegjes, met de orb. Hij legt de orb in de mand. Maar hoe komt hij terug zonder boot?
+Huggok vliegt naar de evil wizard en deflect de aanval van zijn cockatrices om hem te verstenen. Hij weet zichzelf nog net op tijd naar vaste grond te misty steppen. 
+Finnaes brengt Zybilna terug. "Wat is hier gebeurt?...".
